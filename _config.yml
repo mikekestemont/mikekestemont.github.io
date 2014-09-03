@@ -26,21 +26,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Mike Kestemont
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Academic researcher"
+  email: mike.kestemont@uantwerp.be
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: Mike_Kestemont
+  facebook: Mike Kestemont
   google:
-    plus: #username
+    plus: mike.kestemont
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: mikekestemont
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
