@@ -19,292 +19,77 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-## Installation
-
-Minimal Mistakes now requires [Jekyll](http://jekyllrb.com/) 2.2+. Make sure to run `gem update jekyll` if you aren't on the latest version or `gem install jekyll` if this is your first time installing it.
-
-If you are creating a new Jekyll site using Minimal Mistakes follow these steps:
-
-1. Fork the [Minimal Mistakes repo](http://github.com/mmistakes/minimal-mistakes/fork).
-2. Clone the repo you just forked and rename it.
-3. [Install Bundler](http://bundler.io) `gem install bundler` and Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
-4. Update `config.yml`, add navigation, and replace demo posts and pages with your own. Full details below.
-
-If you want to use Minimal Mistakes with an existing Jekyll site follow these steps:
-
-1. [Download Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes/archive/master.zip) and unzip.
-2. Rename `minimal-mistakes-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
-4. Remove demo posts/pages and replace with your own posts, pages, and any other content you want to move over.
-5. Update posts' and pages' YAML to match variables used by Minimal Mistakes. Full details below.
-6. Update `_config.yml` and add navigation links. Full details below. 
-
-**Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
-{: .notice}
-
----
-
-## Scaffolding
-
-How Minimal Mistakes is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
-
-{% highlight text %}
-minimal-mistakes/
-├── _includes/
-|    ├── _author-bio.html        # bio stuff layout. pulls optional owner data from _config.yml
-|    ├── _browser-upgrade.html   # prompt to install a modern browser for < IE9
-|    ├── _disqus_comments.html   # Disqus comments script
-|    ├── _footer.html            # site footer
-|    ├── _head.html              # site head
-|    ├── _navigation.html        # site top navigation
-|    ├── _open-graph.html        # Twitter Cards and Open Graph meta data
-|    └── _scripts.html           # site scripts
-├── _layouts/
-|    ├── home.html               # homepage layout
-|    ├── page.html               # page layout
-|    ├── post-index.html         # post index layout
-|    └── post.html               # single post layout
-├── _posts/                      # MarkDown formatted posts
-├── _sass/                       # Sass stylesheets
-├── _templates/                  # used by Octopress to define YAML variables for new posts/pages
-├── about/                       # sample about page
-├── assets/
-|    ├── css/                    # compiled stylesheets
-|    ├── fonts/                  # webfonts
-|    ├── js/
-|    |   ├── _main.js            # main JavaScript file, plugin settings, etc
-|    |   ├── plugins/            # scripts and jQuery plugins to combine with _main.js
-|    |   ├── scripts.min.js      # concatenated and minified _main.js + plugin scripts
-|    |   └── vendor/             # vendor scripts to leave alone and load as is
-|    └── less/
-├── images/                      # images for posts and pages
-├── 404.md                       # 404 page
-├── feed.xml                     # Atom feed template
-├── index.md                     # sample homepage. lists 5 latest posts 
-├── posts/                       # sample post index page. lists all posts in reverse chronology
-└── theme-setup/                 # theme setup page. safe to remove
-{% endhighlight %}
-
----
-
-## Site Setup
-
-A quick checklist of the files you'll want to edit to get up and running.
-
-### Site Wide Configuration
-
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
-
-#### title
-
-The title of your site... shocker!
-
-Example `title: My Awesome Site`
-
-#### url
-
-Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
-
-Examples:
-
-{% highlight yaml %}
-url: http://mmistakes.github.io/minimal-mistakes
-url: http://localhost:4000
-url: http://mademistakes.com
-url: 
-{% endhighlight %}
-
-#### Google Analytics and Webmaster Tools
-
-Google Analytics UA and Webmaster Tool verification tags can be entered under `owner` in `_config.yml`. For more information on obtaining these meta tags check [Google Webmaster Tools](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=35179) and [Bing Webmaster Tools](https://ssl.bing.com/webmaster/configure/verify/ownership) support.
-
-### Navigation Links
-
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
-
-{% highlight yaml %}
-- title: Portfolio
-  url: /portfolio/
-
-- title: Made Mistakes
-  url: http://mademistakes.com  
-{% endhighlight %}
-
----
-
-## Adding New Content
-
-Install the [Octopress](https://github.com/octopress/octopress) gem if it isn't already.
-
-{% highlight bash %}
-$ gem install octopress --pre
-{% endhighlight %}
-
-### New Post
-
-Default command
-
-{% highlight bash %}
-$ octopress new post "Post Title"
-{% endhighlight %}
-
-Default works great if you want all your posts in one directory, but if you're like me and want to group them into subfolders like `/posts`, `/portfolio`, etc. Then this is the command for you. By specifying the DIR it will create a new post in that folder and populate the `categories:` YAML with the same value.
-
-{% highlight bash %}
-$ octopress new post "New Post Title" --dir posts
-{% endhighlight %}
-
-### New Page
-
-To create a new page use the following command.
-
-{% highlight bash %}
-$ octopress new page new-page/
-{% endhighlight %}
-
-This will create a page at `/new-page/index.md`
-
----
-
-## Layouts and Content
-
-Explanations of the various `_layouts` included with the theme and when to use them.
-
-### Post and Page
-
-These two layouts are very similar. Both have an author sidebar, allow for large feature images at the top, and optional Disqus comments. The only real difference is the post layout includes related posts at the end of the page.
-
-### Post Index Page
-
-A [sample index page]({{ site.url }}/posts/) listing all posts grouped by the year they were published has been provided. The name can be customized to your liking by editing a few references. For example, to change **Posts** to **Writing** update the following:
-
-* In `_config.yml` under `links:` rename the title and URL to the following:
-{% highlight yaml %}
-  links:
-  - title: Writing
-    url: /writing/
-{% endhighlight %}
-* Rename `posts/index.md` to `writing/index.md` and update the YAML front matter accordingly.
-* Update the **View all posts** link in the `post.html` layout found in `_layouts` to match title and URL set previously.
-
-### Feature Images
-
-A good rule of thumb is to keep feature images nice and wide so you don't push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices. If you want to serve these images responsively I'd suggest looking at the [Jekyll Picture Tag](https://github.com/robwierzbowski/jekyll-picture-tag) plugin[^plugins].
-
-[^plugins]: If you're using GitHub Pages to host your site be aware that plugins are disabled. You'll need to build your site locally and then manually deploy if you want to use this sweet plugin.
-
-The post and page layouts make the assumption that the feature images live in the `images/` folder. To add a feature image to a post or page just include the filename in the front matter like so. It's probably best to host all your images from this folder, but you can hotlink from external sources if you desire.
-
-{% highlight yaml %}
-image:
-  feature: feature-image-filename.jpg
-  thumb: thumbnail-image.jpg #keep it square 200x200 px is good
-{% endhighlight %}
-
-To add attribution to a feature image use the following YAML front matter on posts or pages. Image credits appear directly below the feature image with a link back to the original source if supplied.
-
-{% highlight yaml %}
-image:
-  feature: feature-image-filename.jpg
-  credit: Michael Rose #name of the person or site you want to credit
-  creditlink: http://mademistakes.com #url to their site or licensing
-{% endhighlight %}
-
-### Thumbnails for OG and Twitter Cards
-
-Feature and thumbnail images are used by [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) as well. If you don't assign a thumbnail the default graphic *(default-thumb.png)* is used. I'd suggest changing this to something more meaningful --- your logo or avatar are good options.
-
-**Pro-Tip**: You need to [apply for Twitter Cards](https://dev.twitter.com/docs/cards) before they will begin showing up when links to your site are shared.
-{:.notice}
-
-### Author Override
-
-By making use of data files you can assign different authors for each post.
-
-Start by modifying `authors.yml` file in the `_data` folder and add your authors using the following format.
-
-{% highlight yaml %}
-# Authors
-
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: +BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: +CorneliusFiddlebone
-{% endhighlight %}
-
-To assign Billy Rick as an author for our post. We'd add the following YAML front matter to a post:
-
-{% highlight yaml %}
-author: billy_rick
-{% endhighlight %}
-
-### Table of Contents
-
-Any post or page that you want a *table of contents* to render insert the following HTML in your post before the actual content. [Kramdown will take care of the rest](http://kramdown.rubyforge.org/converter/html.html#toc) and convert all headlines into a contents list.
-
-**PS:** The TOC is hidden on small devices because I haven't gotten around to optimizing it. For now it only appears on larger screens (tablet and desktop).
-{: .notice}
-
-{% highlight html %}
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
-{% endhighlight %}
-
-#### Videos
-
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
-
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
-
-{% highlight html %}
-<iframe width="560" height="315" src="http://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>
-{% endhighlight %}
-
----
-
-## Further Customization
-
-Jekyll 2.x added support for Sass files making it much easier to modify a theme's fonts and colors. By editing values found in `_sass/variables.scss` you can fine tune the site's colors and typography.
-
-For example if you wanted a red background instead of white you'd change `$bodycolor: #fff;` to `$bodycolor: $cc0033;`.
-
-To modify the site's JavaScript files I setup a Grunt build script to lint/concatenate/minify all scripts into `scripts.min.js`. [Install Node.js](http://nodejs.org/), then [install Grunt](http://gruntjs.com/getting-started), and then finally install the dependencies for the theme contained in `package.json`:
-
-{% highlight bash %}
-npm install
-{% endhighlight %}
-
-From the theme's root, use `grunt` concatenate JavaScript files, and optimize .jpg, .png, and .svg files in the `images/` folder. You can also use `grunt dev` in combination with `jekyll build --watch` to watch for updates JS files that Grunt will then automatically re-build as you write your code which will in turn auto-generate your Jekyll site when developing locally.
-
----
-
-## Questions?
-
-Found a bug or aren't quite sure how something works? By all means Ping me on Twitter [@mmistakes](http://twitter.com/mmistakes) or [file a GitHub Issue](https://github.com/mmistakes/minimal-mistakes/issues/new). And if you make something cool with this theme feel free to let me know.
-
----
-
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
+##2008
+* Kestemont, M., ‘Alliteratieve literatuur in de Lage Landen. De pre-historie van onze letterkunde’. Paper presented at Grenzeloos. Conferentie voor letterkundige neerlandici. Utrecht University, 18-20/09/2008.
+
+##2009
+* Kestemont, M., ‘Dichters in beeld. De vaders van de ‘Dietsche’ letterkunde’. Lecture given at Welkom in de Felix Claesstraat! Literair erfgoed in het straatbeeld. Antwerp (AMCV), 22/04/2009.
+* Kestemont, M., ‘Wat valt te rijmen. Een computergebaseerd onderzoek naar de rijmzuiverheid van de Middelnederlandse ridderepiek’. Paper presented at the VNC-workshop De ridderepiek omstreeks 1300. Wassenaar (NIAS), 5-6/03/2009.
+* Kestemont, M., ‘The Odd One Out? Middle Dutch Rhymed Epic Literature from a bird’s eye-perspective’. Paper presented at HLLNSA 09. Historical Language and Literacy in the North Sea Area. University of Stavanger (Norway), 26-28/08/2009.
+* Kestemont, M., ‘Seghers wapenfeiten. Het huis van Gaasbeek en Seghers Trojeroman‘. Paper presented at the workshop Schrijven in de regio. Volkstalige literaire productie in veertiende-eeuws Brabant (Nijmegen, 28/10/2009).
+* Kestemont, M. & K. Van Dalen-Oskam, ‘Predicting the past: memory-based copyist and author discrimination in medieval epics’. Paper presented at The twenty-first Benelux conference on artificial intelligence (BNAIC 2009, Eindhoven, 30/10/2009).
+* Kestemont, M., ‘21 grams, the weight of the author? The acclaimed robustness of n-grams in authorship verification and the case of medieval rhymed epics’. Working paper presented at ATILA 09. Annual research meeting of CLiPS, ILK & LT3. Corsendonk, 9-10/11/2009.
+
+##2010
+* Kestemont, M., W. Daelemans & G. De Pauw, ‘Weigh your words: Memory-based lemma-retrieval for Middle Dutch literary texts’. Paper presented at CLIN 2010. Computational linguistics in the Netherlands 20. Utrecht University, 05/02/2010.
+* Kestemont, M., ‘Deen rijmt cort, dander lanc. Stylometrische auteursverificatie in Middelnederlandse kronieken op basis van rijmwoordenschat’. Paper presented at the PhD day of the ‘Vlaamse werkgroep Mediëvistiek’ (Ghent, 10/05/2010).
+* Kestemont, M., ‘De mens zelf?  De (on)mogelijkheden van stylometrie en auteursattributie voor middeleeuwse literatuur’. Invited talk presented in BA-course at Radboud University Nijmegen (Nijmegen, 11/05/2010).
+* Kestemont, M., ‘Deen rijmt cort, dander lanc. Stylometrische auteursverificatie in Middelnederlandse kronieken op basis van rijmwoordenschat’. Presentation for the Compania de Gay Saber (Internal report, University of Antwerp, 27/05/2010).
+* Kestemont, M., Daelemans, W. & De Pauw, G., ‘Space traveling: Assessing the ‘soundness’ of class labels in memory-based learning and the case of Middle Dutch spelling variation’. Presentation at The 19th Annual Belgian-Dutch Conference on Machine Learning (Benelearn 2010) (Leuven, 28/05/2010).
+* Kestemont, M., ‘The Robustness of Rhyme Words in Bypassing Scribal variation for Medieval Authorship Attribution’. Conference talk at Digital Humanities 2010 (DH2010) (London, UK, 10/07/2010) [part of the panel session 'Computational Approaches to textual variation in medieval literature', by K. Van Dalen-Oskam; J. Thaisen & M. Kestemont].
+* Stoop, P. & M. Kestemont, ‘Stylome or Phantom? The (Ac)Claimed Authorship of the Jericho Sister Scribes’. Joint conference talk at Between Stability and Transformation. Textual Tradition in the Medieval Netherlands (Ghent, 21/09/2010).
+* Kestemont, M., ‘Track Changes. Testing the Hypothesis of ‘Epic Convergenre’ in Middle Dutch Epic Literature through a Large-Scale Comparison of Rhyme Words’. Conference talk at Between Stability and Transformation. Textual Tradition in the Medieval Netherlands (Ghent, 22/09/2010).
+* Kestemont, M., ‘The author et al. Medieval authorship attribution and the case of the Battle of the Golden Spurs’. Paper presented at ATILA 2010. Annual research meeting of CLiPS, ILK & LT3. Ostend, 24/10/2010.
+* Kestemont, M., ‘Het geheim van de Slag der Gulden Sporen. ‘Plagiaat’ in de middeleeuwen’. Popularising talk presented at the CLiPS session about stylometry for the Flemisch Science Week (Vlaamse Wetenschapsweek). Antwerp, 25/11/2010.
+
+##2011
+* Kestemont, M., ‘Het gewicht van de auteur. De ‘balans’ van een stylometrisch onderzoek naar de rijmwoorden en auteurs van de Middelnederlandse epiek’. Discussion paper presented at Crossover. Derde congres Nederlandse Literatuur (Leyden, 12/01/2011 ).
+* Kestemont, M., ‘Robust Rhymes? The Stability of Authorial Style in Medieval Narratives’. Conference paper presented at CLIN 21 (2011). Computational Linguistics in the Netherlands (Ghent University College, 12/02/2011).
+* Kestemont, M., Daelemans, W. & De Pauw, G., ‘Building a lemmatizer for the Corpus-Gysseling’. Paper presented at Galatea II. Old(er) Dutch and new, digital research opportunities (University of Antwerp, 18/02/2011).
+* Kestemont, M., ‘In the Face of Variation. Challenges and Opportunities for Computational Philology’. Invited keynote presented at the “e-Humanities — Innovating Scholarship” Brainstorm meeting at the NIAS-institute (Wassenaar, 29/03/2011).
+* Kestemont, M., ‘Karelepiek in Rijks-Vlaanderen. De Middelnederlandse Fierabras als streekliteratuur’. Invited talk presented for the annual spring meeting of the Dutch department of the Société Rencesvals (Utrecht, 09/04/2011).
+* Kestemont, M., ‘The Author and the School: Authorship Detection and the Case of the Antwerp Poets, c. 1300-1350′. Congress talk at the International Medieval Congress 2011 (IMC2011) (Leeds, UK, 11-14 July 2011) [part of session 'Whodunit?: Literary Forensics and Authorship Attribution for the Middle Ages', by K. van Dalen-Oskam, R.J. Stapel & M. Kestemont].
+* Kestemont, M., Luyckx, K. & Daelemans, W., ‘Intrinsic Plagiarism Detection Using Character Trigram Distance Scores – Notebook for PAN at CLEF 2011′. Conference talk at the PAN 2011 Lab: Uncovering Plagiarism, Authorship, and Social Software Misuse, held in conjunction with the CLEF 2011 Conference on Multilingual and Multimodal Information Access Evaluation (Amsterdam, 22/09/2011).
+
+##2012
+* Kestemont, M., ‘Stylometrie voor dummies’. Invited tutorial presented at Neerlandistiek in het nieuws (Nijmegen, 26/01/2012).
+* Kestemont, M., Luyckx, K., Daelemans, W. & Crombez, T., “Cross-Genre Authorship Verification Using Unmasking”. Conference paper presented at CLIN 22 (2012). Computational Linguistics in the Netherlands (Tilburg University, 20/01/2012).
+* Kestemont, M., “In the Face of Variation. Challenges and Opportunities for Computational Philology”. Invited talk at the “Launch Meeting of the e-Humanities Lab” at the University of Tilburg (Tilburg, 15/02/2012).
+* Kestemont, M. & Schepers, K., “Stylometric Explorations of the Implied Dual Authorship in the Epistolae duorum amantium“. Talk presented at Methods and means for digital analysis of ancient and medieval texts and manuscripts (Leuven/Brussels, 2-3/04/2012).
+* Kestemont, M., “The Weight of the Author. Quantitative authorship attribution in medieval Dutch literature”. Invited lecture at the Max Planck Institute for Psycholinguistics / The Language Archive, inaugural lecture of the TLA Lecture Series on E-Humanities (Nijmegen, 09/05/2012).
+* Kestemont, M., Luyckx, K., Daelemans, W. & Crombez, T., ‘Evaluating Unmasking for Cross-Genre Authorship Verification’. Conference paper presented at Digital Humanities (DH 2012), University of Hamburg, Germany (18 July 2012).
+* Kestemont, M., “Wat kan de stylometrie leren?”, Invited MA tutorial at Radboud Universiteit Nijmegen (The Netherlands) for Judith Kessler and Johan Oosterman (Nijmegen, The Netherlands, 9 Octobre 2012).
+* Kestemont, M. (with the cooperation of G. Croenen), Authorial and Scribal Stylome Recognition. Informal presentation at Journées d’étude: la lemmatisation du Moyen Français (University of Liverpool, 15-16 octobre 2012).
+* Kestemont, M., Middeleeuwse stylomen. Presentation of my postdoc project at the Second Goliath Postdoc day (Utrecht, The Netherlands, 19/10/2010).
+* Kestemont, M., De mythe van de minstreeltekst. Archaïsering en oralisering in de Middelnederlandse ridderliteratuur. Lecture at the colloquium Performance. Littérature, images, événements. Journée d’étude du R.M.B.L.F., du Vlaamse Werkgroep Mediëvistiek et de la Société Internationale de Littérature Courtoise, University College Brussels (23 November 2012).
+* Kestemont, M., ‘Forensische filologie. Stylometrische auteursherkenning in de Nederlandstalige literatuur uit de middeleeuwen’. Popularizing lecture given at the presentation of the Award Frans van Cauwelaert at the Paleis der Academieën (20/12/2012, Royal Flemish Academy of Belgium for Sciences and the Arts).
+* Kestemont, M., ‘Het gewicht van de auteur. Kwantitatieve auteursherkenning in Middelnederlandse literatuur’. Guest lecture, together with Antal van den Bosch, at the Radboud University Nijmegen for a Core-Curriculum course in the Humanities (theme: “words”, organized by Peter de Swart, 11 december 2012).
+* Kestemont, M., ‘Old Wine in New Skins: Computational Stylistics as an Auxiliary Tool for Middle Dutch Philology’. Invited talk at the colloquium “Philology between Old and New”, organized by the VUB Linguistics Seminars (WOT) and the VUB Literature and Culture Seminars (WOLEC) (18 December 2012, Free University of Brussels).
+
+##2013
+* Kestemont, M. (i.s.m. Hogenbirk, M.), ‘Serendipiteit in de wetenschap: kan de stylometrie dit afdwingen?’. Invited talk at a colloquium (‘Handgemaakte inzichten’: digitale technieken in de letterkunde) organized at the occassion of the inaugural address of K. van Dalen-Oskam at the University of Amsterdam (1 February 2013, University of Amsterdam).
+* Kestemont, M., ‘Computation in style. Linguistic authorship attribution in historic and modern texts’. Invited talk at the Scientific Interdisciplinary Seminar organized by the Department of Mathematics and Computer Science (20/02/2013, University of Antwerp).
+* Gabriël, R. & Kestemont, M., Cherry Picking. A Study of Manuscript Ghent, UL, 1374 in the Context of the Book Collection of the Charterhouse of Herne. Paper presented at Dynamics of the Medieval Manuscript Conference (25-28/04/2013, Utrecht University).
+* Kestemont, M., ‘Lezen vanop afstand. Digital Humanities en de computationele analyse van middeleeuwse literatuur’. Invited talk at the Catholic University of Leuven, dept. of Linguistics, research team ‘Onderzoeksgroep Nederlandse Grammatica en Taalgebruik’ (Leuven, 27 mei 2013).
+* Kestemont, M., ‘Lezen vanop afstand. Digital Humanities en de computationele analyse van middeleeuwse literatuur‘. Invited talk at the HUBrussels CRISSP Seminar series (Brussels, 3 June 2013).
+* Kestemont, M. (in close collab. with S. Moens & J. Deploige), ‘Computational Text Analysis and Medieval Literature: A Distant Reading’ (talk presented at the three-day Digital Humanities workshop ‘Digital Documents, Digital Approaches. Mark-up, Analysis and Representation of Medieval Texts: Theory and Practices’, Ghent University, 5-7 september 2013).
+* Kestemont, M., ‘Imperial Flanders. Regional literature and the case of the Carolingian epic’. Lecture held at the congress: 54es Rencontres du centre Européen d’études Bourguignonnes: Culture historique : la cour, les pays, les villes dans les anciens Pays-Bas (XIVe-XVIe siècles). Leyden/The Hague (19-22 september 2013).
+* Kestemont, M. & J. Deploige (joint work with S. Moens), ‘Stylometry Applied to Medieval Latin. An Analysis of Authorship in the Twelfth Century’ (presentation at the Henri Pirenne Institute Autumn School in Historical Languages 2013, Ghent University, 21-23 Octobre 2013).
+* Karsdorp, F. & Kestemont, M. (together with A. van den Bosch, W. Daelemans & D. Roth), “Mining the Twentieth Century’s History from the TIME Magazine Corpus”. Keynote presented at Patterns in Narrative Texts. NWO-CATCH meeting by FACT, Meertens Institute, Amsterdam, The Netherlands (13/12/2013).
+
+##2014
+* Kestemont, M., ‘A Distant Reading of a Distant Past: Computational Text Analysis and Medieval Literature’. Talk as part of Leipzig eHumanities Seminar (Leipzig University, Germany, 15/01/2014) [abstract].
+* Karsdorp, F. & Kestemont, M. (together with Dong Nguyen, D. Roth, A. van den Bosch & W. Daelemans), “Mining the Twentieth Century’s History from the TIME Magazine Corpus”. Conference paper presented at CLIN 24 (2014). Computational Linguistics in the Netherlands (Leiden University, The Netherlands, 17/01/2014)
+* Kestemont, M., ‘Serendipiteit in de literatuurwetenschap. Kan de stylometrie dit afdwingen?’. Guest lecture, dept. Linguistics, University of Ghent, 12/03/2014.
+* Folgert Karsdorp & Mike Kestemont, with Dong Nguyen, Dan Roth, Antal van den Bosch & Walter Daelemans, Learning to Rank Time Magazine’s
+Person of the Year. Invited talk at Joint Machine Learning/Information Foraging Lab Colloquium (Radboud University Nijmegen, The Netherlands, 11 April 2014).
+* Kestemont, M., Karsdorp, F. & M. Düring, ‘Mining the 20th Century’s History from the Time Magazine Corpus’, Oral presentation at the Language Technology for Cultural Heritage, Social Sciences, and Humanities Workshop, co-located with the 14th Conference of the European Chapter of the Association for Computational Linguistics (Gothenburg, Sweden, 26 April 2014).
+* Kestemont, M., ‘Function Words in Authorship Attribution. From Black Magic to Theory?’. Oral presentation at the Computational Linguistics for Literature Workshop, co-located with the 14th Conference of the European Chapter of the Association for Computational Linguistics (Gothenburg, Sweden, 27 April 2014).
+* Bram Vandekerckhove & Mike Kestemont, with Kate Nation, Stephen Pulman & Victoria Murphy, ‘Mining World Views from the BBC 500 Words Corpus’, Invited talk at the Oxford Children’s Corpus Workshop, BBC Radio 2 500 Words 2014 (Oxford University Press, UK, 24 April 2014).
+* Kestemont, M. (with S. Moens and J. Deploige). ‘Collaborative Authorship in the Twelfth Century. A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux’. Guest Lecture at the ULB/VUB, in the MA-Course “Current trends in AI” (Brussels, 9 May 2014).
+* Kestemont, M., G. de Pauw, R. van Nie & W. Daelemans, “Towards a General Purpose Tagger-Lemmatizer for Pre-Modern Dutch”. Conference talk presented at the Digital Humanities 2014 Benelux Conference (The Hague, 12-13 June 2014).
+
+##Posters
+* Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the 14e Vlaams-Nederlandse Mediëvistendag. Norm en afwijking, remedie en repressie. De aanpak van het deviante in de middeleeuwen (Louvain, 31/10/2008, organized by the Vlaamse Werkgroep mediëvistiek).
+* Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the CNTS (CLiPS) Research Assembly (Antwerp, 7/11/2008).
+ 
