@@ -28,10 +28,30 @@
   </div><!-- /.image-wrap -->
 {% endif %}
 
+<div id="main" role="main">
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+    </div><!-- /.article-wrap -->
+    {% if site.owner.disqus-shortname and page.comments == true %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+
 <div class="article-author-side">
   {% include _author-bio.html %}
 </div>
 
+<div id="index">
+  <h3><a href="{{ site.url}}/about/">About</a></h3>
+
+<p>I am currently a non-tenured researcher at the University of Antwerp in Belgium (departments of Linguistics and Literature), working as a postdoc on a grant of the Research Foundation of Flanders. I enjoy research in computational text analysis, in particular for historic texts. Much of my work can be situated in the Digital Humanities, an international movement in which scholars from the conventional Humanities (linguistics, literary studies, history, ...) explore how digital methods and computation can support and enhance traditional forms of research and teaching. Recent advances in computing technologies have, for instance, made it possible to mine cultural insights from immense text collections via "Distant Reading". Our era thus has the historic privilege of being to able to witness and stimulate the emergence of exciting new computational research possibilities, across the Humanities at large.</p>
+
+<p>Authorship attribution is one of my main areas of expertise: in the innovative research domain of stylometry (computational stylistics), we design computational algorithms which can automatically identify the authors of anonymous texts through the quantitive analysis of individual writing styles. In my current research, I apply stylometry to medieval literature, which has often survived anonymously. Computational analyses have the advantage that they induce serendipity in textual analysis: a computer makes us aware of things that the eye of the human reader tends to skip. In the past, I have taught various courses and workshops on Corpus and Computational Linguistics, Programming for the Humanities and medieval philology, in particular Middle Dutch literature. I code in Python, tweet in English, and live in Brussels. If you are interested in collaborating, feel free to drop me a line.</p>
+</div>
+<!--
 <div id="index">
   <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
   {% for post in site.posts limit:5 %}    
@@ -44,8 +64,8 @@
     {% endif %}
   </article>
   {% endfor %}
-</div><!-- /#index -->
-
+</div>
+-->
 <div class="footer-wrap">
   <footer>
     {% include _footer.html %}

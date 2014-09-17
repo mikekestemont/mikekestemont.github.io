@@ -39,13 +39,11 @@ image:
 * Kestemont, M.; Luyckx, K.; Daelemans, W. & Crombez, T., 'Cross-Genre Authorship Verification Using Unmasking', *English Studies. A journal of English language and literature* 93:3 (2012), 348-364 [special issue about authorship attribution (eds. J.C. Martin & A. Miranda)].
 
 ####2011
-* Kestemont, M., 'Het gewicht van de auteur. Reflecties over auteursattributie in samenleving en wetenschap' ['The Weight of the Author. Reflections on Authorship Attribution in Society and Academia'], in *Streven. Cultureel maatschappelijk maandblad* 78:3 (2011), 234-244.
 * Kestemont, M., 'What can Stylometry Learn from its Application to Middle Dutch Literature?', in: *Journal of Dutch Literature* 2:2 (2011), 46-65.
 * Kestemont, M. 'De meesters van de Spiegel. Auteursonderscheiding op basis van het frequente rijmwoord in het aandeel van Utenbroeke en Maerlant in de *Spiegel historiael*' ['The Masters of the Mirror. Authorship Discrimination Based on Frequent Rhymes in the Shares by Utenbroeke and Maerlant in the Middle Dutch *Speculum Historiale*'], *Tijdschrift voor Nederlandse Taal- en Letterkunde* 127:2 (2011), 97-121.
 * Kestemont, M., 'Tussen feit en fictie. Over Roelands wapenschild en een Zuid-Vlaams ontstaansmilieu voor de Middelnederlandse *Fierabras*' [Between Fact and Fiction. About Roland's Weapon Shield and a Southern Flemish Origin for the Middle Dutch *Fierabras*], in *Nederlandse letterkunde* 16:1 (2011), 1-18.
 * Caers, B. & Kestemont, M., 'De datering van de Middelnederlandse ridderepiek' ['Dating Middle Dutch Chivalric Epics'], in *Verslagen en mededelingen van de koninklijke academie voor Nederlandse taal- en letterkunde* 121:1 (2011), 1-59.
 * Kestemont, M., 'Een stylometrisch onderzoek naar Jan van Boendales auteurschap voor de Brabantse Yeesten' ['A Stylometric Investigation of Jan of Boendale's Authorship for the Feats of Brabant'], *Revue Belge de Philologie et d’Histoire — Belgisch Tijdschrift voor Filologie en Geschiedenis* 89:3-4 (2011), 1019-1048.
-* Kestemont, M., 'Plagiaat in de Guldensporenslag' ['Plagiarism in the Battle of the Golden Spurs'], in: *Eos. Actueel maandblad over wetenschapen technologie* 27:1 (2011), 36-39.
 
 ####2010
 * Kestemont, M., 'Velthem et al. A stylometric analysis of the rhyme words in the account of the Battle of the Golden Spurs in the fifth part of the 'Spiegel historiael', in: *Queeste. Journal of Medieval Literature in the Low Countries* 17:1 (2010), 1-34.
@@ -83,3 +81,8 @@ image:
 * Kestemont, M., ‘Het krassen van de raaf’. Review of *Tiecelijn* 1 (2008). In: *Spiegel der Letteren* 51:3 (2009), 403-405.
 * Kestemont, M., 'Eind goed, al goed?'. Review of R. Draux, *Beatrijs’ biecht. Stilistisch en semiotisch onderzoek*. Saarbrücken, 2009. In: *Queeste. Journal of Medieval Literature in the Low Countries* 18:1 (2011), 81-84.
 * Kestemont, M., Review of: *Macroanalysis. Digital Methods and Literary History*. By Matthew L. Jockers. In: *LLC. The Journal of Digital Scholarship in the Humanities* [advance access; doi:10.1093/llc/fqt056].
+
+### General public
+* Kestemont, M., 'EACL toont ook de muziek van de literatuur' ['EACL also Shows Music in Literature'], in *E-data & Research*8:3 (2014), p. 2. 
+* Kestemont, M., 'Het gewicht van de auteur. Reflecties over auteursattributie in samenleving en wetenschap' ['The Weight of the Author. Reflections on Authorship Attribution in Society and Academia'], in *Streven. Cultureel maatschappelijk maandblad* 78:3 (2011), 234-244.
+* Kestemont, M., 'Plagiaat in de Guldensporenslag' ['Plagiarism in the Battle of the Golden Spurs'], in: *Eos. Actueel maandblad over wetenschapen technologie* 27:1 (2011), 36-39.

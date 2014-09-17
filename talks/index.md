@@ -92,4 +92,9 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 ##Posters
 * Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the 14e Vlaams-Nederlandse Mediëvistendag. Norm en afwijking, remedie en repressie. De aanpak van het deviante in de middeleeuwen (Louvain, 31/10/2008, organized by the Vlaamse Werkgroep mediëvistiek).
 * Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the CNTS (CLiPS) Research Assembly (Antwerp, 7/11/2008).
+
+##Panels
+* Participation in panel with Van Zundert, Joris (convenor); Jannidis, Fotis; Drucker, Johanna; Rockwell, Geoffrey; Underwood, Ted; Andrews, Tara, ‘What is Modeling and What is Not?’, *Digital Humanities 2014* (Lausanne, Switserland, 10/07/2014).
+* Participation in panel with Svetlana Lutchitskaya, Claire McIlroy, Nada Zečevič, ‘Heritages: A Round Table’, *Annual Meeting of CARMEN, the international medieval network* (Stirling, Scotland, 11 September 2014).
+
  
