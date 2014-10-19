@@ -88,6 +88,7 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 * Bram Vandekerckhove & Mike Kestemont, with Kate Nation, Stephen Pulman & Victoria Murphy, ‘Mining World Views from the BBC 500 Words Corpus’, Invited talk at the Oxford Children’s Corpus Workshop, BBC Radio 2 500 Words 2014 (Oxford University Press, UK, 24 April 2014).
 * Kestemont, M. (with S. Moens and J. Deploige). ‘Collaborative Authorship in the Twelfth Century. A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux’. Guest Lecture at the ULB/VUB, in the MA-Course “Current trends in AI” (Brussels, 9 May 2014).
 * Kestemont, M., G. de Pauw, R. van Nie & W. Daelemans, “Towards a General Purpose Tagger-Lemmatizer for Pre-Modern Dutch”. Conference talk presented at the Digital Humanities 2014 Benelux Conference (The Hague, 12-13 June 2014).
+* Kestemont, M., “Stylometry with R: An Introduction”. 2-hour guest course about stylometry for computational literary studies at the University of Amsterdam (Amsterdam, 3 October 2014).
 
 ##Posters
 * Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the 14e Vlaams-Nederlandse Mediëvistendag. Norm en afwijking, remedie en repressie. De aanpak van het deviante in de middeleeuwen (Louvain, 31/10/2008, organized by the Vlaamse Werkgroep mediëvistiek).
