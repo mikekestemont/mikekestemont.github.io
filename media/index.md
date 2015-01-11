@@ -39,8 +39,8 @@ A video squib on my specific nomination can be viewed here (Dutch audio, no subt
 ### Media coverage
 These awards and media coverage emphasize how the Digital Humanities have momentum in the eyes of the general public too. My research has featured a couple of times in national newspapers in the Low Countries or on the radio. Check out some of links below.
 
-* De Standaard
-* De Morgen
-* Eos
-* Radio1
-
+* Primetime [interview](https://raw.githubusercontent.com/mikekestemont/mikekestemont.github.io/master/pdf/Radio12012.mp3) on Radio 1 about the author of *Karel ende Elegast*
+* I was interviewed for a [longer article](https://github.com/mikekestemont/mikekestemont.github.io/raw/master/pdf/Volkskrant2012.pdf) on Distant Reading in *De Volkskrant* by R.-J. Friele.
+* My research was mentioned in a [column](https://github.com/mikekestemont/mikekestemont.github.io/raw/master/pdf/NRC2013.pdf) by Nicoline van der Sijs in *NRC Handelsblad* 
+* My research on authorship of *Karel ende Elegast* was covered in [*De standaard*](https://github.com/mikekestemont/mikekestemont.github.io/raw/master/pdf/DeStandaard2012.pdf) and [*De Morgen*](https://github.com/mikekestemont/mikekestemont.github.io/raw/master/pdf/DeMorgen2012.png)
+* I wrote an [accessible piece](https://github.com/mikekestemont/mikekestemont.github.io/raw/master/pdf/Eos2011.pdf) for the popular scientific magazine *Eos* on plagiarism in  medieval text about the Battle of the Golden Spurs.

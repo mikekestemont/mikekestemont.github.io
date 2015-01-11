@@ -20,7 +20,7 @@ image:
 </section><!-- /#table-of-contents -->
 
 ### In press
-* Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. (2015; in press). Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author. In: Journal of the American Society for Information Science and Technology. Online ISSN: 2330-1643.
+* Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. (2015; in press). Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author. In: *Journal of the American Society for Information Science and Technology*. Online ISSN: 2330-1643.
 * Kestemont, M.; Moens, S. & Deploige, J., 'Collaborative Authorship in the Twelfth Century. A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux'. Accepted for publication/in press with *LLC: The Journal of Digital Scholarship in the Humanities* (2013) at Oxford University Press.
 
 ### Journal papers
