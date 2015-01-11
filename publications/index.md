@@ -26,7 +26,7 @@ image:
 ### Journal papers
 
 ####2014
-Rybicki, J.; Hoover, D. & Kestemont, M. (2014). Collaborative authorship: Conrad, Ford and Rolling Delta’. LLC: The Journal of Digital Scholarship in the Humanities 29:3, pp. 422-431.
+* Rybicki, J.; Hoover, D. & Kestemont, M. (2014). Collaborative authorship: Conrad, Ford and Rolling Delta’. LLC: The Journal of Digital Scholarship in the Humanities 29:3, pp. 422-431.
 
 ####2013
 * Kestemont, M. (2013). 'Produits de terroir? La littérature régionale dans la Flandre impériale et le cas de la chanson de geste moyen-néerlandaise'. *Publications du Centre Européen d'Etudes Bourguignonnes* 54, pp. 37-55.
