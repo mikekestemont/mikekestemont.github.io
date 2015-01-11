@@ -20,13 +20,16 @@ image:
 </section><!-- /#table-of-contents -->
 
 ### In press
-
-* Rybicki, J.; Hoover, D. & Kestemont, M., 'Collaborative authorship: Conrad, Ford and Rolling Delta', in: *LLC: The Journal of Digital Scholarship in the Humanities* (2014) at Oxford University Press, doi:10.1093/llc/fqu016 (pp. 10).
+* Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. (2015; in press). Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author. In: Journal of the American Society for Information Science and Technology. Online ISSN: 2330-1643.
 * Kestemont, M.; Moens, S. & Deploige, J., 'Collaborative Authorship in the Twelfth Century. A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux'. Accepted for publication/in press with *LLC: The Journal of Digital Scholarship in the Humanities* (2013) at Oxford University Press.
 
 ### Journal papers
 
+####2014
+Rybicki, J.; Hoover, D. & Kestemont, M. (2014). Collaborative authorship: Conrad, Ford and Rolling Delta’. LLC: The Journal of Digital Scholarship in the Humanities 29:3, pp. 422-431.
+
 ####2013
+* Kestemont, M. (2013). 'Produits de terroir? La littérature régionale dans la Flandre impériale et le cas de la chanson de geste moyen-néerlandaise'. *Publications du Centre Européen d'Etudes Bourguignonnes* 54, pp. 37-55.
 * De Bruijn, E. & Kestemont, M., 'Contrastive Multivariate Analyses of the Middle Low German Flos unde Blankeflos Tradition', in: *Neuphilologische Mitteilungen. Bulletin of the Modern Language Society* 114:2 (2013), pp. 171-205.
 * Hogenbirk, M. & Kestemont, M., 'Het werk van een klerk. Een stylometrische verkenning van het auteurschap achter *Der ystorien bloeme*' [The Work of a Clerk. A Stylometric Exploration of the Authorship behind 'The Flower of History'], *Tijdschrift voor Nederlandse Taal- en Letterkunde* 129:4 (2013), 246-273.
 * Kestemont, M., 'Arthur's Authors. A Quantitative Study of the Rhyme Words in the Middle Dutch Arthurian Epic', in: *Zeitschrift für deutsches Altertum und deutsche Literatur* 142:1 (2013), pp. 1-33.
@@ -67,7 +70,6 @@ image:
 * Kestemont, M., 'Function Words in Authorship Attribution. From Black Magic to Theory?'. *Proceedings of the Third Computational Linguistics for Literature Workshop, co-located with EACL 2014 – the 14th Conference of the European Chapter of the Association for Computational Linguistics (27 April 2014, Gothenburg, Sweden)*, pp. 59-66.
 * Kestemont, M. (in collaboration with Schöch, C.), 'Learning Deep Representations of Characters in Literary History', in: *Digital Humanities 2014* (Lausanne, Switserland, 2014), p. 137. Part of the panel by: Craig, H; Eder, Maciej; Jannidis, Fotis; Kestemont, Mike; Rybicki, Jan; Schöch, Christof, 'Validating Computational Stylistics in Literary Interpretation' (pp. 135-137).
 * Van Zundert, Joris (panel convenor); Jannidis, Fotis; Drucker, Johanna; Rockwell, Geoffrey; Underwood, Ted; Kestemont, Mike; Andrews, Tara, 'What is Modeling and What is Not?', panel at: *Digital Humanities 2014* (Lausanne, Switserland, 2014), p. 63-65.
-* Kestemont, M. (in collaboration with Schöch, C.), 'Learning Deep Representations of Characters in Literary History', in: *Digital Humanities 2014* (Lausanne, Switserland, 2014), p. 137. Part of the panel by: Craig, H; Eder, Maciej; Jannidis, Fotis; Kestemont, Mike; Rybicki, Jan; Schöch, Christof, 'Validating Computational Stylistics in Literary Interpretation' (pp. 135-137).
 
 ### Book contributions
 
