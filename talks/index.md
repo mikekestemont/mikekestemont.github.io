@@ -78,7 +78,7 @@ image:
 * Karsdorp, F. & Kestemont, M. (together with A. van den Bosch, W. Daelemans & D. Roth), “Mining the Twentieth Century’s History from the TIME Magazine Corpus”. Keynote presented at Patterns in Narrative Texts. NWO-CATCH meeting by FACT, Meertens Institute, Amsterdam, The Netherlands (13/12/2013).
 
 ##2014
-* Kestemont, M., ‘A Distant Reading of a Distant Past: Computational Text Analysis and Medieval Literature’. Talk as part of Leipzig eHumanities Seminar (Leipzig University, Germany, 15/01/2014) [abstract].
+* Kestemont, M., ‘A Distant Reading of a Distant Past: Computational Text Analysis and Medieval Literature’. Talk as part of Leipzig eHumanities Seminar (Leipzig University, Germany, 15/01/2014).
 * Karsdorp, F. & Kestemont, M. (together with Dong Nguyen, D. Roth, A. van den Bosch & W. Daelemans), “Mining the Twentieth Century’s History from the TIME Magazine Corpus”. Conference paper presented at CLIN 24 (2014). Computational Linguistics in the Netherlands (Leiden University, The Netherlands, 17/01/2014)
 * Kestemont, M., ‘Serendipiteit in de literatuurwetenschap. Kan de stylometrie dit afdwingen?’. Guest lecture, dept. Linguistics, University of Ghent, 12/03/2014.
 * Folgert Karsdorp & Mike Kestemont, with Dong Nguyen, Dan Roth, Antal van den Bosch & Walter Daelemans, Learning to Rank Time Magazine’s
