@@ -89,6 +89,8 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 * Kestemont, M. (with S. Moens and J. Deploige). ‘Collaborative Authorship in the Twelfth Century. A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux’. Guest Lecture at the ULB/VUB, in the MA-Course “Current trends in AI” (Brussels, 9 May 2014).
 * Kestemont, M., G. de Pauw, R. van Nie & W. Daelemans, “Towards a General Purpose Tagger-Lemmatizer for Pre-Modern Dutch”. Conference talk presented at the Digital Humanities 2014 Benelux Conference (The Hague, 12-13 June 2014).
 * Kestemont, M., “Stylometry with R: An Introduction”. 2-hour guest course about stylometry for computational literary studies at the University of Amsterdam (Amsterdam, 3 October 2014).
+
+##2015
 * Kestemont, M., "Modeling Scribal Variation. The Promise of Unsupervised Methods". Presentation at 'Linguistics Meets Palaeography' (NIAS, Wassenaar, The Netherlands, 11/02/2015)
 
 ##Posters
