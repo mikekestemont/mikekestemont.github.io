@@ -28,6 +28,7 @@ image:
 ####2014
 * Rybicki, J.; Hoover, D. & Kestemont, M. (2014). 'Collaborative authorship: Conrad, Ford and Rolling Delta’. *LLC: The Journal of Digital Scholarship in the Humanities* 29:3, pp. 422-431.
 * Kestemont, M. 'A Shallow Reading of the Limburg Sermons'. *Ons Geestelijk Erf* (2014) 85:3, pp. 145-162. DOI: 10.2143/OGE.85.3.3062090. ISSN : 0774-2827; E-ISSN : 1783-1652.
+* Kestemont, M. 'Serendipiteit en macro-medioneerlandistiek'. *Madoc. Tijdschrift over de Middeleeuwen* (2014) 28:3, pp. 157-165.
 
 ####2013
 * Kestemont, M. (2013). 'Produits de terroir? La littérature régionale dans la Flandre impériale et le cas de la chanson de geste moyen-néerlandaise'. *Publications du Centre Européen d'Etudes Bourguignonnes* 54, pp. 37-55.
