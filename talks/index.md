@@ -20,7 +20,9 @@ image:
 </section><!-- /#table-of-contents -->
 
 ##Selected Courses (extra-curricular)
+
 Co-organized or co-taught courses in programming and computational text analysis for the (Digital) Humanities:
+
 * Python Programming for the Humanities; full-week summer school University of Goettingen (DE); August 2013. Co-taught with L. Wieneke.
 * Python Programming for the Humanities; 3-day summer school University of Goettingen (DE); August 2014. Co-taught with F. Karsdorp.
 * One-day course on Stylometry with R (Computational Stylistics) for medievalists. Ecole française de Rome (IT); 5 June 2014.
