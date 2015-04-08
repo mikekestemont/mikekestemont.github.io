@@ -19,8 +19,19 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-##Presentatations, Lectures, Talks
+##Selected Courses (extra-curricular)
+Co-organized or co-taught courses in programming and computational text analysis for the (Digital) Humanities:
+* Python Programming for the Humanities; full-week summer school University of Goettingen (DE); August 2013. Co-taught with L. Wieneke.
+* Python Programming for the Humanities; 3-day summer school University of Goettingen (DE); August 2014. Co-taught with F. Karsdorp.
+* One-day course on Stylometry with R (Computational Stylistics) for medievalists. Ecole française de Rome (IT); 5 June 2014.
+* Topic Modeling Course (co-taught with M. Munson) at the launch of the national Digital Humanities group Israel; University of Haifa (Israel).
+* Antwerp EADH Spring Academy 2014. Full-week programming course for the Humanities (funded by an ALLC/EADH Small Workshop Grant of 1000 EUR), co-organized with a.o. Thomas Crombez. 
+* Get going: The Nijmegen Spring School in eHumanities 2013, three-day spring school, co-organized with dr. M. Düring (funded by an ALLC/EADH Small Workshop Grant of 2000 EUR).
+* Python Programming for the Humanities; three-day course at Maynooth University (Ireland); March 2015. Co-taught with F. Karsdorp.
+* Python Programming for the Humanities; four-day course at the Library Lab of the University of Ghent (BE); March 2015. Co-taught with F. Karsdorp.
 
+
+##Presentations, Lectures, Talks
 
 ###2008
 * Kestemont, M., ‘Alliteratieve literatuur in de Lage Landen. De pre-historie van onze letterkunde’. Paper presented at Grenzeloos. Conferentie voor letterkundige neerlandici. Utrecht University, 18-20/09/2008.
