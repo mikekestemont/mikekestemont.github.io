@@ -22,6 +22,8 @@ image:
 ### In press
 * Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. (2015; in press). Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author. In: *Journal of the American Society for Information Science and Technology*. Online ISSN: 2330-1643.
 * Kestemont, M.; Moens, S. & Deploige, J., 'Collaborative Authorship in the Twelfth Century. A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux'. Accepted for publication/in press with *LLC: The Journal of Digital Scholarship in the Humanities* (2013) at Oxford University Press.
+* Kestemont, M., 'A Computational Analysis of the Scribal Profiles in Two of the Oldest Manuscripts of Hadewijch’s *Letters*', forthcoming in *Scriptorium* (2015).
+
 
 ### Journal papers
 
@@ -91,3 +93,5 @@ image:
 * Kestemont, M., 'Het gewicht van de auteur. Reflecties over auteursattributie in samenleving en wetenschap' ['The Weight of the Author. Reflections on Authorship Attribution in Society and Academia'], in *Streven. Cultureel maatschappelijk maandblad* 78:3 (2011), 234-244.
 * Kestemont, M., 'Plagiaat in de Guldensporenslag' ['Plagiarism in the Battle of the Golden Spurs'], in: *Eos. Actueel maandblad over wetenschapen technologie* 27:1 (2011), 36-39.
 * Kestemont, M., 'Oraal erfgoed – bewaart dat? Enkele bespiegelingen over schrift- en taalcultuur', introductory contribution to the heritage project *Peepel Tervuren. Taal en verhaal in Tervuren* [online](http://www.peepel.be/?page_id=56)
+
+
