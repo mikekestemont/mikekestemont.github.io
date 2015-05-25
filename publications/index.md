@@ -19,9 +19,12 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+### Just out
+* Kestemont, M.; Moens, S. & Deploige, J., 'Collaborative Authorship in the Twelfth Century. A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux'. *Digital Scholarship in the Humanities* 30:2 (2015), pp. 199--224, [[doi]](http://dx.doi.org/10.1093/llc/fqt063).
+* Karsdorp, F.; Kestemont, M. & Schöch, C. & Van den Bosch, A., 'The Love Equation: Computational Modeling of Romantic Relationships in French Classical Drama'. In: *Proceedings of the 6th Workshop on Computational Models of Narrative (CMN’15)*, May 26-28, 2015, Atlanta, USA, pp. 98--107 [[pdf]](http://narrative.csail.mit.edu/cmn15/paper4.pdf).
+
 ### In press
 * Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. (2015; in press). Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author. In: *Journal of the American Society for Information Science and Technology*. Online ISSN: 2330-1643.
-* Kestemont, M.; Moens, S. & Deploige, J., 'Collaborative Authorship in the Twelfth Century. A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux'. Accepted for publication/in press with *LLC: The Journal of Digital Scholarship in the Humanities* (2013) at Oxford University Press.
 * Kestemont, M., 'A Computational Analysis of the Scribal Profiles in Two of the Oldest Manuscripts of Hadewijch’s *Letters*', forthcoming in *Scriptorium* (2015).
 
 
