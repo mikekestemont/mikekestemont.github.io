@@ -31,6 +31,7 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Get going: The Nijmegen Spring School in eHumanities 2013, three-day spring school, co-organized with dr. M. Düring (funded by an ALLC/EADH Small Workshop Grant of 2000 EUR).
 * Python Programming for the Humanities; three-day course at Maynooth University (Ireland); March 2015. Co-taught with F. Karsdorp.
 * Python Programming for the Humanities; four-day course at the Library Lab of the University of Ghent (BE); March 2015. Co-taught with F. Karsdorp.
+* Stylometry with R; full-day workshop on Computational Stylistics with R; Digital Humanities Summer School 2015 at the KULleuven (Belgium); 7 September 2015. Co-taught with J. Rybicki.
 
 
 ##Presentations, Lectures, Talks
