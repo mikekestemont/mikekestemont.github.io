@@ -22,7 +22,7 @@ In my current research, I apply stylometry to medieval literature, which has oft
 
 ## Current
 
-I am currently a researcher at the [University of Antwerp](https://www.uantwerpen.be/en/) in Belgium (departments of Linguistics and Literature). In the past, I have taught various courses and workshops on Corpus and Computational Linguistics, Programming for the Humanities and medieval philology, in particular Middle Dutch literature. I code in Python, tweet in English, and live in Brussels. If you are interested in collaborating, feel free to drop me a line.
+I am currently an assistant professor in the department of literature at the [University of Antwerp](https://www.uantwerpen.be/en/) in Belgium. In the past, I have taught various courses and workshops on Corpus and Computational Linguistics, Programming for the Humanities and medieval philology. I code in Python, tweet in English, and live in Brussels. If you are interested in collaborating, feel free to drop me a line.
 
 ## Long-term
 

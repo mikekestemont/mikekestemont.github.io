@@ -114,6 +114,8 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 * Kestemont, M. (with F. Karsdorp), "Deep Humanities. Word embeddings and their application in computational text analysis". Invited talk in the TiCC lecture series, 30 september 2015, Tilburg University.
 * Kestemont, M., "Stylometry and serendipity", Guest BA-course 'Language in the Digital Age', 30 september 2015, Tilburg University.
 * Kestemont, M., "Deep Humanities. Applications of Representation Learning in the Digital Humanities". Guest Lecture in the Digital Humanities Lecture Series at the Universität Bern, Switserland, 16 November 2015.
+* Kestemont, M., with D. van Hulle, DHBenelux and DHuF. Digital Humanities in Flanders & Benelux. Dariah-BE Launch Meeting, Antwerp (27/11/2015).
+* Kestemont, M., with Guy De Pauw, Walter Daelemans, Renske van Nie, Sander Dieleman and Gilles- Maurice de Schryver. Tagging variation-rich languages using convolutional neural networks. Computational Linguistics in the Netherlands Conference (CLIN26). Amsterdam (The Netherlands, 18/12/2015).
 
 ##Posters
 * Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the 14e Vlaams-Nederlandse Mediëvistendag. Norm en afwijking, remedie en repressie. De aanpak van het deviante in de middeleeuwen (Louvain, 31/10/2008, organized by the Vlaamse Werkgroep mediëvistiek).
