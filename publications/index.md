@@ -22,9 +22,10 @@ image:
 ### Just out
 * Kestemont, M.; Moens, S. & Deploige, J., 'Collaborative Authorship in the Twelfth Century. A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux'. *Digital Scholarship in the Humanities* 30:2 (2015), pp. 199--224, [[doi]](http://dx.doi.org/10.1093/llc/fqt063).
 * Karsdorp, F.; Kestemont, M. & Schöch, C. & Van den Bosch, A., 'The Love Equation: Computational Modeling of Romantic Relationships in French Classical Drama'. In: *Proceedings of the 6th Workshop on Computational Models of Narrative (CMN’15)*, May 26-28, 2015, Atlanta, USA, pp. 98--107 [[pdf]](http://narrative.csail.mit.edu/cmn15/paper4.pdf).
+* Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. 'Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author'. In: *Journal of the American Society for Information Science and Technology* 67:1 (2016), pp. 239--242. [[link]](http://onlinelibrary.wiley.com/doi/10.1002/asi.23460/abstract).
 
 ### In press
-* Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. (2015; in press). Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author. In: *Journal of the American Society for Information Science and Technology*. Online ISSN: 2330-1643.
+* Eder, M.; Rybicki, J. & Kestemont, M., 'Stylometry with R: A Package for Computational Text Analysis'. Accepted for publication in: *The R Journal* [[pdf]](https://journal.r-project.org/archive/accepted/eder-rybicki-kestemont.pdf)
 * Kestemont, M., 'A Computational Analysis of the Scribal Profiles in Two of the Oldest Manuscripts of Hadewijch’s *Letters*', forthcoming in *Scriptorium* (2015).
 
 
