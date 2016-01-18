@@ -27,6 +27,8 @@ image:
 ### In press
 * Eder, M.; Rybicki, J. & Kestemont, M., 'Stylometry with R: A Package for Computational Text Analysis'. Accepted for publication in: *The R Journal* [[pdf]](https://journal.r-project.org/archive/accepted/eder-rybicki-kestemont.pdf)
 * Kestemont, M., 'A Computational Analysis of the Scribal Profiles in Two of the Oldest Manuscripts of Hadewijch’s *Letters*', forthcoming in *Scriptorium* (2015).
+* Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', forthcoming in *Classical Quarterly*.
+* Kestemont, M., 'Stylometric Authorship Attribution for the Middle Dutch Mystical Tradition from Groenendaal', forthcoming in *Dutch Crossing. Journal of Low Countries Studies*.
 
 
 ### Journal papers
