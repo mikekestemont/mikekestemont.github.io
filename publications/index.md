@@ -29,6 +29,7 @@ image:
 * Kestemont, M., 'A Computational Analysis of the Scribal Profiles in Two of the Oldest Manuscripts of Hadewijch’s *Letters*', forthcoming in *Scriptorium* (2015).
 * Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', forthcoming in *Classical Quarterly*.
 * Kestemont, M., 'Stylometric Authorship Attribution for the Middle Dutch Mystical Tradition from Groenendaal', forthcoming in *Dutch Crossing. Journal of Low Countries Studies*.
+* Kestemont, M., 'Computers leren taal uit het niets', forthcoming in *Onze Taal. Tijdschrift over taal, tekst en communicatie* 55:1 (2016), pp. 9-11.
 
 
 ### Journal papers
