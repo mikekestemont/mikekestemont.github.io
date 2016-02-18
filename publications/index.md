@@ -20,6 +20,7 @@ image:
 </section><!-- /#table-of-contents -->
 
 ### Just out
+
 * Kestemont, M.; Moens, S. & Deploige, J., 'Collaborative Authorship in the Twelfth Century. A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux'. *Digital Scholarship in the Humanities* 30:2 (2015), pp. 199--224, [[doi]](http://dx.doi.org/10.1093/llc/fqt063).
 * Karsdorp, F.; Kestemont, M. & Schöch, C. & Van den Bosch, A., 'The Love Equation: Computational Modeling of Romantic Relationships in French Classical Drama'. In: *Proceedings of the 6th Workshop on Computational Models of Narrative (CMN’15)*, May 26-28, 2015, Atlanta, USA, pp. 98--107 [[pdf]](http://narrative.csail.mit.edu/cmn15/paper4.pdf).
 * Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. 'Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author'. In: *Journal of the American Society for Information Science and Technology* 67:1 (2016), pp. 239--242. [[link]](http://onlinelibrary.wiley.com/doi/10.1002/asi.23460/abstract).
@@ -33,34 +34,34 @@ image:
 * Kestemont, M., 'Computers leren taal uit het niets', forthcoming in *Onze Taal. Tijdschrift over taal, tekst en communicatie* 55:1 (2016), pp. 9-11.
 
 
-### Journal papers
+## Journal papers
 
-####2014
+### 2014
 * Rybicki, J.; Hoover, D. & Kestemont, M. (2014). 'Collaborative authorship: Conrad, Ford and Rolling Delta’. *LLC: The Journal of Digital Scholarship in the Humanities* 29:3, pp. 422-431.
 * Kestemont, M. 'A Shallow Reading of the Limburg Sermons'. *Ons Geestelijk Erf* (2014) 85:3, pp. 145-162. DOI: 10.2143/OGE.85.3.3062090. ISSN : 0774-2827; E-ISSN : 1783-1652.
 * Kestemont, M. 'Serendipiteit en macro-medioneerlandistiek'. *Madoc. Tijdschrift over de Middeleeuwen* (2014) 28:3, pp. 157-165.
 
-####2013
+### 2013
 * Kestemont, M. (2013). 'Produits de terroir? La littérature régionale dans la Flandre impériale et le cas de la chanson de geste moyen-néerlandaise'. *Publications du Centre Européen d'Etudes Bourguignonnes* 54, pp. 37-55.
 * De Bruijn, E. & Kestemont, M., 'Contrastive Multivariate Analyses of the Middle Low German Flos unde Blankeflos Tradition', in: *Neuphilologische Mitteilungen. Bulletin of the Modern Language Society* 114:2 (2013), pp. 171-205.
 * Hogenbirk, M. & Kestemont, M., 'Het werk van een klerk. Een stylometrische verkenning van het auteurschap achter *Der ystorien bloeme*' [The Work of a Clerk. A Stylometric Exploration of the Authorship behind 'The Flower of History'], *Tijdschrift voor Nederlandse Taal- en Letterkunde* 129:4 (2013), 246-273.
 * Kestemont, M., 'Arthur's Authors. A Quantitative Study of the Rhyme Words in the Middle Dutch Arthurian Epic', in: *Zeitschrift für deutsches Altertum und deutsche Literatur* 142:1 (2013), pp. 1-33.
 
-####2012
+### 2012
 * Kestemont, M., Daelemans, W. & Sandra, D., 'Robust Rhymes? The Stability of Authorial Style in Medieval Narratives', in *Journal of Quantitative Linguistics* 19:1 (2012), 54-76.
 * Kestemont, M., 'Auteursherkenning met rijmwoorden in de Middelnederlandse Artur- en Karelepiek. Eerherstel voor Icarus?'' [Authorship attribution using rhyme words in the Middle Dutch Arthurian and Carolingian epic. Icarus's rehabilitation?], *Tijdschrift voor Nederlandse Taal- en Letterkunde* 128:2 (2012), 135-160.
 * Kestemont, M., 'Keizerlijk Vlaanderen. Streekliteratuur in Rijks-Vlaanderen en de casus van de Karelepiek' [Imperial Flanders. Regional Literature in la Flandre impériale and the case of the chanson de geste], *Queeste. Journal of Medieval Literature in the Low Countries* 19:2 (2012), 91-111.
 * Kestemont, M., 'Stylometry for Medieval Authorship Studies: An Application to Rhyme Words?, *Digital Philology. A Journal of Medieval Cultures* 1:1 (2012), 42-72.
 * Kestemont, M.; Luyckx, K.; Daelemans, W. & Crombez, T., 'Cross-Genre Authorship Verification Using Unmasking', *English Studies. A journal of English language and literature* 93:3 (2012), 348-364 [special issue about authorship attribution (eds. J.C. Martin & A. Miranda)].
 
-####2011
+### 2011
 * Kestemont, M., 'What can Stylometry Learn from its Application to Middle Dutch Literature?', in: *Journal of Dutch Literature* 2:2 (2011), 46-65.
 * Kestemont, M. 'De meesters van de Spiegel. Auteursonderscheiding op basis van het frequente rijmwoord in het aandeel van Utenbroeke en Maerlant in de *Spiegel historiael*' ['The Masters of the Mirror. Authorship Discrimination Based on Frequent Rhymes in the Shares by Utenbroeke and Maerlant in the Middle Dutch *Speculum Historiale*'], *Tijdschrift voor Nederlandse Taal- en Letterkunde* 127:2 (2011), 97-121.
 * Kestemont, M., 'Tussen feit en fictie. Over Roelands wapenschild en een Zuid-Vlaams ontstaansmilieu voor de Middelnederlandse *Fierabras*' [Between Fact and Fiction. About Roland's Weapon Shield and a Southern Flemish Origin for the Middle Dutch *Fierabras*], in *Nederlandse letterkunde* 16:1 (2011), 1-18.
 * Caers, B. & Kestemont, M., 'De datering van de Middelnederlandse ridderepiek' ['Dating Middle Dutch Chivalric Epics'], in *Verslagen en mededelingen van de koninklijke academie voor Nederlandse taal- en letterkunde* 121:1 (2011), 1-59.
 * Kestemont, M., 'Een stylometrisch onderzoek naar Jan van Boendales auteurschap voor de Brabantse Yeesten' ['A Stylometric Investigation of Jan of Boendale's Authorship for the Feats of Brabant'], *Revue Belge de Philologie et d’Histoire — Belgisch Tijdschrift voor Filologie en Geschiedenis* 89:3-4 (2011), 1019-1048.
 
-####2010
+### 2010
 * Kestemont, M., 'Velthem et al. A stylometric analysis of the rhyme words in the account of the Battle of the Golden Spurs in the fifth part of the 'Spiegel historiael', in: *Queeste. Journal of Medieval Literature in the Low Countries* 17:1 (2010), 1-34.
 * Kestemont, M. Daelemans, W. & De Pauw G., 'Weigh your words ? Memory-Based Lemmatization for Middle Dutch', in: *Literary and Linguistic Computing* 25:3 (2010), 287-301.
 * Kestemont, M., 'Seghers wapenfeiten. Oude en nieuwe hypotheses omtrent de Trojeroman, het huis van Gaasbeek en het handschrift-Van Hulthem' [Segher's Feats. Old and New Hypotheses about the Romance of Troy, the House of Gaasbeek and the Van Hulthem Manuscript], in: *Spiegel der Letteren* 52:3 (2010), 249-275.

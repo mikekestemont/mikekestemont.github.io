@@ -37,9 +37,11 @@ Co-organized or co-taught courses in programming and computational text analysis
 ## Presentations, Lectures, Talks
 
 ### 2008
+
 * Kestemont, M., ‘Alliteratieve literatuur in de Lage Landen. De pre-historie van onze letterkunde’. Paper presented at Grenzeloos. Conferentie voor letterkundige neerlandici. Utrecht University, 18-20/09/2008.
 
 ### 2009
+
 * Kestemont, M., ‘Dichters in beeld. De vaders van de ‘Dietsche’ letterkunde’. Lecture given at Welkom in de Felix Claesstraat! Literair erfgoed in het straatbeeld. Antwerp (AMCV), 22/04/2009.
 * Kestemont, M., ‘Wat valt te rijmen. Een computergebaseerd onderzoek naar de rijmzuiverheid van de Middelnederlandse ridderepiek’. Paper presented at the VNC-workshop De ridderepiek omstreeks 1300. Wassenaar (NIAS), 5-6/03/2009.
 * Kestemont, M., ‘The Odd One Out? Middle Dutch Rhymed Epic Literature from a bird’s eye-perspective’. Paper presented at HLLNSA 09. Historical Language and Literacy in the North Sea Area. University of Stavanger (Norway), 26-28/08/2009.
@@ -48,6 +50,7 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Kestemont, M., ‘21 grams, the weight of the author? The acclaimed robustness of n-grams in authorship verification and the case of medieval rhymed epics’. Working paper presented at ATILA 09. Annual research meeting of CLiPS, ILK & LT3. Corsendonk, 9-10/11/2009.
 
 ### 2010
+
 * Kestemont, M., W. Daelemans & G. De Pauw, ‘Weigh your words: Memory-based lemma-retrieval for Middle Dutch literary texts’. Paper presented at CLIN 2010. Computational linguistics in the Netherlands 20. Utrecht University, 05/02/2010.
 * Kestemont, M., ‘Deen rijmt cort, dander lanc. Stylometrische auteursverificatie in Middelnederlandse kronieken op basis van rijmwoordenschat’. Paper presented at the PhD day of the ‘Vlaamse werkgroep Mediëvistiek’ (Ghent, 10/05/2010).
 * Kestemont, M., ‘De mens zelf?  De (on)mogelijkheden van stylometrie en auteursattributie voor middeleeuwse literatuur’. Invited talk presented in BA-course at Radboud University Nijmegen (Nijmegen, 11/05/2010).
@@ -60,6 +63,7 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Kestemont, M., ‘Het geheim van de Slag der Gulden Sporen. ‘Plagiaat’ in de middeleeuwen’. Popularising talk presented at the CLiPS session about stylometry for the Flemisch Science Week (Vlaamse Wetenschapsweek). Antwerp, 25/11/2010.
 
 ### 2011
+
 * Kestemont, M., ‘Het gewicht van de auteur. De ‘balans’ van een stylometrisch onderzoek naar de rijmwoorden en auteurs van de Middelnederlandse epiek’. Discussion paper presented at Crossover. Derde congres Nederlandse Literatuur (Leyden, 12/01/2011 ).
 * Kestemont, M., ‘Robust Rhymes? The Stability of Authorial Style in Medieval Narratives’. Conference paper presented at CLIN 21 (2011). Computational Linguistics in the Netherlands (Ghent University College, 12/02/2011).
 * Kestemont, M., Daelemans, W. & De Pauw, G., ‘Building a lemmatizer for the Corpus-Gysseling’. Paper presented at Galatea II. Old(er) Dutch and new, digital research opportunities (University of Antwerp, 18/02/2011).
@@ -69,6 +73,7 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Kestemont, M., Luyckx, K. & Daelemans, W., ‘Intrinsic Plagiarism Detection Using Character Trigram Distance Scores – Notebook for PAN at CLEF 2011′. Conference talk at the PAN 2011 Lab: Uncovering Plagiarism, Authorship, and Social Software Misuse, held in conjunction with the CLEF 2011 Conference on Multilingual and Multimodal Information Access Evaluation (Amsterdam, 22/09/2011).
 
 ### 2012
+
 * Kestemont, M., ‘Stylometrie voor dummies’. Invited tutorial presented at Neerlandistiek in het nieuws (Nijmegen, 26/01/2012).
 * Kestemont, M., Luyckx, K., Daelemans, W. & Crombez, T., “Cross-Genre Authorship Verification Using Unmasking”. Conference paper presented at CLIN 22 (2012). Computational Linguistics in the Netherlands (Tilburg University, 20/01/2012).
 * Kestemont, M., “In the Face of Variation. Challenges and Opportunities for Computational Philology”. Invited talk at the “Launch Meeting of the e-Humanities Lab” at the University of Tilburg (Tilburg, 15/02/2012).
@@ -84,6 +89,7 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Kestemont, M., ‘Old Wine in New Skins: Computational Stylistics as an Auxiliary Tool for Middle Dutch Philology’. Invited talk at the colloquium “Philology between Old and New”, organized by the VUB Linguistics Seminars (WOT) and the VUB Literature and Culture Seminars (WOLEC) (18 December 2012, Free University of Brussels).
 
 ### 2013
+
 * Kestemont, M. (i.s.m. Hogenbirk, M.), ‘Serendipiteit in de wetenschap: kan de stylometrie dit afdwingen?’. Invited talk at a colloquium (‘Handgemaakte inzichten’: digitale technieken in de letterkunde) organized at the occassion of the inaugural address of K. van Dalen-Oskam at the University of Amsterdam (1 February 2013, University of Amsterdam).
 * Kestemont, M., ‘Computation in style. Linguistic authorship attribution in historic and modern texts’. Invited talk at the Scientific Interdisciplinary Seminar organized by the Department of Mathematics and Computer Science (20/02/2013, University of Antwerp).
 * Gabriël, R. & Kestemont, M., Cherry Picking. A Study of Manuscript Ghent, UL, 1374 in the Context of the Book Collection of the Charterhouse of Herne. Paper presented at Dynamics of the Medieval Manuscript Conference (25-28/04/2013, Utrecht University).
@@ -95,6 +101,7 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Karsdorp, F. & Kestemont, M. (together with A. van den Bosch, W. Daelemans & D. Roth), “Mining the Twentieth Century’s History from the TIME Magazine Corpus”. Keynote presented at Patterns in Narrative Texts. NWO-CATCH meeting by FACT, Meertens Institute, Amsterdam, The Netherlands (13/12/2013).
 
 ### 2014
+
 * Kestemont, M., ‘A Distant Reading of a Distant Past: Computational Text Analysis and Medieval Literature’. Talk as part of Leipzig eHumanities Seminar (Leipzig University, Germany, 15/01/2014).
 * Karsdorp, F. & Kestemont, M. (together with Dong Nguyen, D. Roth, A. van den Bosch & W. Daelemans), “Mining the Twentieth Century’s History from the TIME Magazine Corpus”. Conference paper presented at CLIN 24 (2014). Computational Linguistics in the Netherlands (Leiden University, The Netherlands, 17/01/2014)
 * Kestemont, M., ‘Serendipiteit in de literatuurwetenschap. Kan de stylometrie dit afdwingen?’. Guest lecture, dept. Linguistics, University of Ghent, 12/03/2014.
@@ -108,6 +115,7 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 * Kestemont, M., “Stylometry with R: An Introduction”. 2-hour guest course about stylometry for computational literary studies at the University of Amsterdam (Amsterdam, 3 October 2014).
 
 ### 2015
+
 * Kestemont, M., "Modeling Scribal Variation. The Promise of Unsupervised Methods". Presentation at 'Linguistics Meets Palaeography' (NIAS, Wassenaar, The Netherlands, 11/02/2015)
 * Kestemont, M. (et al.), "Distant Reading for the Middle Ages. Stylometry and Serendipity". 30/03/2015, invited talk at the Ecole Nationale des Chartes (Paris, France), e-Philologie lecture series.
 * Kestemont, M. (with C. Klapwijk), "Een computationele analyse van de DBNL. Een kritiek op de Digital Humanities". Keynote delivered at the 19th IVN-Colloquium Neerlandicum, Leiden, 20/08/2015
@@ -118,15 +126,18 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 * Kestemont, M., with Guy De Pauw, Walter Daelemans, Renske van Nie, Sander Dieleman and Gilles- Maurice de Schryver. Tagging variation-rich languages using convolutional neural networks. Computational Linguistics in the Netherlands Conference (CLIN26). Amsterdam (The Netherlands, 18/12/2015).
 
 ### 2016
+
 * Kestemont, M. 'Deep Humanities. Representation learning, word embeddings and their application in computational text analysis'. Invited Guest Lecture, Språkforum, University of Stavanger, Norway, 14 January 2016.
 * Kestemont, M., 'Deep Learning: The Story of a Hype and its Untapped Potential for the Humanities'. Keynote delivered at the Final NWO-CATCH (Continuous Access To Cultural Heritage) event, University of Tilburg, The Netherlands, 28 January, 2016.
 * Kestemont, M., F. Mambrini & M. Passarotti, Deep Learning and Computational Authorship Attribution for Ancient Greek Texts'. The Case of the Attic Orators'. Digital Classicist Seminar, Berlin, Germany, 16 February 2016.
 
 ## Posters
+
 * Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the 14e Vlaams-Nederlandse Mediëvistendag. Norm en afwijking, remedie en repressie. De aanpak van het deviante in de middeleeuwen (Louvain, 31/10/2008, organized by the Vlaamse Werkgroep mediëvistiek).
 * Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the CNTS (CLiPS) Research Assembly (Antwerp, 7/11/2008).
 
 ## Panels
+
 * Participation in panel with Van Zundert, Joris (convenor); Jannidis, Fotis; Drucker, Johanna; Rockwell, Geoffrey; Underwood, Ted; Andrews, Tara, ‘What is Modeling and What is Not?’, *Digital Humanities 2014* (Lausanne, Switserland, 10/07/2014).
 * Participation in panel with Svetlana Lutchitskaya, Claire McIlroy, Nada Zečevič, ‘Heritages: A Round Table’, *Annual Meeting of CARMEN, the international medieval network* (Stirling, Scotland, 11 September 2014).
 * Moderated panel with the "eager beavers" (Dong Nguyen, Eva D'Hondt, Folgert Karsdorp and Tim Van de Cruys) at CLIN25 (Computational Linguistics in The Netherlands), Antwerp, 5/02/2015.
