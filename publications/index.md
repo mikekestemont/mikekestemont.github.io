@@ -25,6 +25,7 @@ image:
 * Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. 'Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author'. In: *Journal of the American Society for Information Science and Technology* 67:1 (2016), pp. 239--242. [[link]](http://onlinelibrary.wiley.com/doi/10.1002/asi.23460/abstract).
 
 ### In press
+* D. van Hulle & M. Kestemont, 'Periodizing Samuel Becket's Works: A Stylochronometric Approach', forthcoming in *Style* 60.2 (2016).
 * Eder, M.; Rybicki, J. & Kestemont, M., 'Stylometry with R: A Package for Computational Text Analysis'. Accepted for publication in: *The R Journal* [[pdf]](https://journal.r-project.org/archive/accepted/eder-rybicki-kestemont.pdf)
 * Kestemont, M., 'A Computational Analysis of the Scribal Profiles in Two of the Oldest Manuscripts of Hadewijch’s *Letters*', forthcoming in *Scriptorium* (2015).
 * Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', forthcoming in *Classical Quarterly*.

@@ -118,7 +118,9 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 * Kestemont, M., with Guy De Pauw, Walter Daelemans, Renske van Nie, Sander Dieleman and Gilles- Maurice de Schryver. Tagging variation-rich languages using convolutional neural networks. Computational Linguistics in the Netherlands Conference (CLIN26). Amsterdam (The Netherlands, 18/12/2015).
 
 ###2016
-* Kestemont, 'Deep Humanities. Representation learning, word embeddings and their application in computational text analysis'. Invited Guest Lecture, Språkforum, University of Stavanger, Norway, 14 January 2016.
+* Kestemont, M. 'Deep Humanities. Representation learning, word embeddings and their application in computational text analysis'. Invited Guest Lecture, Språkforum, University of Stavanger, Norway, 14 January 2016.
+* Kestemont, M., 'Deep Learning: The Story of a Hype and its Untapped Potential for the Humanities'. Keynote delivered at the Final NWO-CATCH (Continuous Access To Cultural Heritage) event, University of Tilburg, The Netherlands, 28 January, 2016.
+* Kestemont, M., F. Mambrini & M. Passarotti, Deep Learning and Computational Authorship Attribution for Ancient Greek Texts'. The Case of the Attic Orators'. Digital Classicist Seminar, Berlin, Germany, 16 February 2016.
 
 ##Posters
 * Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the 14e Vlaams-Nederlandse Mediëvistendag. Norm en afwijking, remedie en repressie. De aanpak van het deviante in de middeleeuwen (Louvain, 31/10/2008, organized by the Vlaamse Werkgroep mediëvistiek).
