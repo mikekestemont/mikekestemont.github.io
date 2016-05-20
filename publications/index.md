@@ -24,14 +24,16 @@ image:
 * Kestemont, M.; Moens, S. & Deploige, J., 'Collaborative Authorship in the Twelfth Century. A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux'. *Digital Scholarship in the Humanities* 30:2 (2015), pp. 199--224, [[doi]](http://dx.doi.org/10.1093/llc/fqt063).
 * Karsdorp, F.; Kestemont, M. & Schöch, C. & Van den Bosch, A., 'The Love Equation: Computational Modeling of Romantic Relationships in French Classical Drama'. In: *Proceedings of the 6th Workshop on Computational Models of Narrative (CMN’15)*, May 26-28, 2015, Atlanta, USA, pp. 98--107 [[pdf]](http://narrative.csail.mit.edu/cmn15/paper4.pdf).
 * Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. 'Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author'. In: *Journal of the American Society for Information Science and Technology* 67:1 (2016), pp. 239--242. [[link]](http://onlinelibrary.wiley.com/doi/10.1002/asi.23460/abstract).
+* Kestemont, M., 'Computers leren taal uit het niets', forthcoming in *Onze Taal. Tijdschrift over taal, tekst en communicatie* 55:1 (2016), pp. 9-11.
+* Kestemont, M., 'A Computational Analysis of the Scribal Profiles in Two of the Oldest Manuscripts of Hadewijch’s *Letters*', forthcoming in *Scriptorium* 69 (2015), 159-177.
+* D. van Hulle & M. Kestemont, 'Periodizing Samuel Becket's Works: A Stylochronometric Approach', *Style* 60:2 (2016), 172-202.
 
 ### In press
-* D. van Hulle & M. Kestemont, 'Periodizing Samuel Becket's Works: A Stylochronometric Approach', forthcoming in *Style* 60.2 (2016).
+
 * Eder, M.; Rybicki, J. & Kestemont, M., 'Stylometry with R: A Package for Computational Text Analysis'. Accepted for publication in: *The R Journal* [[pdf]](https://journal.r-project.org/archive/accepted/eder-rybicki-kestemont.pdf)
-* Kestemont, M., 'A Computational Analysis of the Scribal Profiles in Two of the Oldest Manuscripts of Hadewijch’s *Letters*', forthcoming in *Scriptorium* (2015).
 * Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', forthcoming in *Classical Quarterly*.
 * Kestemont, M., 'Stylometric Authorship Attribution for the Middle Dutch Mystical Tradition from Groenendaal', forthcoming in *Dutch Crossing. Journal of Low Countries Studies*.
-* Kestemont, M., 'Computers leren taal uit het niets', forthcoming in *Onze Taal. Tijdschrift over taal, tekst en communicatie* 55:1 (2016), pp. 9-11.
+* Eder, M., Rybicki, J. and Kestemont, M. Measuring Style. Forthcoming in *Digital Humanities for Literary Studies: Theories, Methods, and Practices*, ed. by J. O'Sullivan, UPenn Press (2016).
 
 
 ## Journal papers

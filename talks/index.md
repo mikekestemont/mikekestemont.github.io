@@ -32,6 +32,9 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Python Programming for the Humanities; three-day course at Maynooth University (Ireland); March 2015. Co-taught with F. Karsdorp.
 * Python Programming for the Humanities; four-day course at the Library Lab of the University of Ghent (BE); March 2015. Co-taught with F. Karsdorp.
 * Stylometry with R; full-day workshop on Computational Stylistics with R; Digital Humanities Summer School 2015 at the KULleuven (Belgium); 7 September 2015. Co-taught with J. Rybicki.
+* Python Programming for the Humanities; five-day course in the LOT Winter School 2016 at the University of Tilburg (NL); January 2016. Co-taught with F. Karsdorp.
+* Python Programming for the Humanities; multi-session programming course at the University of Ghent (BE); Fall 2015-Soring 2016. Co-taught with F. Karsdorp  and Bart Desmet.
+
 
 
 ## Presentations, Lectures, Talks
@@ -130,6 +133,9 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 * Kestemont, M. 'Deep Humanities. Representation learning, word embeddings and their application in computational text analysis'. Invited Guest Lecture, Språkforum, University of Stavanger, Norway, 14 January 2016.
 * Kestemont, M., 'Deep Learning: The Story of a Hype and its Untapped Potential for the Humanities'. Keynote delivered at the Final NWO-CATCH (Continuous Access To Cultural Heritage) event, University of Tilburg, The Netherlands, 28 January, 2016.
 * Kestemont, M., F. Mambrini & M. Passarotti, Deep Learning and Computational Authorship Attribution for Ancient Greek Texts'. The Case of the Attic Orators'. Digital Classicist Seminar, Berlin, Germany, 16 February 2016.
+* Kestemont, M. 'Stylometrie en auteursherkenning'. 21 april 2016, Nijmegen. Gastcollege Ba-cursus Digital Humanities neerlandistiek (N. van der Sijs en S. Lestrade).
+* Kestemont, M., with M. de Bruin, T. de Winkel & E. Stronks. Wilhelmus, Wilhelmi. Met de computer op zoek naar de auteur van het Nederlandse volkslied. First Louis Peter Grijp Lecture. KNAW Amsterdam, The Netherlands. 10 May 2016 (http://www.neerlandistiek.nl/2016/05/toevallig-op-petrus-datheen-stuiten/)[report M. van Oostendorp]. 
+* Kestemont, M., with Cees Klapwijk, Folgert Karsdorp & Roel Smeets, 'De canon en de kritiek'. Een computationeel onderzoek naar auteursvermeldingen in de DBNL. Invited lecture Royal Library The Hague in the 'Weetfabriek' series. 12/05/2016.
 
 ## Posters
 
