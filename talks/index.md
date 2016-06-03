@@ -33,7 +33,8 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Python Programming for the Humanities; four-day course at the Library Lab of the University of Ghent (BE); March 2015. Co-taught with F. Karsdorp.
 * Stylometry with R; full-day workshop on Computational Stylistics with R; Digital Humanities Summer School 2015 at the KULleuven (Belgium); 7 September 2015. Co-taught with J. Rybicki.
 * Python Programming for the Humanities; five-day course in the LOT Winter School 2016 at the University of Tilburg (NL); January 2016. Co-taught with F. Karsdorp.
-* Python Programming for the Humanities; multi-session programming course at the University of Ghent (BE); Fall 2015-Soring 2016. Co-taught with F. Karsdorp  and Bart Desmet.
+* Python Programming for the Humanities; multi-session programming course at the University of Ghent (BE); Fall 2015-Soring 2016. Co-taught with F. Karsdorp and Bart Desmet.
+* Digital Text Analysis Using Python. 3-hour tutorial at the conference "Digital disruption in Asia: Methods and issues". Leyden, 24 May 2016.
 
 
 
