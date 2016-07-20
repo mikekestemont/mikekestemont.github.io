@@ -95,6 +95,8 @@ image:
 * Kestemont, M. (in collaboration with Schöch, C.), 'Learning Deep Representations of Characters in Literary History', in: *Digital Humanities 2014* (Lausanne, Switserland, 2014), p. 137. Part of the panel by: Craig, H; Eder, Maciej; Jannidis, Fotis; Kestemont, Mike; Rybicki, Jan; Schöch, Christof, 'Validating Computational Stylistics in Literary Interpretation' (pp. 135-137).
 * Van Zundert, Joris (panel convenor); Jannidis, Fotis; Drucker, Johanna; Rockwell, Geoffrey; Underwood, Ted; Kestemont, Mike; Andrews, Tara, 'What is Modeling and What is Not?', panel at: *Digital Humanities 2014* (Lausanne, Switserland, 2014), p. 63-65.
 * Karsdorp, F.; Kestemont, M. & Schöch, C. & Van den Bosch, A., 'The Love Equation: Computational Modeling of Romantic Relationships in French Classical Drama'. In: *Proceedings of the 6th Workshop on Computational Models of Narrative (CMN’15)*, May 26-28, 2015, Atlanta, USA, pp. 98--107 [[pdf]](http://narrative.csail.mit.edu/cmn15/paper4.pdf).
+* Kestemont, M., Stover, J., Koppel, M., Karsdorp, K. & Daelemans, W., 'Authorship Verification with the Ruzicka Metric', *Digital Humanities 2016* (Krakow, Poland, 2016), pp. 246--249.
+* Dirk van Hulle & Mike Kestemont, 'Stylochronometry and the Periodization of Samuel Beckett’s Prose', *Digital Humanities 2016* (Krakow, Poland, 2016), pp. 393--395.
 
 
 ### Book contributions
