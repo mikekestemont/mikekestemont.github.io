@@ -35,6 +35,7 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Python Programming for the Humanities; five-day course in the LOT Winter School 2016 at the University of Tilburg (NL); January 2016. Co-taught with F. Karsdorp.
 * Python Programming for the Humanities; multi-session programming course at the University of Ghent (BE); Fall 2015-Soring 2016. Co-taught with F. Karsdorp and Bart Desmet.
 * Digital Text Analysis Using Python. 3-hour tutorial at the conference "Digital disruption in Asia: Methods and issues". Leyden, 24 May 2016.
+* Introduction to Deep Learning for NLP in Python. Full day tutorial at Ghent University's LT3 Group (30 June 2016) [[course materials]](https://github.com/mikekestemont/ghentDL).
 
 
 
@@ -137,6 +138,11 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 * Kestemont, M. 'Stylometrie en auteursherkenning'. 21 april 2016, Nijmegen. Gastcollege Ba-cursus Digital Humanities neerlandistiek (N. van der Sijs en S. Lestrade).
 * Kestemont, M., with M. de Bruin, T. de Winkel & E. Stronks. Wilhelmus, Wilhelmi. Met de computer op zoek naar de auteur van het Nederlandse volkslied. First Louis Peter Grijp Lecture. KNAW Amsterdam, The Netherlands. 10 May 2016 (http://www.neerlandistiek.nl/2016/05/toevallig-op-petrus-datheen-stuiten/)[report M. van Oostendorp]. 
 * Kestemont, M., with Cees Klapwijk, Folgert Karsdorp & Roel Smeets, 'De canon en de kritiek'. Een computationeel onderzoek naar auteursvermeldingen in de DBNL. Invited lecture Royal Library The Hague in the 'Weetfabriek' series. 12/05/2016.
+* Kestemont, M., Stover, J., Koppel, M., Karsdorp, K. & Daelemans, W. 'Authorship Verification with the Minmax Metric'. Conference presentation at *Digital Humanities Benelux 2016*, Belval, Luxemburg, 10 June 2016.
+* Kestemont, M., 'The Matter of Art. Authenticity Criticism in the Humanities', presentation at the Pre-Conference Workshop on Digital Literary Stylistics at *Digital Humanities* 2016, Krakow, Poland, 11-16 July 2016 [[workshop website]](http://digitalliterarystylistic.github.io/program).
+* Dirk van Hulle & Mike Kestemont, 'Stylochronometry and the Periodization of Samuel Beckett’s Prose', Conference talk at *Digital Humanities 2016*, Krakow, Poland, 11-16 July 2016 [[abstract]](http://dh2016.adho.org/abstracts/364).
+* Kestemont, M., Stover, J., Koppel, M., Karsdorp, F., Daelemans, W., 'Authorship Verification with the Ruzicka Metric'. Conference talk at *Digital Humanities 2016*, Krakow, Poland, 11-16 July 2016 [[abstract]](http://dh2016.adho.org/abstracts/402).
+* Kestemont, M., 'The Matter of Text: Authenticity Criticism in Literature and the Visual Arts'. Conference presentation at SHARP (Society for the History of Authorship, Reading and Publishing), 18-22 July 2016. In the panel session "Languages before and after the Book / Les langues avant et après le livre".
 
 ## Posters
 
