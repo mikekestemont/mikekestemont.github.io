@@ -30,6 +30,7 @@ image:
 ### In press / Accepted
 
 * Kestemont, M., De Pauw, G., Van Nie, R. & Daelemans, W., 'Lemmatisation for Variation-Rich Languages Using Deep Learning'. Forthcoming in: *DSH -- Digital Scholarship in the Humanities*.
+* Stover, J. & Kestemont, M., 'The Authorship of the *Historia Augusta*: Two new computational studies'. In: *Bulletin of the Institute of Classical Studies* [2016]. Digital Classics themes issue.
 * Eder, M.; Rybicki, J. & Kestemont, M., 'Stylometry with R: A Package for Computational Text Analysis'. Accepted for publication in: *The R Journal* [[pdf]](https://journal.r-project.org/archive/accepted/eder-rybicki-kestemont.pdf)
 * Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', forthcoming in *Classical Quarterly*.
 * Kestemont, M., 'Stylometric Authorship Attribution for the Middle Dutch Mystical Tradition from Groenendaal', forthcoming in *Dutch Crossing. Journal of Low Countries Studies*.
