@@ -42,6 +42,7 @@ image:
 
 ### 2016
 * Kestemont, M., 'Computers leren taal uit het niets', *Onze Taal. Tijdschrift over taal, tekst en communicatie* 55:1 (2016), pp. 9-11.
+* Kestemont, M., 'Beta humanities. De opmars van digitale technieken in de geesteswetenschappen'. *Neerlandia. Nederlands-Vlaams tijdschrift voor taal, cultuur en maatschappij* 120:3 (2016), pp. 4-7.
 
 
 ### 2015
