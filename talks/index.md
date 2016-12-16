@@ -144,6 +144,7 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 * Kestemont, M., Stover, J., Koppel, M., Karsdorp, F., Daelemans, W., 'Authorship Verification with the Ruzicka Metric'. Conference talk at *Digital Humanities 2016*, Krakow, Poland, 11-16 July 2016 [[abstract]](http://dh2016.adho.org/abstracts/402).
 * Kestemont, M., 'The Matter of Text: Authenticity Criticism in Literature and the Visual Arts'. Conference presentation at SHARP (Society for the History of Authorship, Reading and Publishing), 18-22 July 2016. In the panel session "Languages before and after the Book / Les langues avant et après le livre".
 * Kestemont, M., 'Siamese Networks for the Humanities. The Automated Classification of Image Pairs and Text Pairs'. Conference presentation at the Thirteenth annual conference of the European Society for Textual Scholarship (ESTS), Antwerp, 5-7 October 2016.
+* Kestemont, M., 'Expect the Unexpected. Serendipity and the Digital Humanities', Invited talk Radboud University Nijmegen, NL, 14 December 2016.
 
 ## Posters
 
