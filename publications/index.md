@@ -26,6 +26,7 @@ image:
 * Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. 'Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author'. In: *Journal of the American Society for Information Science and Technology* 67:1 (2016), pp. 239--242. [[link]](http://onlinelibrary.wiley.com/doi/10.1002/asi.23460/abstract).
 * D. van Hulle & M. Kestemont, 'Periodizing Samuel Becket's Works: A Stylochronometric Approach', *Style* 60:2 (2016), 172-202.
 * Eder, M.; Rybicki, J. & Kestemont, M., 'Stylometry with R: A Package for Computational Text Analysis'. *The R Journal* 8:1 (2016, pp. 107--121) [[pdf]](https://journal.r-project.org/archive/2016-1/eder-rybicki-kestemont.pdf)
+* Kestemont, M.; Stronks, E.; De Bruin, M. & De Winkel, T. *Van wie is het Wilhelmus? Auteurskwesties rond het Nederlandse volkslied met de computer onderzocht*. Amsterdam: Amsterdam University Press (2016). ISBN:9789462985124.128 pp. Meertens Nieuwjaarsuitgaven [[link]](http://en.mip-arc-nl.aup.nl/books/9789462985124-van-wie-is-het-wilhelmus.html).
 
 
 ### In press / Accepted
