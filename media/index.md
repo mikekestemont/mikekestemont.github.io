@@ -37,11 +37,13 @@ A video squib on my specific nomination can be viewed here (Dutch audio, no subt
 <iframe width="500" height="281" src="//www.youtube.com/embed/kgE2JK12Vdo" frameborder="0" allowfullscreen></iframe>
 
 ## Wilhelmus
-In 2016 I gave the first Louis Peter Grijp Lecture on the authorship of the Wilhelmus, the official anthem of The Netherlands (and the oldest anthem in the world according to the Guinness Book of Records). Using computationel methods we were able to put forward an exciting new theory about this anonymous text's authorship. A video recording of the lecture (in Dutch) goes here:
+In 2016 I gave the first Louis Peter Grijp Lecture on the authorship of the *Wilhelmus*, the official anthem of The Netherlands (and the oldest anthem in the world according to the Guinness Book of Records). Using computational methods, we were able to put forward an exciting new theory about this anonymous text's authorship. A video recording of the lecture (in Dutch) goes here:
 
 <iframe src="https://player.vimeo.com/video/167434114" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+
 The preliminary results of this research initiative (carried out in close collaboration with Els Stronks, Martine de Bruin and Tim de Winkel) got very wide coverage in the international popular press, including:
+
 * A primetime radio [interview](https://www.nporadio1.nl/de-ochtend/onderwerpen/355871-wie-is-de-schrijver-van-het-wilhelmus) on Radio 1 (NL)
 * Articles in various newspapers: [deredactie.be](http://deredactie.be/cm/vrtnieuws/cultuur%2Ben%2Bmedia/kunsten/1.2652585), [De Volkskrant](http://www.volkskrant.nl/muziek/auteur-van-wilhelmus-iets-dichterbij-door-nieuwe-computeranalyse~a4298170/), [Reformatorisch Dagblad](https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiI0qzhz_7QAhUZdlAKHUk_DTkQFgggMAE&url=http%3A%2F%2Fwww.rd.nl%2Fmuziek%2Fdatheen-mogelijk-dichter-van-wilhelmus-1.544591&usg=AFQjCNFTHaneZEp8A6Bmn51Lw6NvOx4QVw&sig2=-hvX758O5SjSpJ-TDLpHLA), [National Geographic](http://www.nationalgeographic.nl/artikel/schrijver-van-het-wilhelmus-vermoedelijk-bekend), [De Telegraaf](http://www.telegraaf.nl/binnenland/25763880/___Datheen_schreef_Wilhelmus___.html), [NRC Handelsblad](https://www.nrc.nl/nieuws/2016/05/11/volkslied-software-ontdekt-echte-schrijver-wilhel-1620058-a1077233), [Knack](http://www.knack.be/nieuws/boeken/schrijver-van-het-wilhelmus-waarschijnlijk-gevonden/article-normal-701741.html), [nu.nl](http://www.nu.nl/wetenschap/4259667/schrijver-wilhelmus-ontdekken-met-computeralgoritme.html?redirect=1), [La voix du Nord](http://www.lavoixdunord.fr/region/un-casselois-pourrait-etre-l-auteur-de-l-hymne-ia18b47643n3510310)...
 * An informative [blog post](http://www.neerlandistiek.nl/2016/05/toevallig-op-petrus-datheen-stuiten/) on neerlandistiek.nl.
