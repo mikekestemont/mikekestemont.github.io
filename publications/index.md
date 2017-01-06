@@ -25,16 +25,16 @@ image:
 * Kestemont, M., Stover, J., Koppel, M., Karsdorp, K. & Daelemans, W., 'Authenticating the writings of Julius Caesar'. In: *Expert Systems with Applications* 63 (2016): pp. 86--96 [[link]](http://www.sciencedirect.com/science/article/pii/S0957417416303116).
 * Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. 'Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author'. In: *Journal of the American Society for Information Science and Technology* 67:1 (2016), pp. 239--242. [[link]](http://onlinelibrary.wiley.com/doi/10.1002/asi.23460/abstract).
 * D. van Hulle & M. Kestemont, 'Periodizing Samuel Becket's Works: A Stylochronometric Approach', *Style* 60:2 (2016), 172-202.
+* Stover, J. & Kestemont, M., 'The Authorship of the *Historia Augusta*: Two new computational studies'. In: *Bulletin of the Institute of Classical Studies* 59:2 (2016), pp. 140--157 [Digital Classics themed issue]. DOI: 10.1111/j.2041-5370.2016.12043.x
 * Eder, M.; Rybicki, J. & Kestemont, M., 'Stylometry with R: A Package for Computational Text Analysis'. *The R Journal* 8:1 (2016, pp. 107--121) [[pdf]](https://journal.r-project.org/archive/2016-1/eder-rybicki-kestemont.pdf)
-* Kestemont, M.; Stronks, E.; De Bruin, M. & De Winkel, T. *Van wie is het Wilhelmus? Auteurskwesties rond het Nederlandse volkslied met de computer onderzocht*. Amsterdam: Amsterdam University Press (2016). ISBN:9789462985124.128 pp. Meertens Nieuwjaarsuitgaven [[link]](http://en.mip-arc-nl.aup.nl/books/9789462985124-van-wie-is-het-wilhelmus.html).
+* Kestemont, M.; Stronks, E.; De Bruin, M. & De Winkel, T. *Van wie is het Wilhelmus? Auteurskwesties rond het Nederlandse volkslied met de computer onderzocht*. Amsterdam: Amsterdam University Press (2017). ISBN:9789462985124.128 pp. Meertens Nieuwjaarsuitgaven [[link]](http://en.mip-arc-nl.aup.nl/books/9789462985124-van-wie-is-het-wilhelmus.html).
 
 
 ### In press / Accepted
 
 * Kestemont, M., De Pauw, G., Van Nie, R. & Daelemans, W., 'Lemmatisation for Variation-Rich Languages Using Deep Learning'. Forthcoming in: *DSH -- Digital Scholarship in the Humanities*.
-* Stover, J. & Kestemont, M., 'The Authorship of the *Historia Augusta*: Two new computational studies'. In: *Bulletin of the Institute of Classical Studies* [2016]. Digital Classics themes issue.
 * Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', forthcoming in *Classical Quarterly*.
-* Kestemont, M., 'Stylometric Authorship Attribution for the Middle Dutch Mystical Tradition from Groenendaal', forthcoming in *Dutch Crossing. Journal of Low Countries Studies*.
+* Kestemont, M., ‘Stylometric Authorship Attribution for the Middle Dutch Mystical Tradition from Groenendaal’, forthcoming in Dutch Crossing. Journal of Low Countries Studies. doi = 10.1080/03096564.2016.1252077. ISSN: 0309-6564 Online ISSN: 1759-7854.
 * Eder, M., Rybicki, J. and Kestemont, M. Measuring Style. Forthcoming in *Digital Humanities for Literary Studies: Theories, Methods, and Practices*, ed. by J. O'Sullivan, UPenn Press (2016).
 
 
@@ -98,8 +98,8 @@ image:
 * Kestemont, M. (in collaboration with Schöch, C.), 'Learning Deep Representations of Characters in Literary History', in: *Digital Humanities 2014* (Lausanne, Switserland, 2014), p. 137. Part of the panel by: Craig, H; Eder, Maciej; Jannidis, Fotis; Kestemont, Mike; Rybicki, Jan; Schöch, Christof, 'Validating Computational Stylistics in Literary Interpretation' (pp. 135-137).
 * Van Zundert, Joris (panel convenor); Jannidis, Fotis; Drucker, Johanna; Rockwell, Geoffrey; Underwood, Ted; Kestemont, Mike; Andrews, Tara, 'What is Modeling and What is Not?', panel at: *Digital Humanities 2014* (Lausanne, Switserland, 2014), p. 63-65.
 * Karsdorp, F.; Kestemont, M. & Schöch, C. & Van den Bosch, A., 'The Love Equation: Computational Modeling of Romantic Relationships in French Classical Drama'. In: *Proceedings of the 6th Workshop on Computational Models of Narrative (CMN’15)*, May 26-28, 2015, Atlanta, USA, pp. 98--107 [[pdf]](http://narrative.csail.mit.edu/cmn15/paper4.pdf).
-* Kestemont, M., Stover, J., Koppel, M., Karsdorp, K. & Daelemans, W., 'Authorship Verification with the Ruzicka Metric', *Digital Humanities 2016* (Krakow, Poland, 2016), pp. 246--249.
-* Dirk van Hulle & Mike Kestemont, 'Stylochronometry and the Periodization of Samuel Beckett’s Prose', *Digital Humanities 2016* (Krakow, Poland, 2016), pp. 393--395.
+* Kestemont, M., Stover, J., Koppel, M., Karsdorp, K. & Daelemans, W., 'Authorship Verification with the Ruzicka Metric', *Digital Humanities 2016* (Krakow, Poland, 2016), pp. 246--249.ISBN 978–83–942760–3–4.
+* Dirk van Hulle & Mike Kestemont, 'Stylochronometry and the Periodization of Samuel Beckett’s Prose', *Digital Humanities 2016* (Krakow, Poland, 2016), pp. 393--395. ISBN 978–83–942760–3–4.
 
 
 ### Book contributions
