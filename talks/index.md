@@ -146,6 +146,10 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 * Kestemont, M., 'Siamese Networks for the Humanities. The Automated Classification of Image Pairs and Text Pairs'. Conference presentation at the Thirteenth annual conference of the European Society for Textual Scholarship (ESTS), Antwerp, 5-7 October 2016.
 * Kestemont, M., 'Expect the Unexpected. Serendipity and the Digital Humanities', Invited talk Radboud University Nijmegen, NL, 14 December 2016.
 
+### 2017
+* Kestemont, M., 'Deep Learning. The Hype, the Promise and the Humanities'. Invited talk at the eHumanities series, University of Leipzig (DE), 17 January 2017.
+* Kestemont, M. with F. Karsdorp, 'The State of Stylometry: Achievements and Challenges in Computational Stylistics'. Invited talk at the Digital Humanities Seminar, University of Manchester (UK), 26 Jan 2017.
+
 ## Posters
 
 * Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the 14e Vlaams-Nederlandse Mediëvistendag. Norm en afwijking, remedie en repressie. De aanpak van het deviante in de middeleeuwen (Louvain, 31/10/2008, organized by the Vlaamse Werkgroep mediëvistiek).
