@@ -21,7 +21,7 @@ image:
 
 
 ### Just out
-
+* Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', *The Classical Quarterly* 66:2 (2017), 645–672. [[doi]](doi:10.1017/S0009838816000768).
 * Kestemont, M., Stover, J., Koppel, M., Karsdorp, K. & Daelemans, W., 'Authenticating the writings of Julius Caesar'. In: *Expert Systems with Applications* 63 (2016): pp. 86--96 [[link]](http://www.sciencedirect.com/science/article/pii/S0957417416303116).
 * Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. 'Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author'. In: *Journal of the American Society for Information Science and Technology* 67:1 (2016), pp. 239--242. [[link]](http://onlinelibrary.wiley.com/doi/10.1002/asi.23460/abstract).
 * D. van Hulle & M. Kestemont, 'Periodizing Samuel Becket's Works: A Stylochronometric Approach', *Style* 60:2 (2016), 172-202.
@@ -33,7 +33,6 @@ image:
 ### In press / Accepted
 
 * Kestemont, M., De Pauw, G., Van Nie, R. & Daelemans, W., 'Lemmatisation for Variation-Rich Languages Using Deep Learning'. Forthcoming in: *DSH -- Digital Scholarship in the Humanities*.
-* Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', forthcoming in *Classical Quarterly*.
 * Kestemont, M., ‘Stylometric Authorship Attribution for the Middle Dutch Mystical Tradition from Groenendaal’, forthcoming in Dutch Crossing. Journal of Low Countries Studies. doi = 10.1080/03096564.2016.1252077. ISSN: 0309-6564 Online ISSN: 1759-7854.
 * Eder, M., Rybicki, J. and Kestemont, M. Measuring Style. Forthcoming in *Digital Humanities for Literary Studies: Theories, Methods, and Practices*, ed. by J. O'Sullivan, UPenn Press (2016).
 
