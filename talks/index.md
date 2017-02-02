@@ -149,6 +149,7 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 ### 2017
 * Kestemont, M., 'Deep Learning. The Hype, the Promise and the Humanities'. Invited talk at the eHumanities series, University of Leipzig (DE), 17 January 2017.
 * Kestemont, M. with F. Karsdorp, 'The State of Stylometry: Achievements and Challenges in Computational Stylistics'. Invited talk at the Digital Humanities Seminar, University of Manchester (UK), 26 Jan 2017.
+* Kestemont, M., 'Deep Learning for the Humanities. Bridging the Gap between Human and Artificial Intelligence'. Research Day at the Arts Faculty of the University of Antwerp (31/01/2017).
 
 ## Posters
 
