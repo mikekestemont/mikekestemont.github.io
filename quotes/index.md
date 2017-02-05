@@ -26,4 +26,5 @@ image:
 * Science has welcomed big data and scaled its methods accordingly. With a huge amount of digital-textual data, we must do the same. Close reading is not only impractical as a means of evidence gathering in the digital library, but big data render it totally inappropriate a as method of studying literary history (Jockers, M., *Macroanalysis. Digital Methods and Literary history*. University of Illinois Press, 2013).
 * "What I cannot create, I do not understand." (R. Feynman, on his blackboard at the time of death in February 1988)
 * "Any sufficiently advanced technology is indistinguishable from magic." (Arthur C. Clarke).
+* "The best minds of my generation are thinking about how to make people click ads. That sucks." (J. Hammerbacher).
 
