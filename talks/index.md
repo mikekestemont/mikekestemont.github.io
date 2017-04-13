@@ -36,6 +36,7 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Python Programming for the Humanities; multi-session programming course at the University of Ghent (BE); Fall 2015-Soring 2016. Co-taught with F. Karsdorp and Bart Desmet.
 * Digital Text Analysis Using Python. 3-hour tutorial at the conference "Digital disruption in Asia: Methods and issues". Leyden, 24 May 2016.
 * Introduction to Deep Learning for NLP in Python. Full day tutorial at Ghent University's LT3 Group (30 June 2016) [[course materials]](https://github.com/mikekestemont/ghentDL).
+* Radboud Digital Humanities Spring School 2017; Python track (29-31 March 2017). Co-taught with F. Karsdorp. [[website]](http://www.ru.nl/ehumanities/spring-school-2017/welcome/).
 
 
 
@@ -150,7 +151,8 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 * Kestemont, M., 'Deep Learning. The Hype, the Promise and the Humanities'. Invited talk at the eHumanities series, University of Leipzig (DE), 17 January 2017.
 * Kestemont, M. with F. Karsdorp, 'The State of Stylometry: Achievements and Challenges in Computational Stylistics'. Invited talk at the Digital Humanities Seminar, University of Manchester (UK), 26 Jan 2017.
 * Kestemont, M., 'Deep Learning for the Humanities. Bridging the Gap between Human and Artificial Intelligence'. Research Day at the Arts Faculty of the University of Antwerp (31/01/2017).
-* Kestemont, M., 'Het Wilhelmus en de dichter met de ezelsoren'. Plenary opening lecture *Nationale Wiskundedagen Nederland 23 (2017)*. Noordwijkerhout, 03/02/2017.
+* Kestemont, M., 'Het Wilhelmus en de dichter met de ezelsoren'. Plenary opening keynote *Nationale Wiskundedagen Nederland 23 (2017)*. Noordwijkerhout, 03/02/2017.
+* Kestemont, M., Stylometry for historic literature. Invited talk at the Groupe de recherche sur le moyen français, Université catholique de Louvain. 20 March 2017.
 
 ## Posters
 
