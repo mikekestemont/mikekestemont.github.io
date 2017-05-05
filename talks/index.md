@@ -37,6 +37,7 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Digital Text Analysis Using Python. 3-hour tutorial at the conference "Digital disruption in Asia: Methods and issues". Leyden, 24 May 2016.
 * Introduction to Deep Learning for NLP in Python. Full day tutorial at Ghent University's LT3 Group (30 June 2016) [[course materials]](https://github.com/mikekestemont/ghentDL).
 * Radboud Digital Humanities Spring School 2017; Python track (29-31 March 2017). Co-taught with F. Karsdorp. [[website]](http://www.ru.nl/ehumanities/spring-school-2017/welcome/).
+* Day-long training module on "Digital Text Analysis" in the doctoral school *Doctoral school "Loading: Methods and approaches in Digital Humanities". Ghent Center for Digital Humanities, Ghent University (3 May 2017).
 
 
 
