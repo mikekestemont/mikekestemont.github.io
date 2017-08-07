@@ -21,6 +21,7 @@ image:
 
 
 ### Just out
+* Kestemont, M. & J. de Gussem, 'Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning', *Journal of Data Mining & Digital Humanities* (2017), pp. 17 [[pdf](https://jdmdh.episciences.org/3835/pdf)]. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages, ed. M. Buechler and L. Mellerin.
 * Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', *The Classical Quarterly* 66:2 (2017), 645–672. [[doi]](doi:10.1017/S0009838816000768).
 * Kestemont, M., Stover, J., Koppel, M., Karsdorp, K. & Daelemans, W., 'Authenticating the writings of Julius Caesar'. In: *Expert Systems with Applications* 63 (2016): pp. 86--96 [[link]](http://www.sciencedirect.com/science/article/pii/S0957417416303116).
 * Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. 'Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author'. In: *Journal of the American Society for Information Science and Technology* 67:1 (2016), pp. 239--242. [[link]](http://onlinelibrary.wiley.com/doi/10.1002/asi.23460/abstract).
