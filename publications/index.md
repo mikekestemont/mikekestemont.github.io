@@ -91,6 +91,10 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Kestemont, M.; Stronks, E.; De Bruin, M. & De Winkel, T. *Van wie is het Wilhelmus? Auteurskwesties rond het Nederlandse volkslied met de computer onderzocht*. Amsterdam: Amsterdam University Press (2017). ISBN:9789462985124.128 pp. Meertens Nieuwjaarsuitgaven [[link]](http://en.mip-arc-nl.aup.nl/books/9789462985124-van-wie-is-het-wilhelmus.html).
 * Kestemont, M., *Het gewicht van de auteur. Stylometrische auteursherkenning in Middelnederlandse literatuur.* Gent: Koninklijke Academie voor Nederlandse Taal- en Letterkunde, 2013. Studies op het gebied van de oudere Nederlandse letterkunde, 5 (324 pp.), ISBN 978-90-72474-91-9. Label Garanteed Peer Reviewed Content.
 
+### Edited volumes
+* Ben Verhoeven, Walter Daelemans, Guy de Pauw & Mike Kestemont (eds.), *Computational Linguistics in the Netherlands Journal* 5 (2015). ISSN: 2211-4009.
+* Hugo Gonçalo Oliveira, Ben Burtenshaw, Mike Kestemont & Tom De Smedt (eds.), *Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)* [[link]](http://aclanthology.info/volumes/proceedings-of-the-workshop-on-computational-creativity-in-natural-language-generation-cc-nlg-2017). ACL, 2017. ISBN 978-1-945626-81-4.
+
 ### Papers in conference proceedings
 * Kestemont, M. & K. Van Dalen-Oskam, 'Predicting the past: memory-based copyist and author discrimination in medieval epics', in: *Proceedings of the twenty-first Benelux conference on artificial intelligence* (BNAIC 2009), T. Calders; K. Tuyls & M. Pechenizkiy (eds.). Eindhoven 2009, 121-128.
 * Kestemont, M., Daelemans, W. & Guy De Pauw, 'Space traveling: Assessing the 'soundness' of class labels in memory-based learning and the case of Middle Dutch spelling variation', extended abstract in: *Proceedings of the 19th Annual Belgian-Dutch Conference on Machine Learning* (Benelearn 2010). Leuven, 2010.
