@@ -21,14 +21,12 @@ image:
 
 
 ### Just out
-* Kestemont, M. & J. de Gussem, 'Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning', *Journal of Data Mining & Digital Humanities* (2017), pp. 17 [[pdf](https://jdmdh.episciences.org/3835/pdf)]. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages, ed. M. Buechler and L. Mellerin.
-* Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', *The Classical Quarterly* 66:2 (2017), 645–672. [[doi]](doi:10.1017/S0009838816000768).
-* Kestemont, M., Stover, J., Koppel, M., Karsdorp, K. & Daelemans, W., 'Authenticating the writings of Julius Caesar'. In: *Expert Systems with Applications* 63 (2016): pp. 86--96 [[link]](http://www.sciencedirect.com/science/article/pii/S0957417416303116).
-* Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. 'Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author'. In: *Journal of the American Society for Information Science and Technology* 67:1 (2016), pp. 239--242. [[link]](http://onlinelibrary.wiley.com/doi/10.1002/asi.23460/abstract).
-* D. van Hulle & M. Kestemont, 'Periodizing Samuel Becket's Works: A Stylochronometric Approach', *Style* 60:2 (2016), 172-202.
-* Stover, J. & Kestemont, M., 'The Authorship of the *Historia Augusta*: Two new computational studies'. In: *Bulletin of the Institute of Classical Studies* 59:2 (2016), pp. 140--157 [Digital Classics themed issue]. DOI: 10.1111/j.2041-5370.2016.12043.x
-* Eder, M.; Rybicki, J. & Kestemont, M., 'Stylometry with R: A Package for Computational Text Analysis'. *The R Journal* 8:1 (2016, pp. 107--121) [[pdf]](https://journal.r-project.org/archive/2016-1/eder-rybicki-kestemont.pdf)
-* Kestemont, M.; Stronks, E.; De Bruin, M. & De Winkel, T. *Van wie is het Wilhelmus? Auteurskwesties rond het Nederlandse volkslied met de computer onderzocht*. Amsterdam: Amsterdam University Press (2017). ISBN:9789462985124.128 pp. Meertens Nieuwjaarsuitgaven [[link]](http://en.mip-arc-nl.aup.nl/books/9789462985124-van-wie-is-het-wilhelmus.html).
+
+* Manjavacas, E.; Karsdorp, F.; Burtenshaw, B. & Kestemont, M., "Synthetic Literature: Writing Science Fiction in a Co-Creative Process". *Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)*, collocated with INLG 2017 (Santiago de Compostella, September 4, 2017), pp. 29-37 [[pdf]](http://aclweb.org/anthology/W17-3904).
+* Manjavacas, E.; De Gussem, J.; Daelemans, W. & Kestemont, M., "Assessing the Stylistic Properties of Neurally Generated Text in Authorship Attribution". *Proceedings of the Workshop on Stylistic Variation*, collocated with EMNLP 2017 (Copenhagen, September 8, 2017), pp. 116-125 [[pdf]](http://aclweb.org/anthology/W17-4914).
+* Kestemont, M.; Stronks, E.; De Bruin, M. & De Winkel, T., "Did a Poet with Donkey Ears Write the Oldest Anthem in the World?
+Ideological Implications of the Computational Attribution of the Dutch National Anthem to Petrus Dathenus". *Digital Humanities 2017. Book of Abstracts* (Montreal, August 9, 2017), pp. 280-282 [[pdf]](https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf).
+* Kestemont, M. & Stutzmann, D., "Script Identification in Medieval Latin Manuscripts Using Convolutional Neural Networks". *Digital Humanities 2017. Book of Abstracts* (Montreal, August 10, 2017), pp. 283-285 [[pdf]](https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf).
 
 
 ### In press / Accepted
@@ -41,9 +39,18 @@ image:
 
 ## Journal papers
 
+### 2017
+* Kestemont, M. & J. de Gussem, 'Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning', *Journal of Data Mining & Digital Humanities* (2017), pp. 17 [[pdf](https://jdmdh.episciences.org/3835/pdf)]. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages, ed. M. Buechler and L. Mellerin.
+* Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', *The Classical Quarterly* 66:2 (2017), 645–672. [[doi]](doi:10.1017/S0009838816000768).
+
 ### 2016
+* Kestemont, M., Stover, J., Koppel, M., Karsdorp, K. & Daelemans, W., 'Authenticating the writings of Julius Caesar'. In: *Expert Systems with Applications* 63 (2016): pp. 86--96 [[link]](http://www.sciencedirect.com/science/article/pii/S0957417416303116).
 * Kestemont, M., 'Computers leren taal uit het niets', *Onze Taal. Tijdschrift over taal, tekst en communicatie* 55:1 (2016), pp. 9-11.
 * Kestemont, M., 'Beta humanities. De opmars van digitale technieken in de geesteswetenschappen'. *Neerlandia. Nederlands-Vlaams tijdschrift voor taal, cultuur en maatschappij* 120:3 (2016), pp. 4-7.
+* Stover, J.; Winter, Y.; Koppel, M. & Kestemont, M. 'Computational Authorship Verification Method Attributes New Work to Major 2nd Century African Author'. In: *Journal of the American Society for Information Science and Technology* 67:1 (2016), pp. 239--242. [[link]](http://onlinelibrary.wiley.com/doi/10.1002/asi.23460/abstract).
+* D. van Hulle & M. Kestemont, 'Periodizing Samuel Becket's Works: A Stylochronometric Approach', *Style* 60:2 (2016), 172-202.
+* Stover, J. & Kestemont, M., 'The Authorship of the *Historia Augusta*: Two new computational studies'. In: *Bulletin of the Institute of Classical Studies* 59:2 (2016), pp. 140--157 [Digital Classics themed issue]. DOI: 10.1111/j.2041-5370.2016.12043.x
+* Eder, M.; Rybicki, J. & Kestemont, M., 'Stylometry with R: A Package for Computational Text Analysis'. *The R Journal* 8:1 (2016, pp. 107--121) [[pdf]](https://journal.r-project.org/archive/2016-1/eder-rybicki-kestemont.pdf)
 
 
 ### 2015
@@ -80,7 +87,8 @@ image:
 * Kestemont, M. Daelemans, W. & De Pauw G., 'Weigh your words ? Memory-Based Lemmatization for Middle Dutch', in: *Literary and Linguistic Computing* 25:3 (2010), 287-301.
 * Kestemont, M., 'Seghers wapenfeiten. Oude en nieuwe hypotheses omtrent de Trojeroman, het huis van Gaasbeek en het handschrift-Van Hulthem' [Segher's Feats. Old and New Hypotheses about the Romance of Troy, the House of Gaasbeek and the Van Hulthem Manuscript], in: *Spiegel der Letteren* 52:3 (2010), 249-275.
 
-### Book
+### Books
+* Kestemont, M.; Stronks, E.; De Bruin, M. & De Winkel, T. *Van wie is het Wilhelmus? Auteurskwesties rond het Nederlandse volkslied met de computer onderzocht*. Amsterdam: Amsterdam University Press (2017). ISBN:9789462985124.128 pp. Meertens Nieuwjaarsuitgaven [[link]](http://en.mip-arc-nl.aup.nl/books/9789462985124-van-wie-is-het-wilhelmus.html).
 * Kestemont, M., *Het gewicht van de auteur. Stylometrische auteursherkenning in Middelnederlandse literatuur.* Gent: Koninklijke Academie voor Nederlandse Taal- en Letterkunde, 2013. Studies op het gebied van de oudere Nederlandse letterkunde, 5 (324 pp.), ISBN 978-90-72474-91-9. Label Garanteed Peer Reviewed Content.
 
 ### Papers in conference proceedings
