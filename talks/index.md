@@ -38,6 +38,8 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Introduction to Deep Learning for NLP in Python. Full day tutorial at Ghent University's LT3 Group (30 June 2016) [[course materials]](https://github.com/mikekestemont/ghentDL).
 * Radboud Digital Humanities Spring School 2017; Python track (29-31 March 2017). Co-taught with F. Karsdorp. [[website]](http://www.ru.nl/ehumanities/spring-school-2017/welcome/).
 * Day-long training module on "Digital Text Analysis" in the doctoral school *Doctoral school "Loading: Methods and approaches in Digital Humanities". Ghent Center for Digital Humanities, Ghent University (3 May 2017).
+* Full-day workshop on "Distant Reading for the Middle Ages: Stylometry and Serendipity" at the *École nationale des chartes* in Paris (30 March 2017).
+* Stylometry modules in week 2 of the NEH Institute *Make your edition: models and methods for digital textual scholarship*. University of Pittsburgh.
 
 
 
@@ -154,6 +156,12 @@ Person of the Year. Invited talk at Joint Machine Learning/Information Foraging 
 * Kestemont, M., 'Deep Learning for the Humanities. Bridging the Gap between Human and Artificial Intelligence'. Research Day at the Arts Faculty of the University of Antwerp (31/01/2017).
 * Kestemont, M., 'Het Wilhelmus en de dichter met de ezelsoren'. Plenary opening keynote *Nationale Wiskundedagen Nederland 23 (2017)*. Noordwijkerhout, 03/02/2017.
 * Kestemont, M., Stylometry for historic literature. Invited talk at the Groupe de recherche sur le moyen français, Université catholique de Louvain. 20 March 2017.
+* Kestemont, M.; Stronks, E.; De Bruin, M. & De Winkel, T., "Did a Poet with Donkey Ears Write the Oldest Anthem in the World?
+Ideological Implications of the Computational Attribution of the Dutch National Anthem to Petrus Dathenus". *Digital Humanities 2017* (Montreal, August 9, 2017).
+* Kestemont, M. & Stutzmann, D., "Script Identification in Medieval Latin Manuscripts Using Convolutional Neural Networks". *Digital Humanities 2017* (Montreal, August 10, 2017).
+* Manjavacas, E.; Karsdorp, F.; Burtenshaw, B. & Kestemont, M., "Synthetic Literature: Writing Science Fiction in a Co-Creative Process". Talk at the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017), collocated with INLG 2017 (Santiago de Compostella, September 4, 2017).
+* Manjavacas, E.; De Gussem, J.; Daelemans, W. & Kestemont, M., "Assessing the Stylistic Properties of Neurally Generated Text in Authorship Attribution". Talk at the first Workshop on Stylistic Variation, collocated with EMNLP 2017 (Copenhagen, September 8, 2017).
+* Kestemont, M.; Martens, G. and Ries, T., "A challenge for stylometry and authorship attribution methods: Goethe‘s contributions to the *Frankfurter Gelehrte Anzeigen* 1772/73". Talk at the conference *Digital approaches towards serial publications (18th–20th centuries)* (Brussels, 11 September 2017).
 
 ## Posters
 
