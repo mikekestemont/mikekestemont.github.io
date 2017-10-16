@@ -20,8 +20,16 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-### Just out
+### Digital Supplement *Speculum* online!
 
+![cover speculum issue](../images/spec_cover.jpg "cover speculum issue")
+
+- *Speculum. A Journal of Medieval Studies* 92:S1 (2017), digital supplement: 'The Digital Middle Ages', guest edited by David J. Birnbaum, Sheila Bonde, Mike Kestemont. CC-BY-NC [[link]](http://www.journals.uchicago.edu/toc/spc/2017/92/S1). Including:
+- David J. Birnbaum, Sheila Bonde, Mike Kestemont, "The Digital Middle Ages: An Introduction", pp. S1–S38 [[pdf]](http://www.journals.uchicago.edu/doi/pdfplus/10.1086/694236).
+- Mike Kestemont, Vincent Christlein, Dominique Stutzmann, "Artificial Paleography: Computational Approaches to Identifying Script Types in Medieval Manuscripts", pp. S86–S109.
+- David J. Birnbaum, Sheila Bonde, Mike Kestemont, "The Digital Middle Ages: A *Speculum* Supplement", pp. 961–962.
+
+### Recent
 * Manjavacas, E.; Karsdorp, F.; Burtenshaw, B. & Kestemont, M., "Synthetic Literature: Writing Science Fiction in a Co-Creative Process". *Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)*, collocated with INLG 2017 (Santiago de Compostella, September 4, 2017), pp. 29-37 [[pdf]](http://aclweb.org/anthology/W17-3904).
 * Manjavacas, E.; De Gussem, J.; Daelemans, W. & Kestemont, M., "Assessing the Stylistic Properties of Neurally Generated Text in Authorship Attribution". *Proceedings of the Workshop on Stylistic Variation*, collocated with EMNLP 2017 (Copenhagen, September 8, 2017), pp. 116-125 [[pdf]](http://aclweb.org/anthology/W17-4914).
 * Kestemont, M.; Stronks, E.; De Bruin, M. & De Winkel, T., "Did a Poet with Donkey Ears Write the Oldest Anthem in the World?
