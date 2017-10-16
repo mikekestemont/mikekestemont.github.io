@@ -162,6 +162,8 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Manjavacas, E.; Karsdorp, F.; Burtenshaw, B. & Kestemont, M., "Synthetic Literature: Writing Science Fiction in a Co-Creative Process". Talk at the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017), collocated with INLG 2017 (Santiago de Compostella, September 4, 2017).
 * Manjavacas, E.; De Gussem, J.; Daelemans, W. & Kestemont, M., "Assessing the Stylistic Properties of Neurally Generated Text in Authorship Attribution". Talk at the first Workshop on Stylistic Variation, collocated with EMNLP 2017 (Copenhagen, September 8, 2017).
 * Kestemont, M.; Martens, G. and Ries, T., "A challenge for stylometry and authorship attribution methods: Goethe‘s contributions to the *Frankfurter Gelehrte Anzeigen* 1772/73". Talk at the conference *Digital approaches towards serial publications (18th–20th centuries)* (Brussels, 11 September 2017).
+* Kestemont, M., "Generative Models and the Digital Humanities". Evening keynote presented at the Summer School CAST 2017. Computergestützte Analyse und Verarbeitung von Sprache und Text. Graz, Austria, 21 September 2017.
+
 
 ## Posters
 
