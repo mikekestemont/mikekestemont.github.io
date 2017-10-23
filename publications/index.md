@@ -30,6 +30,8 @@ image:
 - David J. Birnbaum, Sheila Bonde, Mike Kestemont, "The Digital Middle Ages: A *Speculum* Supplement", pp. 961–962.
 
 ### Recent
+
+* Kestemont, M., De Pauw, G., Van Nie, R. & Daelemans, W., 'Lemmatisation for Variation-Rich Languages Using Deep Learning'. *DSH -- Digital Scholarship in the Humanities* 32:4 (2017), 797-815. DOI: https://doi.org/10.1093/llc/fqw034
 * Manjavacas, E.; Karsdorp, F.; Burtenshaw, B. & Kestemont, M., "Synthetic Literature: Writing Science Fiction in a Co-Creative Process". *Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)*, collocated with INLG 2017 (Santiago de Compostella, September 4, 2017), pp. 29-37 [[pdf]](http://aclweb.org/anthology/W17-3904).
 * Manjavacas, E.; De Gussem, J.; Daelemans, W. & Kestemont, M., "Assessing the Stylistic Properties of Neurally Generated Text in Authorship Attribution". *Proceedings of the Workshop on Stylistic Variation*, collocated with EMNLP 2017 (Copenhagen, September 8, 2017), pp. 116-125 [[pdf]](http://aclweb.org/anthology/W17-4914).
 * Kestemont, M.; Stronks, E.; De Bruin, M. & De Winkel, T., "Did a Poet with Donkey Ears Write the Oldest Anthem in the World?
@@ -39,7 +41,6 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 
 ### In press / Accepted
 
-* Kestemont, M., De Pauw, G., Van Nie, R. & Daelemans, W., 'Lemmatisation for Variation-Rich Languages Using Deep Learning'. Forthcoming in: *DSH -- Digital Scholarship in the Humanities*.
 * Kestemont, M., ‘Stylometric Authorship Attribution for the Middle Dutch Mystical Tradition from Groenendaal’, forthcoming in Dutch Crossing. Journal of Low Countries Studies. doi = 10.1080/03096564.2016.1252077. ISSN: 0309-6564 Online ISSN: 1759-7854.
 * Eder, M., Rybicki, J. and Kestemont, M. Measuring Style. Forthcoming in *Digital Humanities for Literary Studies: Theories, Methods, and Practices*, ed. by J. O'Sullivan, UPenn Press (2016).
 
