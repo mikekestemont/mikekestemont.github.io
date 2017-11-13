@@ -142,5 +142,10 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Kestemont, M., 'Plagiaat in de Guldensporenslag' ['Plagiarism in the Battle of the Golden Spurs'], in: *Eos. Actueel maandblad over wetenschapen technologie* 27:1 (2011), 36-39.
 * Kestemont, M., 'Oraal erfgoed – bewaart dat? Enkele bespiegelingen over schrift- en taalcultuur', introductory contribution to the heritage project *Peepel Tervuren. Taal en verhaal in Tervuren* [online](http://www.peepel.be/?page_id=56)
 
+### Competitions / Shared tasks
+* With Vincent Chrislein and Andreas Maier: ICDAR 2017 Competition on the Classification of Medieval Handwritings in Latin Script at the *2017 14th IAPR International Conference on Document Analysis and Recognition*. First position in 2 of the 4 tasks ("script type classification and dating on unconstrained datasets") and 2nd in the other two tasks. See: [http://clamm.irht.cnrs.fr/icdar-2017/].
+* 1st position in task two ("fuzzy classification") of the  ICFHR2016 Competition on the Classification of Medieval Handwritings in Latin Script. See: Florence Cloppet, Véronique Eglin, Van Kieu, Dominique Stutzmann, and Nicole Vincent, ICFHR2016 Competition on the Classification of Medieval Handwritings in Latin Script,” in Proceedings of the International Conference in Frontiers on Handwriting Recognition (Shenzhen, China, 2016), 590–95.
+* With Kim Luyckx and Walter Daelemans: 2nd position in the intrinsic plagiarism detection track at the PAN 2012 Lab Uncovering Plagiarism, Authorship, and Social Software Misuse held in conjunction with the CLEF 2012 Conference. See: 
+
 
 
