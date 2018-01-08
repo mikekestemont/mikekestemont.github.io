@@ -177,5 +177,4 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Participation in panel with Van Zundert, Joris (convenor); Jannidis, Fotis; Drucker, Johanna; Rockwell, Geoffrey; Underwood, Ted; Andrews, Tara, ‘What is Modeling and What is Not?’, *Digital Humanities 2014* (Lausanne, Switserland, 10/07/2014).
 * Participation in panel with Svetlana Lutchitskaya, Claire McIlroy, Nada Zečevič, ‘Heritages: A Round Table’, *Annual Meeting of CARMEN, the international medieval network* (Stirling, Scotland, 11 September 2014).
 * Moderated panel with the "eager beavers" (Dong Nguyen, Eva D'Hondt, Folgert Karsdorp and Tim Van de Cruys) at CLIN25 (Computational Linguistics in The Netherlands), Antwerp, 5/02/2015.
-
- 
+* Participation in panel 'Literatuur in de ban van algoritmes: de computer mee achter de schrijftafel?'. *Werkcongres Vlaamse Auteursvereniging*. Antwerp, 6 January 2018. With: Karina van Dalen–Oskam, Koen Van Gulik, Paul Verrept. Moderator: Hans Cottyn.
