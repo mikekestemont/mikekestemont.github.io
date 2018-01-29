@@ -103,6 +103,7 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 ### Edited volumes
 * Ben Verhoeven, Walter Daelemans, Guy de Pauw & Mike Kestemont (eds.), *Computational Linguistics in the Netherlands Journal* 5 (2015). ISSN: 2211-4009.
 * Hugo Gonçalo Oliveira, Ben Burtenshaw, Mike Kestemont & Tom De Smedt (eds.), *Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)* [[link]](http://aclanthology.info/volumes/proceedings-of-the-workshop-on-computational-creativity-in-natural-language-generation-cc-nlg-2017). ACL, 2017. ISBN 978-1-945626-81-4.
+* Joris van Zundert, Sally Chambers, Mike Kestemont, Marijn Koolen & Catherine Jones (eds.), *Proceedings of the DHBeNeLux Conference 2015*, special issue of *Digital Humanities Quarterly* 11.4 (2017). http://www.digitalhumanities.org/dhq/preview/index.html.
 
 ### Papers in conference proceedings
 * Kestemont, M. & K. Van Dalen-Oskam, 'Predicting the past: memory-based copyist and author discrimination in medieval epics', in: *Proceedings of the twenty-first Benelux conference on artificial intelligence* (BNAIC 2009), T. Calders; K. Tuyls & M. Pechenizkiy (eds.). Eindhoven 2009, 121-128.
