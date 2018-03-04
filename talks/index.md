@@ -163,14 +163,18 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Manjavacas, E.; De Gussem, J.; Daelemans, W. & Kestemont, M., "Assessing the Stylistic Properties of Neurally Generated Text in Authorship Attribution". Talk at the first Workshop on Stylistic Variation, collocated with EMNLP 2017 (Copenhagen, September 8, 2017).
 * Kestemont, M.; Martens, G. and Ries, T., "A challenge for stylometry and authorship attribution methods: Goethe‘s contributions to the *Frankfurter Gelehrte Anzeigen* 1772/73". Talk at the conference *Digital approaches towards serial publications (18th–20th centuries)* (Brussels, 11 September 2017).
 * Kestemont, M., "Generative Models and the Digital Humanities". Evening keynote presented at the Summer School CAST 2017. Computergestützte Analyse und Verarbeitung von Sprache und Text. Graz, Austria, 21 September 2017.
-* Kestemont, M., "Towards Synthetic Literature". Invited talk at exhibition "Algoliterary Lectures". Maison du livre, Bruxelles
-10 November 2017 Brussels.
+* Kestemont, M., "Towards Synthetic Literature". Invited talk at exhibition "Algoliterary Lectures". Maison du livre, Bruxelles, 10 November 2017 Brussels.
+
+### 2018
+* Kestemont, M., Joosen, J. and Van Hulle, D. "Modelling the Muggles. Applying distributional semantics to the Harry Potter novels by J.K. Rowling". Workshop talk at *Embedded Humanities - The Use of Distributional Models in the Digital Humanities*, preconference workshop at DHd 2018, Cologne, 27 February 2018 [[link]](http://dariah-tda.github.io/meeting/activity/workshop/2018/02/08/Schedule-Workshop-on-Embeddings.html).
 
 
 ## Posters
 
 * Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the 14e Vlaams-Nederlandse Mediëvistendag. Norm en afwijking, remedie en repressie. De aanpak van het deviante in de middeleeuwen (Louvain, 31/10/2008, organized by the Vlaamse Werkgroep mediëvistiek).
 * Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the CNTS (CLiPS) Research Assembly (Antwerp, 7/11/2008).
+* Franzini, G., Kestemont, M. and Fischer, Franz, 'Digital Medievalist: A Web Community for Medievalists working with Digital Media'. Poster presented at Dhd 2018, Cologne [[DOI]](http://dx.doi.org/10.13140/RG.2.2.19675.05922).
+
 
 ## Panels
 
