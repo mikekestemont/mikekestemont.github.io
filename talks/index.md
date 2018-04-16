@@ -168,6 +168,7 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 ### 2018
 * Kestemont, M., Joosen, J. and Van Hulle, D. "Modelling the Muggles. Applying distributional semantics to the Harry Potter novels by J.K. Rowling". Workshop talk at *Embedded Humanities - The Use of Distributional Models in the Digital Humanities*, preconference workshop at DHd 2018, Cologne, 27 February 2018 [[link]](http://dariah-tda.github.io/meeting/activity/workshop/2018/02/08/Schedule-Workshop-on-Embeddings.html).
 * Kestemont, M., Joosen, J. and Van Hulle, D. "The computer as literary scholar? Analyzing Harry Potter with DH tools – a pilot study". Conference presentation at *Growing Scientists! Children's literature and the sciences*, Antwerp, 7 March 2018 [[link]](https://www.uantwerpen.be/en/conferences/growing-scientists-2018/programme/).
+* Kestemont, M. (with Manjavacas, E.; Karsdorp, F. and Burtenshaw, B., "Synthetische literatuur". Invited lunch lecture at Uitgeverij Wereldbibliotheek, Amsterdam, 15 March 2018.
 
 
 ## Posters
