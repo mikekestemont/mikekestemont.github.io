@@ -30,13 +30,8 @@ image:
 - David J. Birnbaum, Sheila Bonde, Mike Kestemont, "The Digital Middle Ages: A *Speculum* Supplement", pp. 961–962.
 
 ### Recent
-
-* Kestemont, M., De Pauw, G., Van Nie, R. & Daelemans, W., 'Lemmatisation for Variation-Rich Languages Using Deep Learning'. *DSH -- Digital Scholarship in the Humanities* 32:4 (2017), 797-815. DOI: https://doi.org/10.1093/llc/fqw034
-* Manjavacas, E.; Karsdorp, F.; Burtenshaw, B. & Kestemont, M., "Synthetic Literature: Writing Science Fiction in a Co-Creative Process". *Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)*, collocated with INLG 2017 (Santiago de Compostella, September 4, 2017), pp. 29-37 [[pdf]](http://aclweb.org/anthology/W17-3904).
-* Manjavacas, E.; De Gussem, J.; Daelemans, W. & Kestemont, M., "Assessing the Stylistic Properties of Neurally Generated Text in Authorship Attribution". *Proceedings of the Workshop on Stylistic Variation*, collocated with EMNLP 2017 (Copenhagen, September 8, 2017), pp. 116-125 [[pdf]](http://aclweb.org/anthology/W17-4914).
-* Kestemont, M.; Stronks, E.; De Bruin, M. & De Winkel, T., "Did a Poet with Donkey Ears Write the Oldest Anthem in the World?
-Ideological Implications of the Computational Attribution of the Dutch National Anthem to Petrus Dathenus". *Digital Humanities 2017. Book of Abstracts* (Montreal, August 9, 2017), pp. 280-282 [[pdf]](https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf).
-* Kestemont, M. & Stutzmann, D., "Script Identification in Medieval Latin Manuscripts Using Convolutional Neural Networks". *Digital Humanities 2017. Book of Abstracts* (Montreal, August 10, 2017), pp. 283-285 [[pdf]](https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf).
+- Franzini Greta, Kestemont Mike, Rotari Gabriela, Jander Melina, Ochab Jeremi K., Franzini Emily, Byszuk Joanna, & Rybicki Jan. "Attributing authorship in the noisy digitized correspondence of Jacob and Wilhelm Grimm". *Frontiers in Digital Humanities* 5:4(2018), p. 1-15 [[paper]](https://www.frontiersin.org/articles/10.3389/fdigh.2018.00004/full).
+- Tanghe, Koen & Kestemont, Mike, "Edinburgh and the Birth of British Evolutionism: A Peek behind a Veil of Anonymity", *BioScience*, Advance access published Published: 20 June 2018. DOI: 10.1093/biosci/biy049 [[link]](https://academic.oup.com/bioscience/advance-article-abstract/doi/10.1093/biosci/biy049/5039568?redirectedFrom=fulltext).
 
 
 ### In press / Accepted
@@ -48,7 +43,9 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 
 ## Journal papers
 
+
 ### 2017
+* Kestemont, M., De Pauw, G., Van Nie, R. & Daelemans, W., 'Lemmatisation for Variation-Rich Languages Using Deep Learning'. *DSH -- Digital Scholarship in the Humanities* 32:4 (2017), 797-815. DOI: https://doi.org/10.1093/llc/fqw034
 * Kestemont, M. & J. de Gussem, 'Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning', *Journal of Data Mining & Digital Humanities* (2017), pp. 17 [[pdf](https://jdmdh.episciences.org/3835/pdf)]. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages, ed. M. Buechler and L. Mellerin.
 * Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', *The Classical Quarterly* 66:2 (2017), 645–672. [[doi]](doi:10.1017/S0009838816000768).
 
@@ -122,6 +119,12 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Karsdorp, F.; Kestemont, M. & Schöch, C. & Van den Bosch, A., 'The Love Equation: Computational Modeling of Romantic Relationships in French Classical Drama'. In: *Proceedings of the 6th Workshop on Computational Models of Narrative (CMN’15)*, May 26-28, 2015, Atlanta, USA, pp. 98--107 [[pdf]](http://narrative.csail.mit.edu/cmn15/paper4.pdf).
 * Kestemont, M., Stover, J., Koppel, M., Karsdorp, K. & Daelemans, W., 'Authorship Verification with the Ruzicka Metric', *Digital Humanities 2016* (Krakow, Poland, 2016), pp. 246--249.ISBN 978–83–942760–3–4.
 * Dirk van Hulle & Mike Kestemont, 'Stylochronometry and the Periodization of Samuel Beckett’s Prose', *Digital Humanities 2016* (Krakow, Poland, 2016), pp. 393--395. ISBN 978–83–942760–3–4.
+* Manjavacas, E.; Karsdorp, F.; Burtenshaw, B. & Kestemont, M., "Synthetic Literature: Writing Science Fiction in a Co-Creative Process". *Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)*, collocated with INLG 2017 (Santiago de Compostella, September 4, 2017), pp. 29-37 [[pdf]](http://aclweb.org/anthology/W17-3904).
+* Manjavacas, E.; De Gussem, J.; Daelemans, W. & Kestemont, M., "Assessing the Stylistic Properties of Neurally Generated Text in Authorship Attribution". *Proceedings of the Workshop on Stylistic Variation*, collocated with EMNLP 2017 (Copenhagen, September 8, 2017), pp. 116-125 [[pdf]](http://aclweb.org/anthology/W17-4914).
+* Kestemont, M.; Stronks, E.; De Bruin, M. & De Winkel, T., "Did a Poet with Donkey Ears Write the Oldest Anthem in the World?
+Ideological Implications of the Computational Attribution of the Dutch National Anthem to Petrus Dathenus". *Digital Humanities 2017. Book of Abstracts* (Montreal, August 9, 2017), pp. 280-282 [[pdf]](https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf).
+* Kestemont, M. & Stutzmann, D., "Script Identification in Medieval Latin Manuscripts Using Convolutional Neural Networks". *Digital Humanities 2017. Book of Abstracts* (Montreal, August 10, 2017), pp. 283-285 [[pdf]](https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf).
+* Kestemont M. & Manjavacas, E., "The re-creation of Harry Potter: Tracing style and content across novels, movie scripts and fanfiction", *Digital Humanities 2018. Book of Abstracts* (Mexico City, 25 June, 2018), pp. 715-716. [[pdf]](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf).
 
 
 ### Book contributions

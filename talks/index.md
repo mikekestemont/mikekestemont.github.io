@@ -40,6 +40,8 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Day-long training module on "Digital Text Analysis" in the doctoral school *Doctoral school "Loading: Methods and approaches in Digital Humanities". Ghent Center for Digital Humanities, Ghent University (3 May 2017).
 * Full-day workshop on "Distant Reading for the Middle Ages: Stylometry and Serendipity" at the *École nationale des chartes* in Paris (30 March 2017).
 * Stylometry modules in week 2 of the NEH Institute *Make your edition: models and methods for digital textual scholarship*. University of Pittsburgh.
+* With Enrique Manjavacas, *The Re-Creation Of Harry Potter: Tracing Style And Content Across Novels, Movie Scripts And Fanfiction*. Full-day, preconference tutorial at *Digital Humanities 2018*. Mexico City, Mexico, 25 June 2018 [[link]](https://dh2018.adho.org/the-re-creation-of-harry-potter-tracing-style-and-content-across-novels-movie-scripts-and-fanfiction/).
+* With Folgert Karsdorp, "How to Read a Million Stories? Digital Text Analysis for the Study of Children's Literature". Full-day tutorial at the *Children's Literature Summer School 2018*, University of Antwerp, 5 July 2018.
 
 
 
@@ -170,7 +172,10 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Kestemont, M., Joosen, J. and Van Hulle, D. "The computer as literary scholar? Analyzing Harry Potter with DH tools – a pilot study". Conference presentation at *Growing Scientists! Children's literature and the sciences*, Antwerp, 7 March 2018 [[link]](https://www.uantwerpen.be/en/conferences/growing-scientists-2018/programme/).
 * Kestemont, M. (with Manjavacas, E.; Karsdorp, F. and Burtenshaw, B., "Synthetische literatuur". Invited lunch lecture at Uitgeverij Wereldbibliotheek, Amsterdam, 15 March 2018.
 * Mike Kestemont, 'Harry Potter as a case study in teaching digital text analysis'. *DARIAH-EU Working Group meetings: WG Text and Data Analytics. Collocated with the DARIAH-EU Annual Event*. Paris, 23 May 2018.
-* Mike Kestemont, 'Het web van de medioneerlandistiek. De zin en onzin van citatie-analyses'. *Vierde Dag van de medioneerlandistiek*. Leiden, 1 juni 2018. 
+* Mike Kestemont, 'Het web van de medioneerlandistiek. De zin en onzin van citatie-analyses'. *Vierde Dag van de medioneerlandistiek*. Leiden, 1 juni 2018.
+* Kestemont, M., Joosen, J. and Van Hulle, D., "Harry Potter as a case study in teaching digital text analysis". 18 June 2018, Troisième atelier *Motifs*. Paris.
+* Karsdorp, F. & Kestemont, M., "Synthesising humanities. Explaining complex models through simple data synthesis". Closing keynote lecture at *Digitial Humanities Benelux conference 2018*. Amsterdam, The Netherlands, 8 June 2018. [[link]](http://2018.dhbenelux.org/keynotes/). 
+* Karsdorp, F. & Kestemont, M., "How to Read a Million Stories? Digital Text Analysis for the Study of Children's Literature". Plenary lecture at Children's Literature Summer School 2018, University of Antwerp, 5 July 2018.
 
 
 
