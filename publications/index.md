@@ -30,8 +30,8 @@ image:
 - David J. Birnbaum, Sheila Bonde, Mike Kestemont, "The Digital Middle Ages: A *Speculum* Supplement", pp. 961–962.
 
 ### Recent
-- Franzini Greta, Kestemont Mike, Rotari Gabriela, Jander Melina, Ochab Jeremi K., Franzini Emily, Byszuk Joanna, & Rybicki Jan. "Attributing authorship in the noisy digitized correspondence of Jacob and Wilhelm Grimm". *Frontiers in Digital Humanities* 5:4(2018), p. 1-15 [[paper]](https://www.frontiersin.org/articles/10.3389/fdigh.2018.00004/full).
-- Tanghe, Koen & Kestemont, Mike, "Edinburgh and the Birth of British Evolutionism: A Peek behind a Veil of Anonymity", *BioScience*, Advance access published Published: 20 June 2018. DOI: 10.1093/biosci/biy049 [[link]](https://academic.oup.com/bioscience/advance-article-abstract/doi/10.1093/biosci/biy049/5039568?redirectedFrom=fulltext).
+- Mike Kestemont, Michael Tschuggnall, Efstathios Stamatatos, Walter Daelemans, Günther Specht, Benno Stein, and Martin Potthast. 'Overview of the Author Identification Task at PAN-2018. Cross-domain Authorship Attribution and Style Change Detection'. In Linda Cappellato, Nicola Ferro, Jian-Yun Nie and Laure Soulier (editors), *Working Notes Papers of the CLEF 2018 Evaluation Labs. Avignon, France, September 10-14, 2018*. Volume 2125 of CEUR Workshop Proceedings, 2018. No pagination (25 pages). http://ceur-ws.org/Vol-2125/invited_paper_2.pdf
+- Efstathios Stamatatos, Francisco Rangel, Michael Tschuggnall, Benno Stein, Mike Kestemont, Paolo Rosso, and Martin Potthast, "Overview of PAN 2018: Author Identification, Author Profiling, and Author Obfuscation". In: Patrice Bellot, Chiraz Trabelsi, Josiane Mothe, Fionn Murtagh, Jian Yun Nie, Laure Soulier, Eric SanJuan, Linda Cappellato and Nicola Ferro (eds.), *Experimental IR Meets Multilinguality, Multimodality, and Interaction. 9th International Conference of the CLEF Association, CLEF 2018. Avignon, France, September 10–14, 2018*. Series: Lecture Notes in Computer Science, number 11018, pp. 267–285. https://doi.org/10.1007/978-3-319-98932-7_25
 
 
 ### In press / Accepted
@@ -42,6 +42,10 @@ image:
 
 
 ## Journal papers
+
+### 2018
+* Franzini Greta, Kestemont Mike, Rotari Gabriela, Jander Melina, Ochab Jeremi K., Franzini Emily, Byszuk Joanna, & Rybicki Jan. "Attributing authorship in the noisy digitized correspondence of Jacob and Wilhelm Grimm". *Frontiers in Digital Humanities* 5:4(2018), p. 1-15 [[paper]](https://www.frontiersin.org/articles/10.3389/fdigh.2018.00004/full).
+* Tanghe, Koen & Kestemont, Mike, "Edinburgh and the Birth of British Evolutionism: A Peek behind a Veil of Anonymity", *BioScience*, Advance access published Published: 20 June 2018. DOI: 10.1093/biosci/biy049 [[link]](https://academic.oup.com/bioscience/advance-article-abstract/doi/10.1093/biosci/biy049/5039568?redirectedFrom=fulltext).
 
 
 ### 2017

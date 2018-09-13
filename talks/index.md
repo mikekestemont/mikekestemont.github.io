@@ -42,6 +42,7 @@ Co-organized or co-taught courses in programming and computational text analysis
 * Stylometry modules in week 2 of the NEH Institute *Make your edition: models and methods for digital textual scholarship*. University of Pittsburgh.
 * With Enrique Manjavacas, *The Re-Creation Of Harry Potter: Tracing Style And Content Across Novels, Movie Scripts And Fanfiction*. Full-day, preconference tutorial at *Digital Humanities 2018*. Mexico City, Mexico, 25 June 2018 [[link]](https://dh2018.adho.org/the-re-creation-of-harry-potter-tracing-style-and-content-across-novels-movie-scripts-and-fanfiction/).
 * With Folgert Karsdorp, "How to Read a Million Stories? Digital Text Analysis for the Study of Children's Literature". Full-day tutorial at the *Children's Literature Summer School 2018*, University of Antwerp, 5 July 2018.
+* With Thomas Smits and Melvin Wevers, "Computer Vision". One-day tutorial at the summer school "Digital Humanities: Processing and Analysing Images". University of Antwerp, 6 September 2018.
 
 
 
@@ -176,7 +177,8 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Kestemont, M., Joosen, J. and Van Hulle, D., "Harry Potter as a case study in teaching digital text analysis". 18 June 2018, Troisième atelier *Motifs*. Paris.
 * Karsdorp, F. & Kestemont, M., "Synthesising humanities. Explaining complex models through simple data synthesis". Closing keynote lecture at *Digitial Humanities Benelux conference 2018*. Amsterdam, The Netherlands, 8 June 2018. [[link]](http://2018.dhbenelux.org/keynotes/). 
 * Karsdorp, F. & Kestemont, M., "How to Read a Million Stories? Digital Text Analysis for the Study of Children's Literature". Plenary lecture at Children's Literature Summer School 2018, University of Antwerp, 5 July 2018.
-
+* Mike Kestemont, Efstathios Stamatatos, Walter Daelemans, Benno Stein and Martin Potthast, "Cross-domain Authorship Attribution. Overview of the Author Identification Task at PAN-2018." CLEF 2018 Conference and Labs of the Evaluation Forum. Information Access Evaluation meets Multilinguality, Multimodality, and Visualization. Avignon, 11 September 2018.
+* Wouter Haverals, Folgert Karsdorp and Mike Kestemont, "Metrical analyses of medieval Dutch poetry for the purpose of genre and authorship analysis". Conference presentation at *Plotting Poetry II. Bringing Deep Learning to Computational Poetry Analysis*. Freie Universität Berlin, 13 september 2018.
 
 
 ## Posters
