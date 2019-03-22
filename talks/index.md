@@ -180,6 +180,9 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Mike Kestemont, Efstathios Stamatatos, Walter Daelemans, Benno Stein and Martin Potthast, "Cross-domain Authorship Attribution. Overview of the Author Identification Task at PAN-2018." CLEF 2018 Conference and Labs of the Evaluation Forum. Information Access Evaluation meets Multilinguality, Multimodality, and Visualization. Avignon, 11 September 2018.
 * Wouter Haverals, Folgert Karsdorp and Mike Kestemont, "Metrical analyses of medieval Dutch poetry for the purpose of genre and authorship analysis". Conference presentation at *Plotting Poetry II. Bringing Deep Learning to Computational Poetry Analysis*. Freie Universität Berlin, 13 september 2018.
 
+### 2019
+* Folgert Karsdorp and Mike Kestemont, "The artificial synthesis of hiphop lyrics". Humlab talk series. Umeå universitet, Sweden. 12 February 2019.
+* Folgert Karsdorp and Mike Kestemont, "Keeping it real: the artificial synthesis of hiphop lyrics". Vogin-IP, Amsterdam. 22 March 2019.
 
 ## Posters
 

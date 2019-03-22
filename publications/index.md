@@ -32,6 +32,7 @@ image:
 ### Recent
 - Mike Kestemont, Michael Tschuggnall, Efstathios Stamatatos, Walter Daelemans, Günther Specht, Benno Stein, and Martin Potthast. 'Overview of the Author Identification Task at PAN-2018. Cross-domain Authorship Attribution and Style Change Detection'. In Linda Cappellato, Nicola Ferro, Jian-Yun Nie and Laure Soulier (editors), *Working Notes Papers of the CLEF 2018 Evaluation Labs. Avignon, France, September 10-14, 2018*. Volume 2125 of CEUR Workshop Proceedings, 2018. No pagination (25 pages). http://ceur-ws.org/Vol-2125/invited_paper_2.pdf
 - Efstathios Stamatatos, Francisco Rangel, Michael Tschuggnall, Benno Stein, Mike Kestemont, Paolo Rosso, and Martin Potthast, "Overview of PAN 2018: Author Identification, Author Profiling, and Author Obfuscation". In: Patrice Bellot, Chiraz Trabelsi, Josiane Mothe, Fionn Murtagh, Jian Yun Nie, Laure Soulier, Eric SanJuan, Linda Cappellato and Nicola Ferro (eds.), *Experimental IR Meets Multilinguality, Multimodality, and Interaction. 9th International Conference of the CLEF Association, CLEF 2018. Avignon, France, September 10–14, 2018*. Series: Lecture Notes in Computer Science, number 11018, pp. 267–285. https://doi.org/10.1007/978-3-319-98932-7_25
+- Mike Kestemont, "Aan de taal kent men de hand. Talige kopiistherkenning en de scribenten van de Lancelotcompilatie". Spiegel der Letteren 60(3-4), 157-188.  DOI: 10.2143/SDL.60.3.3285821.
 
 
 ### In press / Accepted
