@@ -43,6 +43,7 @@ Co-organized or co-taught courses in programming and computational text analysis
 * With Enrique Manjavacas, *The Re-Creation Of Harry Potter: Tracing Style And Content Across Novels, Movie Scripts And Fanfiction*. Full-day, preconference tutorial at *Digital Humanities 2018*. Mexico City, Mexico, 25 June 2018 [[link]](https://dh2018.adho.org/the-re-creation-of-harry-potter-tracing-style-and-content-across-novels-movie-scripts-and-fanfiction/).
 * With Folgert Karsdorp, "How to Read a Million Stories? Digital Text Analysis for the Study of Children's Literature". Full-day tutorial at the *Children's Literature Summer School 2018*, University of Antwerp, 5 July 2018.
 * With Thomas Smits and Melvin Wevers, "Computer Vision". One-day tutorial at the summer school "Digital Humanities: Processing and Analysing Images". University of Antwerp, 6 September 2018.
+* With Enrique Manjavacas, "Modelling Hogwarts. A Speed Introduction to Digital Text Analysis". Tutorial at the symposium *Computer-Assisted Text Analysis For Resource-Scarce Literatures*. University of Miami, US, April 24th 2019.
 
 
 
@@ -183,6 +184,7 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 ### 2019
 * Folgert Karsdorp and Mike Kestemont, "The artificial synthesis of hiphop lyrics". Humlab talk series. Umeå universitet, Sweden. 12 February 2019.
 * Folgert Karsdorp and Mike Kestemont, "Keeping it real: the artificial synthesis of hiphop lyrics". Vogin-IP, Amsterdam. 22 March 2019.
+* Mike Kestemont, "The case of fanfiction in Digital Humanities research and pedagogy -- Because the story's not over until they say it is." Talk at the symposium *Computer-Assisted Text Analysis For Resource-Scarce Literatures*. University of Miami, US, April 24th 2019.
 
 ## Posters
 
