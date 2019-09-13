@@ -30,10 +30,10 @@ image:
 - David J. Birnbaum, Sheila Bonde, Mike Kestemont, "The Digital Middle Ages: A *Speculum* Supplement", pp. 961–962.
 
 ### Recent
+- Walter Daelemans, Mike Kestemont, Enrique Manjavacas, Martin Potthast, Francisco M. Rangel Pardo, Paolo Rosso, Günther Specht, Efstathios Stamatatos, Benno Stein, Michael Tschuggnall, Matti Wiegmann & Eva Zangerle, 'Overview of PAN 2019: Bots and Gender Profiling, Celebrity Profiling, Cross-Domain Authorship Attribution and Style Change Detection', In: *Experimental {IR} Meets Multilinguality, Multimodality, and Interaction- 10th International Conference of the CLEF Association, CLEF 2019, Lugano, Switzerland, September 9-12, 2019, pp. 402-416 [[link]](https://link.springer.com/chapter/10.1007/978-3-030-28577-7_30).
+- Mike Kestemont, Efstathios Stamatatos, Enrique Manjavacas, Walter Daelemans, Martin Potthast & Benno Stein, 'Overview of the Cross-domain Authorship Attribution Task at PAN 2019', in: *Working Notes of {CLEF} 2019 - Conference and Labs of the Evaluation Forum*, Lugano, Switzerland, September 9-12, 2019 [[link]](http://ceur-ws.org/Vol-2380/paper_264.pdf).
+- Mike  Kestemont, Gunther Martens & Thorsten Ries, ‘A Computational Approach to Authorship Verification of Johann Wolfgang Goethe’s Contributions to the  *Frankfurter  gelehrte  Anzeigen*  (1772–73)’,  *Journal  of  European  Periodical Studies*, 4.1 (2019), 115–43 [[link]](https://ojs.ugent.be/jeps/article/view/10188/11234).
 - Mike Kestemont & Luc Herman, 'Can Machines Read (Literature)?'. *Umanistica Digitale* 5 (2019), DOI: 10.6092/issn.2532-8816/8511. CC-BY license. [[link]](https://umanisticadigitale.unibo.it/article/view/8511).
-- Mike Kestemont, Michael Tschuggnall, Efstathios Stamatatos, Walter Daelemans, Günther Specht, Benno Stein, and Martin Potthast. 'Overview of the Author Identification Task at PAN-2018. Cross-domain Authorship Attribution and Style Change Detection'. In Linda Cappellato, Nicola Ferro, Jian-Yun Nie and Laure Soulier (editors), *Working Notes Papers of the CLEF 2018 Evaluation Labs. Avignon, France, September 10-14, 2018*. Volume 2125 of CEUR Workshop Proceedings, 2018. No pagination (25 pages). http://ceur-ws.org/Vol-2125/invited_paper_2.pdf
-- Efstathios Stamatatos, Francisco Rangel, Michael Tschuggnall, Benno Stein, Mike Kestemont, Paolo Rosso, and Martin Potthast, "Overview of PAN 2018: Author Identification, Author Profiling, and Author Obfuscation". In: Patrice Bellot, Chiraz Trabelsi, Josiane Mothe, Fionn Murtagh, Jian Yun Nie, Laure Soulier, Eric SanJuan, Linda Cappellato and Nicola Ferro (eds.), *Experimental IR Meets Multilinguality, Multimodality, and Interaction. 9th International Conference of the CLEF Association, CLEF 2018. Avignon, France, September 10–14, 2018*. Series: Lecture Notes in Computer Science, number 11018, pp. 267–285. https://doi.org/10.1007/978-3-319-98932-7_25
-- Mike Kestemont, "Aan de taal kent men de hand. Talige kopiistherkenning en de scribenten van de Lancelotcompilatie". *Spiegel der Letteren* 60(3-4), 157-188.  DOI: 10.2143/SDL.60.3.3285821.
 
 
 ### In press / Accepted
@@ -42,10 +42,10 @@ image:
 * Eder, M., Rybicki, J. and Kestemont, M. Measuring Style. Forthcoming in *Digital Humanities for Literary Studies: Theories, Methods, and Practices*, ed. by J. O'Sullivan, UPenn Press (2016).
 
 
-
 ## Journal papers
 
 ### 2018
+* Mike Kestemont, "Aan de taal kent men de hand. Talige kopiistherkenning en de scribenten van de Lancelotcompilatie". *Spiegel der Letteren* 60:3-4 (2018), 157-188. DOI: 10.2143/SDL.60.3.3285821.
 * Franzini Greta, Kestemont Mike, Rotari Gabriela, Jander Melina, Ochab Jeremi K., Franzini Emily, Byszuk Joanna, & Rybicki Jan. "Attributing authorship in the noisy digitized correspondence of Jacob and Wilhelm Grimm". *Frontiers in Digital Humanities* 5:4(2018), p. 1-15 [[paper]](https://www.frontiersin.org/articles/10.3389/fdigh.2018.00004/full).
 * Tanghe, Koen & Kestemont, Mike, "Edinburgh and the Birth of British Evolutionism: A Peek behind a Veil of Anonymity", *BioScience*, Advance access published Published: 20 June 2018. DOI: 10.1093/biosci/biy049 [[link]](https://academic.oup.com/bioscience/advance-article-abstract/doi/10.1093/biosci/biy049/5039568?redirectedFrom=fulltext).
 
@@ -131,6 +131,8 @@ image:
 Ideological Implications of the Computational Attribution of the Dutch National Anthem to Petrus Dathenus". *Digital Humanities 2017. Book of Abstracts* (Montreal, August 9, 2017), pp. 280-282 [[pdf]](https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf).
 * Kestemont, M. & Stutzmann, D., "Script Identification in Medieval Latin Manuscripts Using Convolutional Neural Networks". *Digital Humanities 2017. Book of Abstracts* (Montreal, August 10, 2017), pp. 283-285 [[pdf]](https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf).
 * Kestemont M. & Manjavacas, E., "The re-creation of Harry Potter: Tracing style and content across novels, movie scripts and fanfiction", *Digital Humanities 2018. Book of Abstracts* (Mexico City, 25 June, 2018), pp. 715-716. [[pdf]](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf).
+* Mike Kestemont, Michael Tschuggnall, Efstathios Stamatatos, Walter Daelemans, Günther Specht, Benno Stein, and Martin Potthast. 'Overview of the Author Identification Task at PAN-2018. Cross-domain Authorship Attribution and Style Change Detection'. In Linda Cappellato, Nicola Ferro, Jian-Yun Nie and Laure Soulier (editors), *Working Notes Papers of the CLEF 2018 Evaluation Labs. Avignon, France, September 10-14, 2018*. Volume 2125 of CEUR Workshop Proceedings, 2018. No pagination (25 pages). http://ceur-ws.org/Vol-2125/invited_paper_2.pdf
+* Efstathios Stamatatos, Francisco Rangel, Michael Tschuggnall, Benno Stein, Mike Kestemont, Paolo Rosso, and Martin Potthast, "Overview of PAN 2018: Author Identification, Author Profiling, and Author Obfuscation". In: Patrice Bellot, Chiraz Trabelsi, Josiane Mothe, Fionn Murtagh, Jian Yun Nie, Laure Soulier, Eric SanJuan, Linda Cappellato and Nicola Ferro (eds.), *Experimental IR Meets Multilinguality, Multimodality, and Interaction. 9th International Conference of the CLEF Association, CLEF 2018. Avignon, France, September 10–14, 2018*. Series: Lecture Notes in Computer Science, number 11018, pp. 267–285. https://doi.org/10.1007/978-3-319-98932-7_25
 
 
 ### Book contributions
