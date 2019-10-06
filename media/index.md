@@ -41,11 +41,6 @@ In 2016 I gave the first Louis Peter Grijp Lecture on the authorship of the *Wil
 
 <iframe src="https://player.vimeo.com/video/167434114" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## DBNL
-In 2019, I featured in a nice little video clip in which I explain what I like about the DBNL or *Digital Library for Dutch Literature* [("Digitale bibliotheek voor de Nederlandse letteren")](https://dbnl.org) (Dutch audio; Dutch subtitles). This happened at the occasion of the DBNL's 20th anniversary.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t1CwpPSXA7I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 The preliminary results of this research initiative (carried out in close collaboration with Els Stronks, Martine de Bruin and Tim de Winkel) got very wide coverage in the international popular press, including:
 
 * A primetime radio [interview](https://www.nporadio1.nl/de-ochtend/onderwerpen/355871-wie-is-de-schrijver-van-het-wilhelmus) on Radio 1 (NL)
@@ -53,6 +48,12 @@ The preliminary results of this research initiative (carried out in close collab
 * An informative [blog post](http://www.neerlandistiek.nl/2016/05/toevallig-op-petrus-datheen-stuiten/) on neerlandistiek.nl.
 
 An accessible [book](http://en.mip-arc-nl.aup.nl/books/9789462985124-van-wie-is-het-wilhelmus.html) on this topic has been published by Amsterdam University Press.
+
+
+## DBNL
+In 2019, I featured in a nice little video clip in which I explain what I like about the DBNL or *Digital Library for Dutch Literature* [("Digitale bibliotheek voor de Nederlandse letteren")](https://dbnl.org) (Dutch audio; Dutch subtitles). This happened at the occasion of the DBNL's 20th anniversary.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t1CwpPSXA7I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Media coverage
