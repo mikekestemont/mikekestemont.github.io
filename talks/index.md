@@ -186,6 +186,10 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Folgert Karsdorp and Mike Kestemont, "Keeping it real: the artificial synthesis of hiphop lyrics". Vogin-IP, Amsterdam. 22 March 2019.
 * Mike Kestemont, "The case of fanfiction in Digital Humanities research and pedagogy -- Because the story's not over until they say it is." Talk at the symposium *Computer-Assisted Text Analysis For Resource-Scarce Literatures*. University of Miami, US, April 24th 2019.
 * Mike Kestemont et al. 'Overview of the Cross-domain Authorship Attribution Task at PAN 2019', at PAN workshops, *CLEF 2019 - Conference and Labs of the Evaluation Forum*, Lugano, Switzerland, September 9-12, 2019.
+* Mike Kestemont, "Stylometry. A Best (and Worst) of". Invited talk at the Higher School of Economics (Moscow, Russia). 20/11/2019.
+* Mike Kestemont, "Fabulous Fan Fiction. Transformative Literature and the Grand Narrative of Digital Humanities". Invited talk at the Higher School of Economics (Moscow, Russia). 21/11/2019.
+* With Karsdorp, F. & Manjavacas, E., "Kunnen computers rappen? Toepassingen van artificiële intelligentie in het literatuuronderzoek". Popularizing presentation at the *Boekenbeurs* (Antwerp), 2/11/2019.
+
 
 ## Posters
 
