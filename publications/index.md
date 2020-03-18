@@ -38,7 +38,7 @@ image:
 
 ### In press
 * Eder, M., Rybicki, J. and Kestemont, M. Measuring Style. Forthcoming in *Digital Humanities for Literary Studies: Theories, Methods, and Practices*, ed. by J. O'Sullivan, UPenn Press (2016).
-* Karsdorp, F.; Kestemont, M. & Riddell, A. *Humanities Data Analysis. Case Studies with Python*. Princeton University Press, [2020].
+* Karsdorp, F.; Kestemont, M. & Riddell, A. *Humanities Data Analysis. Case Studies with Python*. Princeton University Press, [2021].
 
 
 ## Journal papers
@@ -46,6 +46,10 @@ image:
 ### 2019
 - Mike  Kestemont, Gunther Martens & Thorsten Ries, ‘A Computational Approach to Authorship Verification of Johann Wolfgang Goethe’s Contributions to the  *Frankfurter  gelehrte  Anzeigen*  (1772–73)’,  *Journal  of  European  Periodical Studies*, 4.1 (2019), 115–43 [[link]](https://ojs.ugent.be/jeps/article/view/10188/11234).
 - Mike Kestemont & Luc Herman, 'Can Machines Read (Literature)?'. *Umanistica Digitale* 5 (2019), DOI: 10.6092/issn.2532-8816/8511. CC-BY license. [[link]](https://umanisticadigitale.unibo.it/article/view/8511).
+- Mike Kestemont & Dirk van Hulle, 'Theorie en de digitale geesteswetenschappen? Ten geleide', *Tijdschrift voor Nederlandse taal- en letterkunde* 135:4  (2019), p. 301-302.
+- Mike Kestemont & Luc Herman, 'Kunnen machines (literatuur) lezen?', *Tijdschrift voor Nederlandse taal- en letterkunde* 135:4  (2019), p. 316-328.
+
+Tijdschrift voor Nederlandse taal- en letterkunde - ISSN 0040-7550 - 135:4(2019), p. 316-328
 
 ### 2018
 * Kestemont, M., ‘Stylometric Authorship Attribution for the Middle Dutch Mystical Tradition from Groenendaal’, *Dutch Crossing. Journal of Low Countries Studies* 42:3 (2018), pp. 203-237 [doi:10.1080/03096564.2016.1252077].
@@ -111,6 +115,7 @@ image:
 * Ben Verhoeven, Walter Daelemans, Guy de Pauw & Mike Kestemont (eds.), *Computational Linguistics in the Netherlands Journal* 5 (2015). ISSN: 2211-4009.
 * Hugo Gonçalo Oliveira, Ben Burtenshaw, Mike Kestemont & Tom De Smedt (eds.), *Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)* [[link]](http://aclanthology.info/volumes/proceedings-of-the-workshop-on-computational-creativity-in-natural-language-generation-cc-nlg-2017). ACL, 2017. ISBN 978-1-945626-81-4.
 * Joris van Zundert, Sally Chambers, Mike Kestemont, Marijn Koolen & Catherine Jones (eds.), *Proceedings of the DHBeNeLux Conference 2015*, special issue of *Digital Humanities Quarterly* 11.4 (2017). http://www.digitalhumanities.org/dhq/preview/index.html.
+* Mike Kestemont & Dirk van Hulle (eds.), 'Theorie en de digitale geesteswetenschappen?'. Themed issue of *Tijdschrift voor Nederlandse taal- en letterkunde* 135:4 (2019).
 
 ### Papers in conference proceedings
 * Kestemont, M. & K. Van Dalen-Oskam, 'Predicting the past: memory-based copyist and author discrimination in medieval epics', in: *Proceedings of the twenty-first Benelux conference on artificial intelligence* (BNAIC 2009), T. Calders; K. Tuyls & M. Pechenizkiy (eds.). Eindhoven 2009, 121-128.
@@ -139,19 +144,19 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Efstathios Stamatatos, Francisco Rangel, Michael Tschuggnall, Benno Stein, Mike Kestemont, Paolo Rosso, and Martin Potthast, "Overview of PAN 2018: Author Identification, Author Profiling, and Author Obfuscation". In: Patrice Bellot, Chiraz Trabelsi, Josiane Mothe, Fionn Murtagh, Jian Yun Nie, Laure Soulier, Eric SanJuan, Linda Cappellato and Nicola Ferro (eds.), *Experimental IR Meets Multilinguality, Multimodality, and Interaction. 9th International Conference of the CLEF Association, CLEF 2018. Avignon, France, September 10–14, 2018*. Series: Lecture Notes in Computer Science, number 11018, pp. 267–285. https://doi.org/10.1007/978-3-319-98932-7_25
 * Walter Daelemans, Mike Kestemont, Enrique Manjavacas, Martin Potthast, Francisco M. Rangel Pardo, Paolo Rosso, Günther Specht, Efstathios Stamatatos, Benno Stein, Michael Tschuggnall, Matti Wiegmann & Eva Zangerle, 'Overview of PAN 2019: Bots and Gender Profiling, Celebrity Profiling, Cross-Domain Authorship Attribution and Style Change Detection', In: *Experimental IR Meets Multilinguality, Multimodality, and Interaction- 10th International Conference of the CLEF Association, CLEF 2019*, Lugano, Switzerland, September 9-12, 2019, pp. 402-416 [[link]](https://link.springer.com/chapter/10.1007/978-3-030-28577-7_30).
 * Mike Kestemont, Efstathios Stamatatos, Enrique Manjavacas, Walter Daelemans, Martin Potthast & Benno Stein, 'Overview of the Cross-domain Authorship Attribution Task at PAN 2019', in: *Working Notes of CLEF 2019 - Conference and Labs of the Evaluation Forum*, Lugano, Switzerland, September 9-12, 2019 [[link]](http://ceur-ws.org/Vol-2380/paper_264.pdf).
+* Nikolay Banar, Karine Lasaracina , Walter Daelemans & Mike Kestemont, 'Transfer Learning for Digital Heritage Collections: Comparing Neural Machine Translation at the Subword-level and Character-level'. *Proceedings of the 12th International Conference on Agents and Artificial Intelligence - Volume 1: ARTIDIGH*, 2020, Valletta, Malta, p. 522-529 DOI:10.5220/0009167205220529.
 
 ### Book contributions
-
 * Kestemont, M., 'Bloemlezen uit Velthem. Handschrift Wenen, Ö.N.B. Cod. 13.708 in Herne ten tijde van het Westers Schisma' ['An anthology of Velthem. The Vienna Codex in Hérinnes-les-Enghien during the Western Schism'], in: B. Besamusca; R. Sleiderink & G. Warnar (eds.), *De boeken van Velthem: auteur, oeuvre en overlevering*. Hilversum 2009, 251-266. Middeleeuwse studies en bronnen, 119.
 * Kestemont, M., 'Een ‘Assonantic Revival’? Een kwantitatief diachroon onderzoek naar de assonantie in de Middelnederlandse ridderepiek, met bijzondere aandacht voor de veertiende eeuw' ['An Assonantic Revival? A Quantitative, Diachronic Investigation of the Assonance in Middle Dutch Chivalric Epics, with Special Attention for the Fourteenth Century']. A. Faems & M. Hogenbirk (eds.), *Ene andre tale. Tendensen in de Middelnederlandse late ridderepiek*. Hilversum, 2012, 259-290. Middeleeuwse Studies en Bronnen, 131.
 * Kestemont, Mike. 'In het land van Alena. Over de lokalisering van de *Ferguut*' ['In the land of Alena. About the localisation of the *Ferguut*']. In: *Want hi verkende dien name wale. Opstellen voor Willem Kuiper*. M. Hogenbirk & R. Zemel (eds.), pp. 93-98, Münster, 2014. Uitgaven Stichting Neerlandistiek VU, 73.
 
 ### Reviews
-
-* Kestemont, M., 'Een onderzoek met stijl.'' Review of J. Van Driel, *Prikkeling der zinnen. De stilistische diversiteit van de Middelnederlandse epische poëzie*. Zutphen 2007. In: *Queeste. Journal of Medieval Literature in the Low Countries* 14:2 (2007), 174-181.
+* Kestemont, M., 'Een onderzoek met stijl.' Review of J. Van Driel, *Prikkeling der zinnen. De stilistische diversiteit van de Middelnederlandse epische poëzie*. Zutphen 2007. In: *Queeste. Journal of Medieval Literature in the Low Countries* 14:2 (2007), 174-181.
 * Kestemont, M., ‘Het krassen van de raaf’. Review of *Tiecelijn* 1 (2008). In: *Spiegel der Letteren* 51:3 (2009), 403-405.
 * Kestemont, M., 'Eind goed, al goed?'. Review of R. Draux, *Beatrijs’ biecht. Stilistisch en semiotisch onderzoek*. Saarbrücken, 2009. In: *Queeste. Journal of Medieval Literature in the Low Countries* 18:1 (2011), 81-84.
 * Kestemont, M., Review of: *Macroanalysis. Digital Methods and Literary History*. By Matthew L. Jockers. In: *LLC. The Journal of Digital Scholarship in the Humanities* [advance access; doi:10.1093/llc/fqt056].
+* Kestemont, M., 'Data en de letteren' [review of: *Digitale geletterdheid. Dataverwerking in de geesteswetenschappen*. Tom Willaert, Dirk Speelman & Fred Truyen, Leuven: Leuven University Press, 2018], *Spiegel der Letteren* 61:2 (2019), p. 195-221. doi: 10.2143/SDL.61.2.3287337.
 
 ### General public
 * Kestemont, M., 'EACL toont ook de muziek van de literatuur' ['EACL also Shows Music in Literature'], in *E-data & Research*8:3 (2014), p. 2.
