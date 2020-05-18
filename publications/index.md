@@ -50,8 +50,6 @@ image:
 - Mike Kestemont & Dirk van Hulle, 'Theorie en de digitale geesteswetenschappen? Ten geleide', *Tijdschrift voor Nederlandse taal- en letterkunde* 135:4  (2019), p. 301-302.
 - Mike Kestemont & Luc Herman, 'Kunnen machines (literatuur) lezen?', *Tijdschrift voor Nederlandse taal- en letterkunde* 135:4  (2019), p. 316-328.
 
-Tijdschrift voor Nederlandse taal- en letterkunde - ISSN 0040-7550 - 135:4(2019), p. 316-328
-
 ### 2018
 * Kestemont, M., ‘Stylometric Authorship Attribution for the Middle Dutch Mystical Tradition from Groenendaal’, *Dutch Crossing. Journal of Low Countries Studies* 42:3 (2018), pp. 203-237 [doi:10.1080/03096564.2016.1252077].
 * Mike Kestemont, "Aan de taal kent men de hand. Talige kopiistherkenning en de scribenten van de Lancelotcompilatie". *Spiegel der Letteren* 60:3-4 (2018), 157-188. DOI: 10.2143/SDL.60.3.3285821.
