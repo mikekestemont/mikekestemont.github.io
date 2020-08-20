@@ -191,8 +191,8 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * With Karsdorp, F. & Manjavacas, E., "Kunnen computers rappen? Toepassingen van artificiële intelligentie in het literatuuronderzoek". Popularizing presentation at the *Boekenbeurs* (Antwerp), 2/11/2019.
 
 ### 2020
-* Mike Kestemont & Folgert Karsdorp, "Diversity, survival and bias. Estimating the loss of medieval texts and text carriers using methods from ecodiversity". Online presentation at the DHBenelux conference 2020 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3859943.svg)](https://doi.org/10.5281/zenodo.3859943).
-* Matthia Sabatelli; Nikolay Banar; Marie Cocriamont; Eva Coudyzer; Karine Lasaracina; Walter Daelemans; Pierre Geurts & Mike Kestemont, "Advances in Digital Music Iconography. Benchmarking musical instrument localization in non-photorealistic images". Online presentation at the DHBenelux conference 2020 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3859953.svg)](https://doi.org/10.5281/zenodo.3859953).
+* Mike Kestemont & Folgert Karsdorp, "Diversity, survival and bias. Estimating the loss of medieval texts and text carriers using methods from ecodiversity". Online presentation at the [DHBenelux conference 2020](http://2020.dhbenelux.org/#). Leiden (online), 4 June 2020. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3859943.svg)](https://doi.org/10.5281/zenodo.3859943).
+* Matthia Sabatelli; Nikolay Banar; Marie Cocriamont; Eva Coudyzer; Karine Lasaracina; Walter Daelemans; Pierre Geurts & Mike Kestemont, "Advances in Digital Music Iconography. Benchmarking musical instrument localization in non-photorealistic images". Online presentation at the [DHBenelux conference 2020](http://2020.dhbenelux.org/#) Leiden (online), 5 June 2020. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3859953.svg)](https://doi.org/10.5281/zenodo.3859953).
 
 
 ## Posters
