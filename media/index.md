@@ -45,10 +45,11 @@ Geile pastoorswijven (seks verkoopt!), communautair vuurwerk en House of Cards: 
 
 De Reynaert speelt een belangrijke rol in mijn eerste roman, De zwarte koning (Lannoo 2019). In een bijzonder middeleeuws handschrift, met markante vossenillustraties, in de Koninklijke Bibliotheek, vindt het hoofdpersonage Anna een belangrijke aanwijzing op haar bloedstollende queeste door Brussel. Emoji's schieten tekort: 🦊🐰🦁📜📖 #DZK
 
-Canon: https://literairecanon.be/
-Podcast Klara: https://klara.be/de-canon-05-van-den-vos-reynaerde-met-mike-kestemont-0
-MOOC: https://moocmnl.kantl.be/van-den-vos-reynaerde/
-De zwarte koning: https://www.lannoo.be/nl/de-zwarte-koning
+*Links:*
+- [Canon](https://literairecanon.be/](https://literairecanon.be/)
+- [Podcast Klara](https://klara.be/de-canon-05-van-den-vos-reynaerde-met-mike-kestemont-0)
+- [MOOC](https://moocmnl.kantl.be/van-den-vos-reynaerde/)
+- [De zwarte koning](https://www.lannoo.be/nl/de-zwarte-koning)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/igzHl-oBj7s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -64,10 +65,11 @@ Plus est en vous. Meer es in u. Het vol-ledige leven.
 
 #espresso #kantl #canon #egidius #gruuthuse #brugge
 
-Podcast: https://klara.be/de-canon-10-gruuthuse-liedboek-met-mike-kestemont-0
-Canon: https://literairecanon.be/nl/werken/gruuthuseliedboek
-Handschrift: https://www.kb.nl/themas/middeleeuwen/het-gruuthusehandschrift
-MOOC: https://moocmnl.kantl.be/gruuthuse/
+*Links:*
+- [Podcast](https://klara.be/de-canon-10-gruuthuse-liedboek-met-mike-kestemont-0)
+- [Canon](https://literairecanon.be/nl/werken/gruuthuseliedboek)
+- [Handschrift](https://www.kb.nl/themas/middeleeuwen/het-gruuthusehandschrift)
+- [MOOC](https://moocmnl.kantl.be/gruuthuse/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2DlEL7rg-WU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -78,9 +80,10 @@ Nu de nieuwe literaire canon is gelanceerd, mocht ik vanmorgen in Espresso op Ra
 
 De Elegast is een bijzondere tekst voor mij, omdat die aan de basis ligt van mijn tweede roman, De witte weduwe, die in juli zal verschijnen bij #Lannoo. De hele plot van #DWW hangt op aan een merkwaardig boek, waarin een mysterieuze auteur zich laat inspireren door de middeleeuwse meesterdief. Hieronder daarom reeds een voorsmaakje uit het boek. Delen en smullen maar! 🙏🤩🥰
 
-Canon: https://literairecanon.be/
-Podcast Klara: https://klara.be/de-canon-06-karel-ende-elegast-met-mike-kestemont-0
-Oude druk: https://www.neerlandistiek.nl/2019/08/karel-ende-elegast-eindelijk-gedigitaliseerd/
+*Links:*
+- [Canon](https://literairecanon.be/)
+- [Podcast](Klara: https://klara.be/de-canon-06-karel-ende-elegast-met-mike-kestemont-0)
+- [Oude druk](https://www.neerlandistiek.nl/2019/08/karel-ende-elegast-eindelijk-gedigitaliseerd/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lBnmWN7oVxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -88,10 +91,11 @@ Oude druk: https://www.neerlandistiek.nl/2019/08/karel-ende-elegast-eindelijk-ge
 
 Snoepgoed voor structuralisten, zoontjes die Tristan heten en #BlackLivesMatter in de Moriaen. In dit filmpje bespreek ik onze bekendste Middelnederlandse Arturroman, die in de vernieuwe KANTL-canon werd opgenomen.
 
-Canon: https://literairecanon.be/
-Podcast Klara: https://klara.be/de-canon-02-walewein-van-penninc-en-pieter-vostaert-met-mike-kestemont-0
-MOOC: https://moocmnl.kantl.be/koning-arthur/
-Handschrift: https://digitalcollections.universiteitleiden.nl/view/item/1595077#page/1/mode/1up
+*Links:*
+- [Canon](https://literairecanon.be/)
+- [Podcast Klara](https://klara.be/de-canon-02-walewein-van-penninc-en-pieter-vostaert-met-mike-kestemont-0)
+- [MOOC](https://moocmnl.kantl.be/koning-arthur/)
+- [Handschrift](https://digitalcollections.universiteitleiden.nl/view/item/1595077#page/1/mode/1up)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OH9o2DYU5zk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -100,10 +104,11 @@ Handschrift: https://digitalcollections.universiteitleiden.nl/view/item/1595077#
 
 Overspelige vrouwen vallen uit bed en al het middeleeuwse blauw kwam uit Afghanistan. In dit filmpje vertel ik honderduit over *Der naturen bloeme*, de prachtige natuurencyclopedie van grootmeester Jacob van Maerlant.
 
-Canon: https://literairecanon.be/
-Podcast Klara: https://klara.be/de-canon-04-der-naturen-bloeme-van-jacob-van-maerlant-met-mike-kestemont-0
-MOOC: https://moocmnl.kantl.be/jacob-van-maerlant/
-Een van de handschriften: https://uurl.kbr.be/1737567
+*Links:*
+- [Canon](https://literairecanon.be/)
+- [Podcast Klara](https://klara.be/de-canon-04-der-naturen-bloeme-van-jacob-van-maerlant-met-mike-kestemont-0)
+- [MOOC](https://moocmnl.kantl.be/jacob-van-maerlant/)
+- [Een van de handschriften](https://uurl.kbr.be/1737567)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5nekEfVyjJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
