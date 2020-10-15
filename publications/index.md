@@ -20,35 +20,21 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-### Digital Supplement *Speculum* online!
-
-![cover speculum issue](../images/spec_cover.jpg "cover speculum issue")
-
-- *Speculum. A Journal of Medieval Studies* 92:S1 (2017), digital supplement: 'The Digital Middle Ages', guest edited by David J. Birnbaum, Sheila Bonde, Mike Kestemont. CC-BY-NC [[link]](http://www.journals.uchicago.edu/toc/spc/2017/92/S1). Including:
-- David J. Birnbaum, Sheila Bonde, Mike Kestemont, "The Digital Middle Ages: An Introduction", pp. S1–S38 [[pdf]](http://www.journals.uchicago.edu/doi/pdfplus/10.1086/694236).
-- Mike Kestemont, Vincent Christlein, Dominique Stutzmann, "Artificial Paleography: Computational Approaches to Identifying Script Types in Medieval Manuscripts", pp. S86–S109.
-- David J. Birnbaum, Sheila Bonde, Mike Kestemont, "The Digital Middle Ages: A *Speculum* Supplement", pp. 961–962.
-
-### Recent
-- Kestemont, M. & Karsdorp, F., 'Het Atlantis van de Middelnederlandse ridderepiek. Een schatting van het tekstverlies met methodes uit de ecodiversiteit', *Spiegel der Letteren* 61 (3), 271-290. DOI:10.2143/SDL.61.3.3287540.
-- Karsdorp, F., Manjavacas, E. & Kestemont, M. "Keepin’ it real: Linguistic models of authenticity judgments for artificially generated rap lyrics." *PLoS ONE* 14:10 (2019), e0224152 [doi.org/10.1371/journal.pone.0224152] [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224152).
-- Manjavacas, E.; Kestemont, M. & Karsdorp, F., "Generation of Hip-Hop Lyrics with Hierarchical Modeling and Conditional Templates", *Proceedings of the 12th International Conference on Natural Language Generation* (ACL, 2019) pp. 301-310 [[pdf]](https://www.aclweb.org/anthology/W19-8638).
-- Haverals, W., Karsdorp, F. & Kestemont, M., "Rekenen op ritme. Een datagedreven oplossing voor het automatisch scanderen van de historische lyriek in de DBNL", *Vooys* 37:3 (2019), pp. 6-17.
-- Haverals, W., Karsdorp, F. & Kestemont, M. "Data-Driven Syllabification for Middle Dutch." *Digital Medievalist* 12:1 (2019), pp. 1–23 [https://doi.org/10.16995/dm.83] [[link]](https://journal.digitalmedievalist.org/articles/10.16995/dm.83/).
-
-
 ### In press
-* Eder, M., Rybicki, J. and Kestemont, M. Measuring Style. Forthcoming in *Digital Humanities for Literary Studies: Theories, Methods, and Practices*, ed. by J. O'Sullivan, UPenn Press (2016).
+* Eder, M., Rybicki, J. and Kestemont, M. Measuring Style. Forthcoming in *Digital Humanities for Literary Studies: Theories, Methods, and Practices*, ed. by J. O'Sullivan, UPenn Press (2020).
 * Karsdorp, F.; Kestemont, M. & Riddell, A. *Humanities Data Analysis. Case Studies with Python*. Princeton University Press, [2021].
-
 
 ## Journal papers
 
 ### 2019
+- Kestemont, M. & Karsdorp, F., 'Het Atlantis van de Middelnederlandse ridderepiek. Een schatting van het tekstverlies met methodes uit de ecodiversiteit', *Spiegel der Letteren* 61 (3), 271-290. DOI:10.2143/SDL.61.3.3287540.
+- Karsdorp, F., Manjavacas, E. & Kestemont, M. "Keepin’ it real: Linguistic models of authenticity judgments for artificially generated rap lyrics." *PLoS ONE* 14:10 (2019), e0224152 [doi.org/10.1371/journal.pone.0224152] [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224152).
+- Haverals, W., Karsdorp, F. & Kestemont, M., "Rekenen op ritme. Een datagedreven oplossing voor het automatisch scanderen van de historische lyriek in de DBNL", *Vooys* 37:3 (2019), pp. 6-17.
 - Mike  Kestemont, Gunther Martens & Thorsten Ries, ‘A Computational Approach to Authorship Verification of Johann Wolfgang Goethe’s Contributions to the  *Frankfurter  gelehrte  Anzeigen*  (1772–73)’,  *Journal  of  European  Periodical Studies*, 4.1 (2019), 115–43 [[link]](https://ojs.ugent.be/jeps/article/view/10188/11234).
 - Mike Kestemont & Luc Herman, 'Can Machines Read (Literature)?'. *Umanistica Digitale* 5 (2019), DOI: 10.6092/issn.2532-8816/8511. CC-BY license. [[link]](https://umanisticadigitale.unibo.it/article/view/8511).
 - Mike Kestemont & Dirk van Hulle, 'Theorie en de digitale geesteswetenschappen? Ten geleide', *Tijdschrift voor Nederlandse taal- en letterkunde* 135:4  (2019), p. 301-302.
 - Mike Kestemont & Luc Herman, 'Kunnen machines (literatuur) lezen?', *Tijdschrift voor Nederlandse taal- en letterkunde* 135:4  (2019), p. 316-328.
+- Haverals, W., Karsdorp, F. & Kestemont, M. "Data-Driven Syllabification for Middle Dutch." *Digital Medievalist* 12:1 (2019), pp. 1–23 [https://doi.org/10.16995/dm.83] [[link]](https://journal.digitalmedievalist.org/articles/10.16995/dm.83/).
 
 ### 2018
 * Kestemont, M., ‘Stylometric Authorship Attribution for the Middle Dutch Mystical Tradition from Groenendaal’, *Dutch Crossing. Journal of Low Countries Studies* 42:3 (2018), pp. 203-237 [doi:10.1080/03096564.2016.1252077].
@@ -58,6 +44,8 @@ image:
 
 
 ### 2017
+* Mike Kestemont, Vincent Christlein, Dominique Stutzmann, "Artificial Paleography: Computational Approaches to Identifying Script Types in Medieval Manuscripts", *Speculum* 92:S1 (2017), pp. S86–S109.
+* David J. Birnbaum, Sheila Bonde, Mike Kestemont, "The Digital Middle Ages: An Introduction", *Speculum* 92:S1 (2017), pp. S1–S38 [[pdf]](http://www.journals.uchicago.edu/doi/pdfplus/10.1086/694236).
 * Kestemont, M., De Pauw, G., Van Nie, R. & Daelemans, W., 'Lemmatisation for Variation-Rich Languages Using Deep Learning'. *DSH -- Digital Scholarship in the Humanities* 32:4 (2017), 797-815. DOI: https://doi.org/10.1093/llc/fqw034
 * Kestemont, M. & J. de Gussem, 'Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning', *Journal of Data Mining & Digital Humanities* (2017), pp. 17 [[pdf](https://jdmdh.episciences.org/3835/pdf)]. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages, ed. M. Buechler and L. Mellerin.
 * Stover, J.A. & Kestemont, M., 'Reassessing the Apuleian Corpus: A Computational Approach to Authenticity', *The Classical Quarterly* 66:2 (2017), 645–672. [[doi]](doi:10.1017/S0009838816000768).
@@ -114,6 +102,7 @@ image:
 * Ben Verhoeven, Walter Daelemans, Guy de Pauw & Mike Kestemont (eds.), *Computational Linguistics in the Netherlands Journal* 5 (2015). ISSN: 2211-4009.
 * Hugo Gonçalo Oliveira, Ben Burtenshaw, Mike Kestemont & Tom De Smedt (eds.), *Proceedings of the Workshop on Computational Creativity in Natural Language Generation (CC-NLG 2017)* [[link]](http://aclanthology.info/volumes/proceedings-of-the-workshop-on-computational-creativity-in-natural-language-generation-cc-nlg-2017). ACL, 2017. ISBN 978-1-945626-81-4.
 * Joris van Zundert, Sally Chambers, Mike Kestemont, Marijn Koolen & Catherine Jones (eds.), *Proceedings of the DHBeNeLux Conference 2015*, special issue of *Digital Humanities Quarterly* 11.4 (2017). http://www.digitalhumanities.org/dhq/preview/index.html.
+* *Speculum. A Journal of Medieval Studies* 92:S1 (2017), digital supplement: 'The Digital Middle Ages', guest edited by David J. Birnbaum, Sheila Bonde, Mike Kestemont. CC-BY-NC [[link]](http://www.journals.uchicago.edu/toc/spc/2017/92/S1).
 * Mike Kestemont & Dirk van Hulle (eds.), 'Theorie en de digitale geesteswetenschappen?'. Themed issue of *Tijdschrift voor Nederlandse taal- en letterkunde* 135:4 (2019).
 
 ### Papers in conference proceedings
@@ -146,6 +135,7 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Nikolay Banar, Karine Lasaracina, Walter Daelemans & Mike Kestemont, 'Transfer Learning for Digital Heritage Collections: Comparing Neural Machine Translation at the Subword-level and Character-level'. *Proceedings of the 12th International Conference on Agents and Artificial Intelligence - Volume 1: ARTIDIGH*, 2020, Valletta, Malta, p. 522-529 DOI:10.5220/0009167205220529.
 * Janek Bevendorff, Bilal Ghanem, Anastasia Giachanou, Mike Kestemont, Enrique Manjavacas, Martin Potthast, Francisco Rangel, Paolo Rosso, Günther Specht, Efstathios Stamatatos, Benno Stein, Matti Wiegmann, and Eva Zangerle, 'Shared Tasks on Authorship Analysis at PAN 2020', *Advances in Information Retrieval* (Springer International Publishing, 2020), pp. 508-516. ISBN: 978-3-030-45442-5.
 * Joanna Byszuk, Michał Woźniak, Mike Kestemont, Albert Leśniak, Wojciech Łukasik, Artjoms Šeļa, Maciej Eder, 'Detecting Direct Speech in Multilingual Collections of 19th-century Novels', *Proceedings of the 1st Workshop on Language Technologies for Historical and Ancient Languages, (LT4HALA 2020), collocated with LREC 2020. Language Resources and Evaluation Conference 11–16 May 2020, pp. 100-104*. Editors: Rachele Sprugnoli and Marco Passarotti. ISBN: 979-10-95546-53-5.
+* Manjavacas, E.; Kestemont, M. & Karsdorp, F., "Generation of Hip-Hop Lyrics with Hierarchical Modeling and Conditional Templates", *Proceedings of the 12th International Conference on Natural Language Generation* (ACL, 2019) pp. 301-310 [[pdf]](https://www.aclweb.org/anthology/W19-8638).
 
 ### Book contributions
 * Kestemont, M., 'Bloemlezen uit Velthem. Handschrift Wenen, Ö.N.B. Cod. 13.708 in Herne ten tijde van het Westers Schisma' ['An anthology of Velthem. The Vienna Codex in Hérinnes-les-Enghien during the Western Schism'], in: B. Besamusca; R. Sleiderink & G. Warnar (eds.), *De boeken van Velthem: auteur, oeuvre en overlevering*. Hilversum 2009, 251-266. Middeleeuwse studies en bronnen, 119.
@@ -165,10 +155,7 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Kestemont, M., 'Plagiaat in de Guldensporenslag' ['Plagiarism in the Battle of the Golden Spurs'], in: *Eos. Actueel maandblad over wetenschapen technologie* 27:1 (2011), 36-39.
 * Kestemont, M., 'Oraal erfgoed – bewaart dat? Enkele bespiegelingen over schrift- en taalcultuur', introductory contribution to the heritage project *Peepel Tervuren. Taal en verhaal in Tervuren* [online](http://www.peepel.be/?page_id=56)
 
-### Competitions / Shared tasks
+### Shared tasks
 * With Vincent Chrislein and Andreas Maier: ICDAR 2017 Competition on the Classification of Medieval Handwritings in Latin Script at the *2017 14th IAPR International Conference on Document Analysis and Recognition*. First position in 2 of the 4 tasks ("script type classification and dating on unconstrained datasets") and 2nd in the other two tasks. See: [http://clamm.irht.cnrs.fr/icdar-2017/].
 * 1st position in task two ("fuzzy classification") of the  ICFHR2016 Competition on the Classification of Medieval Handwritings in Latin Script. See: Florence Cloppet, Véronique Eglin, Van Kieu, Dominique Stutzmann, and Nicole Vincent, ICFHR2016 Competition on the Classification of Medieval Handwritings in Latin Script,” in Proceedings of the International Conference in Frontiers on Handwriting Recognition (Shenzhen, China, 2016), 590–95.
 * With Kim Luyckx and Walter Daelemans: 2nd position in the intrinsic plagiarism detection track at the PAN 2012 Lab Uncovering Plagiarism, Authorship, and Social Software Misuse held in conjunction with the CLEF 2012 Conference. See: 
-
-
-
