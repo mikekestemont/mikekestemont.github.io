@@ -21,6 +21,17 @@ image:
 
 ## Online talks
 
+### Lichtpuntjes van het Nederlands - taalunie [nl]
+M. Kestemont (i.s.m. F. Karsdorp), "De verloren Boeken. Een schatting van de verloren Middelnederlandse ridderromans met methodes uit de ecodiversiteit". Online lezing voor de taalunie-reeks *Lichtpuntjes van het Nederlands*, 17/12/2020 [[YouTube-link]](https://youtu.be/nudSX93R6b4). 
+
+<iframe width="500" height="281" src="https://www.youtube.com/embed/nudSX93R6b4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### CHR 2020
+
+<iframe width="500" height="281" src="https://www.youtube.com/embed/lfCq8PotLJo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+M. Kestemont and F. Karsdorp, "Estimating the Loss of Medieval Literature with an Unseen Species Model from Ecodiversity", online short paper presentation at the inaugural *Computational Humanities Workshop* (CHR 2020), 19 November 2020 [[paper]](http://ceur-ws.org/Vol-2723/short10.pdf).
+
 ### Krakow 2020 [en]
 
 Matthia Sabatelli, Nikolay Banar, Marie Cocriamont, Eva Coudyzer, Karine Lasaracina, Walter Daelemans, Pierre Geurts and Mike Kestemont, "Advances in Digital Music Iconography. Benchmarking the detection of musical instruments in unrestricted, non-photorealistic images from the artistic domain". Presentation at the Krakow Digital Humanities Lunch lecture series [[website]](https://web.archive.org/web/20201015095457/http://scriptores.pl/dhlunch/en/04-09-2020/)

@@ -26,6 +26,9 @@ image:
 
 ## Journal papers
 
+### 2020
+- Karsdorp, F.; Manjavacas, E.; Fonteyn, L. & Kestemont, M., "Classifying evolutionary forces in language change using neural networks", *Evolutionary Human Sciences* 2 (2020), DOI:10.1017/ehs.2020.52 [[Open Access]](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/classifying-evolutionary-forces-in-language-change-using-neural-networks/4FAABD3AEF43101F7B6C2AC2FD661560).
+
 ### 2019
 - Kestemont, M. & Karsdorp, F., 'Het Atlantis van de Middelnederlandse ridderepiek. Een schatting van het tekstverlies met methodes uit de ecodiversiteit', *Spiegel der Letteren* 61 (3), 271-290. DOI:10.2143/SDL.61.3.3287540.
 - Karsdorp, F., Manjavacas, E. & Kestemont, M. "Keepin’ it real: Linguistic models of authenticity judgments for artificially generated rap lyrics." *PLoS ONE* 14:10 (2019), e0224152 [doi.org/10.1371/journal.pone.0224152] [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224152).
@@ -134,8 +137,14 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Mike Kestemont, Efstathios Stamatatos, Enrique Manjavacas, Walter Daelemans, Martin Potthast & Benno Stein, 'Overview of the Cross-domain Authorship Attribution Task at PAN 2019', in: *Working Notes of CLEF 2019 - Conference and Labs of the Evaluation Forum*, Lugano, Switzerland, September 9-12, 2019 [[link]](http://ceur-ws.org/Vol-2380/paper_264.pdf).
 * Nikolay Banar, Karine Lasaracina, Walter Daelemans & Mike Kestemont, 'Transfer Learning for Digital Heritage Collections: Comparing Neural Machine Translation at the Subword-level and Character-level'. *Proceedings of the 12th International Conference on Agents and Artificial Intelligence - Volume 1: ARTIDIGH*, 2020, Valletta, Malta, p. 522-529 DOI:10.5220/0009167205220529.
 * Janek Bevendorff, Bilal Ghanem, Anastasia Giachanou, Mike Kestemont, Enrique Manjavacas, Martin Potthast, Francisco Rangel, Paolo Rosso, Günther Specht, Efstathios Stamatatos, Benno Stein, Matti Wiegmann, and Eva Zangerle, 'Shared Tasks on Authorship Analysis at PAN 2020', *Advances in Information Retrieval* (Springer International Publishing, 2020), pp. 508-516. ISBN: 978-3-030-45442-5.
+* Mike Kestemont, Enrique Manjavacas, Ilia Markov, Janek Bevendorff, Matti Wiegmann, Efstathios Stamatatos, Martin Potthast & Benno Stein, "Overview of the Cross-Domain Authorship Verification Task at PAN 2020". *Working notes of CLEF 2020 - Conference and Labs of the Evaluation Forum*, 22-25 September, Thessaloniki, Greece* [[pdf]](http://ceur-ws.org/Vol-2696/paper_264.pdf).
 * Joanna Byszuk, Michał Woźniak, Mike Kestemont, Albert Leśniak, Wojciech Łukasik, Artjoms Šeļa, Maciej Eder, 'Detecting Direct Speech in Multilingual Collections of 19th-century Novels', *Proceedings of the 1st Workshop on Language Technologies for Historical and Ancient Languages, (LT4HALA 2020), collocated with LREC 2020. Language Resources and Evaluation Conference 11–16 May 2020, pp. 100-104*. Editors: Rachele Sprugnoli and Marco Passarotti. ISBN: 979-10-95546-53-5.
 * Manjavacas, E.; Kestemont, M. & Karsdorp, F., "Generation of Hip-Hop Lyrics with Hierarchical Modeling and Conditional Templates", *Proceedings of the 12th International Conference on Natural Language Generation* (ACL, 2019) pp. 301-310 [[pdf]](https://www.aclweb.org/anthology/W19-8638).
+* Manjavacas, E.; Karsdorp, F. & Kestemont, M., "A Statistical Foray into Contextual Aspects of Intertextuality", in F. Karsdorp, B. McGillivray, A. Nerghes & M. Wevers (eds.) *Proceedings of the Workshop on Computational Humanities Research (CHR 2020)*. Amsterdam, the Netherlands, November 18-20, 2020, pp. 77-96 [[pdf]]( http://ceur-ws.org/Vol-2723/long28.pdf).
+* Kestemont, M. & Karsdorp, F., "Estimating the Loss of Medieval Literature with an Unseen Species Model from Ecodiversity", in F. Karsdorp, B. McGillivray, A. Nerghes & M. Wevers (eds.) *Proceedings of the Workshop on Computational Humanities Research (CHR 2020)*. Amsterdam, the Netherlands, November 18-20, 2020, pp. 44-55 [[pdf]](http://ceur-ws.org/Vol-2723/short10.pdf).
+* N. Banar, W. Daelemans & M. Kestemont, "Neural Machine Translation of Artwork Titles Using Iconclass Codes", *Proceedings of LaTeCH-CLfL 2020*, pp. 42–51, Barcelona, Spain (Online), 12 December 2020 [[pdf]](https://www.aclweb.org/anthology/2020.latechclfl-1.5.pdf).
+
+
 
 ### Book contributions
 * Kestemont, M., 'Bloemlezen uit Velthem. Handschrift Wenen, Ö.N.B. Cod. 13.708 in Herne ten tijde van het Westers Schisma' ['An anthology of Velthem. The Vienna Codex in Hérinnes-les-Enghien during the Western Schism'], in: B. Besamusca; R. Sleiderink & G. Warnar (eds.), *De boeken van Velthem: auteur, oeuvre en overlevering*. Hilversum 2009, 251-266. Middeleeuwse studies en bronnen, 119.
