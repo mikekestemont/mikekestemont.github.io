@@ -202,6 +202,10 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * M. Kestemont, "Van wie is het Wilhelmus? Serendipiteit, ideologie en digitale neerlandistiek", online gastlezing in de "Elck syn waerom"-reeks van de afdeling Nederlands van de Eötvös Loránd Universiteit te Budapest, 2 december 2020 [[programma]](https://web.archive.org/save/http://holland.elte.hu/index.php/nl/evenementen-nl/workshop/elck-syn-waerom-wetenschappelijk-wordshop/1116-elck-syn-waerom-lezingenreeks-2020-2021).
 * M. Kestemont (i.s.m. F. Karsdorp), "De verloren Boeken. Een schatting van de verloren Middelnederlandse ridderromans met methodes uit de ecodiversiteit". Online lezing voor de taalunie-reeks *Lichtpuntjes van het Nederlands*, 17/12/2020 [[YouTube-link]](https://youtu.be/nudSX93R6b4). 
 
+### 2021
+* M. Kestemont, (with F. Kardorp et al.), "Estimating the loss of medieval literature with methods from ecology", invited talk in the ATNU/IES Virtual Speaker Series 2020/2021 #6. 21 February 2021, Newcastle, UK [[video link]](https://campus.recap.ncl.ac.uk/Panopto/Pages/Viewer.aspx?id=861d2b13-22d5-4503-a727-acd9008fbc6b).
+* M. Kestemont, (with F. Kardorp et al.), "Estimating the loss of medieval literature with methods from ecology", invited talk in the online lecture series *Beyond the Patterns*. 10 March 2021, FAU, Nürnberg, DE [[video link]](https://www.fau.tv/clip/id/30129).
+
 
 ## Posters
 
