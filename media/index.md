@@ -46,7 +46,7 @@ Mike Kestemont & Folgert Karsdorp, "Estimating the loss of medieval literature w
 
 ## Radio interview *Van den Vos Reynaerde* [nl]
 
-Op sprak ik in *De Wereld van Sofie* (Radio 1) over het mens- en dierbeeld in *Van den vos Reynaerde*. Het interview is [[hier]](https://radio1.be/luister/select/de-wereld-van-sofie/ik-denk-dat-de-auteur-van-de-reynaert-iets-over-de-mens-wil-vertellen#podium19) te herbeluisteren.
+In het voorjaar van 2021 sprak ik in *De Wereld van Sofie* (Radio 1) over het mens- en dierbeeld in *Van den vos Reynaerde*. Het interview is [[hier]](https://radio1.be/luister/select/de-wereld-van-sofie/ik-denk-dat-de-auteur-van-de-reynaert-iets-over-de-mens-wil-vertellen#podium19) te herbeluisteren.
 
 
 ## Canon op Klara [nl]
