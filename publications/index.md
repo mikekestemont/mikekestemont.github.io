@@ -195,6 +195,7 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Kestemont, M., 'Eind goed, al goed?'. Review of R. Draux, *Beatrijs’ biecht. Stilistisch en semiotisch onderzoek*. Saarbrücken, 2009. In: *Queeste. Journal of Medieval Literature in the Low Countries* 18:1 (2011), 81-84.
 * Kestemont, M., Review of: *Macroanalysis. Digital Methods and Literary History*. By Matthew L. Jockers. In: *LLC. The Journal of Digital Scholarship in the Humanities* [advance access; doi:10.1093/llc/fqt056].
 * Kestemont, M., 'Data en de letteren' [review of: *Digitale geletterdheid. Dataverwerking in de geesteswetenschappen*. Tom Willaert, Dirk Speelman & Fred Truyen, Leuven: Leuven University Press, 2018], *Spiegel der Letteren* 61:2 (2019), p. 195-221. doi: 10.2143/SDL.61.2.3287337.
+* Kestemont, M., review of: Gregory Toner and Xiwu Han, *Language and Chronology: Text Dating by Machine Learning* (Brill, 2019), in: *Speculum* 96:2 (2021), pp. 572-573 [[DOI]](https://www.journals.uchicago.edu/doi/10.1086/713755).
 
 ### General public
 * Kestemont, M., 'EACL toont ook de muziek van de literatuur' ['EACL also Shows Music in Literature'], in *E-data & Research*8:3 (2014), p. 2.
