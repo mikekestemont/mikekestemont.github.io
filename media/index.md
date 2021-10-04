@@ -21,6 +21,12 @@ image:
 
 ## Online talks
 
+### College Universiteit van Vlaanderen [nl]
+
+Kort en toegankelijk college voor het initiatief van de [Universiteit van Vlaanderen](https://www.universiteitvanvlaanderen.be/) over ons onderzoek naar de verloren Middelnederlandse ridderepiek.
+
+<iframe width="500" height="281" src="https://www.youtube.com/embed/08EZnlVUx34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Lichtpuntjes van het Nederlands - taalunie [nl]
 M. Kestemont (i.s.m. F. Karsdorp), "De verloren Boeken. Een schatting van de verloren Middelnederlandse ridderromans met methodes uit de ecodiversiteit". Online lezing voor de taalunie-reeks *Lichtpuntjes van het Nederlands*, 17/12/2020 [[YouTube-link]](https://youtu.be/nudSX93R6b4). 
 
