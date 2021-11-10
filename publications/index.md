@@ -27,7 +27,10 @@ image:
 
 
 ### Forthcoming
-* Eder, M., Rybicki, J. and Kestemont, M. Measuring Style. Forthcoming in *Digital Humanities for Literary Studies: Theories, Methods, and Practices*, ed. by J. O'Sullivan, UPenn Press (2020).
+* Thomas Smits and Mike Kestemont, "Towards Multimodal Computational Humanities. Using CLIP to Analyze Late-Nineteenth Century Magic Lantern Slides", *Proceedings of the Conference on Computational Humanities Research 2021.* Amsterdam, the Netherlands, November 17-19, 2021 pp. 149-158 [[pdf]](http://ceur-ws.org/Vol-2989/short_paper23.pdf).
+* *Computational Humanities Research 2021. Proceedings of the Conference on Computational Humanities Research 2021*. Amsterdam, the Netherlands, November 17-19, 2021. Maud Ehrmann, Folgert Karsdorp, Melvin Wevers, Tara Lee Andrews, Manuel Burghardt, Mike Kestemont, Enrique Manjavacas, Michael Piotrowski and Joris van Zundert (eds.) CEUR Workshop Proceedings 2021 [[OA-link]][http://ceur-ws.org/Vol-2989/].
+* Enrique Manjavacas Arevalo, Laurence Mellerin and Mike Kestemont, "Quantifying Contextual Aspects of Inter-annotator Agreement in Intertextuality Research". *Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature*, 2021, pp. 31–42 [[pdf]](https://aclanthology.org/2021.latechclfl-1.4.pdf).
+* Eder, M., Rybicki, J. and Kestemont, M. Measuring Style. Forthcoming in *Digital Humanities for Literary Studies: Theories, Methods, and Practices*, ed. by J. O'Sullivan, UPenn Press (2021).
 
 
 ## Journal papers
@@ -36,6 +39,7 @@ image:
 * Matthia Sabatelli; Nikolay Banar; Marie Cocriamont; Eva Coudyzer; Karine Lasaracina; Walter Daelemans; Pierre Geurts; & Mike Kestemont, 'Advances in Digital Music Iconography: Benchmarking the detection of musical instruments in unrestricted, non-photorealistic images from the artistic domain'. *Digital Humanities Quarterly* 14:4 (2021), Special issue: "AudioVisual Data in DH", guest edited by: Taylor Arnold, Jasmijn van Gorp, Stefania Scagliola, and Lauren Tilton [[open access link]](http://www.digitalhumanities.org/dhq/vol/15/1/000517/000517.html).  
 
 ### 2020
+- Haverals, W. and Kestemont, M., "Silent voices. A Digital Study of the Herne Charterhouse Scribal Community (ca. 1350-1400)". *Queeste* 27 (2020), pp. 186-195 [[doi]](https://doi.org/10.5117/QUE2020.2.006.HAVE).
 - Karsdorp, F.; Manjavacas, E.; Fonteyn, L. & Kestemont, M., "Classifying evolutionary forces in language change using neural networks", *Evolutionary Human Sciences* 2 (2020), DOI:10.1017/ehs.2020.52 [[Open Access]](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/classifying-evolutionary-forces-in-language-change-using-neural-networks/4FAABD3AEF43101F7B6C2AC2FD661560).
 
 ### 2019
@@ -181,6 +185,10 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Nikolay Banar; Walter Daelemans & Mike Kestemont, "Multi-modal Label Retrieval for the Visual Arts: The Case of Iconclass". In: *Proceedings of the 13th International Conference on Agents and Artificial Intelligence (ICAART 2021) - Volume 1*, SCITEPRESS (2021). ISBN: 978-989-758-484-8 pp. 622-629. DOI: 10.5220/0010390606220629 [[pdf]](https://www.scitepress.org/Papers/2021/103906/103906.pdf).
 * Sabatelli, Matthia; Kestemont, Mike & Pierre, Geurts, "On the Transferability of Winning Tickets in Non-Natural Image Datasets" In: *Proceedings of the 16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP 2021* (2021), pp. 59-69 [[pdf]](https://orbi.uliege.be/bitstream/2268/255720/1/On_the_Transferability_of_Winning_Tickets_in_Non_Natural_Image_Datasets.pdf). 
 * Nikolay Banar; Matthia Sabatelli; Pierre Geurts; Walter Daelemans & Mike Kestemont, "Transfer learning with style transfer between the photorealistic and artistic domain", *IS&T International Symposium on Electronic Imaging. Computer Vision and Image Analysis of Art 2021*, pp. 041(1)-041(8) [[pdf]](http://docserver.ingentaconnect.com/deliver/fasttrack/ist/24701173/3468898-cvaa.pdf?expires=1615546822&id=guest&checksum=39C7461D30B3922F65FA805AD3B0D690), [[DOI]](https://doi.org/10.2352/ISSN.2470-1173.2021.14.CVAA-041).
+* Burtenshaw, B. and Kestemont, M., "UAntwerp at SemEval-2021 Task 5: Spans are Spans, stacking a binary word level approach to toxic span detection". *Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)*, pp. 898–903, [[pdf]](https://aclanthology.org/2021.semeval-1.121.pdf).
+* Janek Bevendorff, Berta Chulvi, Gretel Liz De la Peña Sarracén, Mike Kestemont, Enrique Manjavacas, Ilia Markov, Maximilian Mayerl, Martin Potthast, Francisco Rangel, Paolo Rosso, Efstathios Stamatatos, Benno Stein, Matti Wiegmann, Magdalena Wolska and Eva Zangerle, "Overview of PAN 2021: Authorship Verification, Profiling Hate Speech Spreaders on Twitter, and Style Change Detection". *CLEF 2021*, pp. 419-431.
+* Mike Kestemont, Enrique Manjavacas, Ilia Markov, Janek Bevendorff, Matti Wiegmann, Efstathios Stamatatos, Benno Stein, Martin Potthast, "Overview of the Cross-Domain Authorship Verification Task at PAN 2021". *CLEF (Working Notes)* 2021, pp. 1743-1759 [[pdf]](http://ceur-ws.org/Vol-2936/paper-147.pdf).
+
 
 
 ### Book contributions
@@ -202,6 +210,7 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Kestemont, M., 'Het gewicht van de auteur. Reflecties over auteursattributie in samenleving en wetenschap' ['The Weight of the Author. Reflections on Authorship Attribution in Society and Academia'], in *Streven. Cultureel maatschappelijk maandblad* 78:3 (2011), 234-244.
 * Kestemont, M., 'Plagiaat in de Guldensporenslag' ['Plagiarism in the Battle of the Golden Spurs'], in: *Eos. Actueel maandblad over wetenschapen technologie* 27:1 (2011), 36-39.
 * Kestemont, M., 'Oraal erfgoed – bewaart dat? Enkele bespiegelingen over schrift- en taalcultuur', introductory contribution to the heritage project *Peepel Tervuren. Taal en verhaal in Tervuren* [online](http://www.peepel.be/?page_id=56)
+* M. Kestemont, "De extreme woorden-schat van de Middelnederlandse literatuur", *Wat gebeurt er in het Nederlands?! Over taal, frequentie en variatie*, Nicoline van der Sijs, Lauren Fonteyn and Marten van der Meulen (eds.), Sterck & De Vreese (2021), pp. 138-144. ISBN 978 90 5615 803 3.
 
 ### Shared tasks
 * With Vincent Chrislein and Andreas Maier: ICDAR 2017 Competition on the Classification of Medieval Handwritings in Latin Script at the *2017 14th IAPR International Conference on Document Analysis and Recognition*. First position in 2 of the 4 tasks ("script type classification and dating on unconstrained datasets") and 2nd in the other two tasks. See: [http://clamm.irht.cnrs.fr/icdar-2017/].
