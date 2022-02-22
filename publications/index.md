@@ -33,6 +33,8 @@ image:
 ## Journal papers
 
 ### 2021
+* Mike Kestemont, "Medioneerlandistiek, millennials en het nieuwe millennium. Een vakgebied in digitale erfpacht", *Nederlandse letterkunde* 26:2-3 (2021), pp. 240 - 255 [[doi]](https://doi.org/10.5117/NEDLET.2021.2-3.008.KEST).
+* Eveline Leclercq and Mike Kestemont, 'Advances in Distant Diplomatics. A Stylometric Approach to Medieval Charters', *Interfaces: A Journal of Medieval European Literatures* 8 (2021) pp. 214-244 [[doi]](DOI10.54103/interfaces-08-10).
 * Matthia Sabatelli; Nikolay Banar; Marie Cocriamont; Eva Coudyzer; Karine Lasaracina; Walter Daelemans; Pierre Geurts; & Mike Kestemont, 'Advances in Digital Music Iconography: Benchmarking the detection of musical instruments in unrestricted, non-photorealistic images from the artistic domain'. *Digital Humanities Quarterly* 14:4 (2021), Special issue: "AudioVisual Data in DH", guest edited by: Taylor Arnold, Jasmijn van Gorp, Stefania Scagliola, and Lauren Tilton [[open access link]](http://www.digitalhumanities.org/dhq/vol/15/1/000517/000517.html).
 
 ### 2020
