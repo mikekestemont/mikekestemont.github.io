@@ -48,6 +48,8 @@ Co-organized or co-taught courses in programming and computational text analysis
 * With F. Karsdorp, "Humanities Data Analysis with Python. Wetting one's appetite with historic cookbooks", workshop at the Leiden Summer School Literary Studies & Digital Humanities, 31 May 2021, virtual [Leyden, NL] [[website]](https://web.archive.org/web/20210715135309/https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/literary-studies--digital-humanities).
 * "Computational stylistics. The Unreasonable Effectiveness of Counting Function Words". Workshop at *UNIL Summer School - Digital Methods in the Humanities and Social Sciences*, 1 July 2021, virtual [Lausanne, CH][[programme]](https://web.archive.org/web/20210715134722/https://wp.unil.ch/summerschools/courses/digital-methods-in-the-humanities-and-social-sciences/).
 * "Text Analysis with Python". Three-session workshop at *DAGITAB: Digital Humanities Summer School 2021*, 5-7-12 July 2021, virtual [Manila, Philippines].
+* Humanities Data Analysis (two days of classes), with Folgert Karsdorp, Winter School 2022: "Data Science in the Digital Era" (	
+31 January-4 Febraury 2022) in Champéry, Swiss [[programma]](https://web.archive.org/web/20220201112059/https://informatique.cuso.ch/?id=2283&L=0&tx_displaycontroller[showUid]=5961).
 
 
 ## Presentations, Lectures, Talks
@@ -218,6 +220,7 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Mike Kestemont, Enrique Manjavacas, Ilia Markov, Janek Bevendorff, Matti Wiegmann, Efstathios Stamatatos, Benno Stein and Martin Potthast, "Overview of the Cross-Domain Authorship Verification Task at PAN 2021". Task overview paper presented at CLEF 2021 Conference and Labs of the Evaluation Forum. Online, 23 September 2021 [[url]](https://web.archive.org/web/20211109190010/https://pan.webis.de/clef21/pan21-web/index.html).
 * Remco Sleiderink and Mike Kestemont, "Restricted Sight. On the cloudy relation between French and Dutch chivalric romance". Conference talk at *From fragment to whole, Interpreting Medieval Manuscript Fragments* online [Bristol], 16 September 2021 [[url]](https://web.archive.org/web/20211109190329/http://www.bris.ac.uk/arts/events/2020/september/fragments-conference.html).
 * Wouter Haverals and Mike Kestemont, "The Herne Charterhouse as a Textual Community, inquired through stylochronometry and HTR techniques". Conference presentation at the international workshop *On the Way to the Future of Digital Manuscript Studies*. Nijmegen (NL), 28 Octobre 2021.
+* Mike Kestemont and Folgert Karsdorp, "Unequality in the loss of medieval literature. Modelling collectors' biases using methods from ecology". Workshop presentation at the Cultivate MSS Workshop, 26 November 2021 [*virtual*].
 
 
 ## Posters

@@ -21,6 +21,12 @@ image:
 
 ## Online talks
 
+### Science (2022): Author Explanation Video [en]
+
+Here you can watch the English-language author explanation video which we made to support our 2022 *Science* paper on "Forgotten books", featuring many of the authors involved, next to clips of gorgeous medieval manuscripts:
+
+<iframe src="https://player.vimeo.com/video/677201737?h=a875da66f4&color=9E403A" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ### College Universiteit van Vlaanderen [nl]
 
 Kort en toegankelijk college voor het initiatief van de [Universiteit van Vlaanderen](https://www.universiteitvanvlaanderen.be/) over ons onderzoek naar de verloren Middelnederlandse ridderepiek.

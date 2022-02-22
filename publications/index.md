@@ -21,22 +21,19 @@ image:
 
 
 ### Just out!
+* Kestemont Mike, Karsdorp Folgert, de Bruijn Elisabeth, Driscoll Matthew, Kapitan Katarzyna A., Ó Macháin Pádraig, Sawyer Daniel, Sleiderink Remco, Chao Anne, "Forgotten books: the application of unseen species models to the survival of culture". *Science* 375:6582(2022), p. 765-769 [[doi]](https://www.science.org/doi/10.1126/science.abl7655) [[video]](https://vimeo.com/677201737) [[website]](https://forgotten-books.netlify.app/).
 * Karsdorp, Folgert; Kestemont, Mike & Riddell, Allen. *Humanities Data Analysis. Case Studies with Python*. Princeton University Press, 2021. ISBN: 9780691172361. 360 pp. [[website]](https://press.princeton.edu/books/hardcover/9780691172361/humanities-data-analysis).
 
 ![book cover](https://pup-assets.imgix.net/onix/images/9780691172361.jpg?w=640&auto=format)
 
 
 ### Forthcoming
-* Thomas Smits and Mike Kestemont, "Towards Multimodal Computational Humanities. Using CLIP to Analyze Late-Nineteenth Century Magic Lantern Slides", *Proceedings of the Conference on Computational Humanities Research 2021.* Amsterdam, the Netherlands, November 17-19, 2021 pp. 149-158 [[pdf]](http://ceur-ws.org/Vol-2989/short_paper23.pdf).
-* *Computational Humanities Research 2021. Proceedings of the Conference on Computational Humanities Research 2021*. Amsterdam, the Netherlands, November 17-19, 2021. Maud Ehrmann, Folgert Karsdorp, Melvin Wevers, Tara Lee Andrews, Manuel Burghardt, Mike Kestemont, Enrique Manjavacas, Michael Piotrowski and Joris van Zundert (eds.) CEUR Workshop Proceedings 2021 [[OA-link]][http://ceur-ws.org/Vol-2989/].
-* Enrique Manjavacas Arevalo, Laurence Mellerin and Mike Kestemont, "Quantifying Contextual Aspects of Inter-annotator Agreement in Intertextuality Research". *Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature*, 2021, pp. 31–42 [[pdf]](https://aclanthology.org/2021.latechclfl-1.4.pdf).
 * Eder, M., Rybicki, J. and Kestemont, M. Measuring Style. Forthcoming in *Digital Humanities for Literary Studies: Theories, Methods, and Practices*, ed. by J. O'Sullivan, UPenn Press (2021).
-
 
 ## Journal papers
 
 ### 2021
-* Matthia Sabatelli; Nikolay Banar; Marie Cocriamont; Eva Coudyzer; Karine Lasaracina; Walter Daelemans; Pierre Geurts; & Mike Kestemont, 'Advances in Digital Music Iconography: Benchmarking the detection of musical instruments in unrestricted, non-photorealistic images from the artistic domain'. *Digital Humanities Quarterly* 14:4 (2021), Special issue: "AudioVisual Data in DH", guest edited by: Taylor Arnold, Jasmijn van Gorp, Stefania Scagliola, and Lauren Tilton [[open access link]](http://www.digitalhumanities.org/dhq/vol/15/1/000517/000517.html).  
+* Matthia Sabatelli; Nikolay Banar; Marie Cocriamont; Eva Coudyzer; Karine Lasaracina; Walter Daelemans; Pierre Geurts; & Mike Kestemont, 'Advances in Digital Music Iconography: Benchmarking the detection of musical instruments in unrestricted, non-photorealistic images from the artistic domain'. *Digital Humanities Quarterly* 14:4 (2021), Special issue: "AudioVisual Data in DH", guest edited by: Taylor Arnold, Jasmijn van Gorp, Stefania Scagliola, and Lauren Tilton [[open access link]](http://www.digitalhumanities.org/dhq/vol/15/1/000517/000517.html).
 
 ### 2020
 - Haverals, W. and Kestemont, M., "Silent voices. A Digital Study of the Herne Charterhouse Scribal Community (ca. 1350-1400)". *Queeste* 27 (2020), pp. 186-195 [[doi]](https://doi.org/10.5117/QUE2020.2.006.HAVE).
@@ -120,6 +117,8 @@ image:
 * Joris van Zundert, Sally Chambers, Mike Kestemont, Marijn Koolen & Catherine Jones (eds.), *Proceedings of the DHBeNeLux Conference 2015*, special issue of *Digital Humanities Quarterly* 11.4 (2017). http://www.digitalhumanities.org/dhq/preview/index.html.
 * *Speculum. A Journal of Medieval Studies* 92:S1 (2017), digital supplement: 'The Digital Middle Ages', guest edited by David J. Birnbaum, Sheila Bonde, Mike Kestemont. CC-BY-NC [[link]](http://www.journals.uchicago.edu/toc/spc/2017/92/S1).
 * Mike Kestemont & Dirk van Hulle (eds.), 'Theorie en de digitale geesteswetenschappen?'. Themed issue of *Tijdschrift voor Nederlandse taal- en letterkunde* 135:4 (2019).
+* *Computational Humanities Research 2021. Proceedings of the Conference on Computational Humanities Research 2021*. Amsterdam, the Netherlands, November 17-19, 2021. Maud Ehrmann, Folgert Karsdorp, Melvin Wevers, Tara Lee Andrews, Manuel Burghardt, Mike Kestemont, Enrique Manjavacas, Michael Piotrowski and Joris van Zundert (eds.) CEUR Workshop Proceedings 2021 [[OA-link]][http://ceur-ws.org/Vol-2989/].
+
 
 ### Papers in conference proceedings
 
@@ -188,7 +187,8 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Burtenshaw, B. and Kestemont, M., "UAntwerp at SemEval-2021 Task 5: Spans are Spans, stacking a binary word level approach to toxic span detection". *Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)*, pp. 898–903, [[pdf]](https://aclanthology.org/2021.semeval-1.121.pdf).
 * Janek Bevendorff, Berta Chulvi, Gretel Liz De la Peña Sarracén, Mike Kestemont, Enrique Manjavacas, Ilia Markov, Maximilian Mayerl, Martin Potthast, Francisco Rangel, Paolo Rosso, Efstathios Stamatatos, Benno Stein, Matti Wiegmann, Magdalena Wolska and Eva Zangerle, "Overview of PAN 2021: Authorship Verification, Profiling Hate Speech Spreaders on Twitter, and Style Change Detection". *CLEF 2021*, pp. 419-431.
 * Mike Kestemont, Enrique Manjavacas, Ilia Markov, Janek Bevendorff, Matti Wiegmann, Efstathios Stamatatos, Benno Stein, Martin Potthast, "Overview of the Cross-Domain Authorship Verification Task at PAN 2021". *CLEF (Working Notes)* 2021, pp. 1743-1759 [[pdf]](http://ceur-ws.org/Vol-2936/paper-147.pdf).
-
+* * Thomas Smits and Mike Kestemont, "Towards Multimodal Computational Humanities. Using CLIP to Analyze Late-Nineteenth Century Magic Lantern Slides", *Proceedings of the Conference on Computational Humanities Research 2021.* Amsterdam, the Netherlands, November 17-19, 2021 pp. 149-158 [[pdf]](http://ceur-ws.org/Vol-2989/short_paper23.pdf).
+* Enrique Manjavacas Arevalo, Laurence Mellerin and Mike Kestemont, "Quantifying Contextual Aspects of Inter-annotator Agreement in Intertextuality Research". *Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature*, 2021, pp. 31–42 [[pdf]](https://aclanthology.org/2021.latechclfl-1.4.pdf).
 
 
 ### Book contributions
