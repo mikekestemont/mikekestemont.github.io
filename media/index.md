@@ -34,9 +34,9 @@ Kort en toegankelijk college voor het initiatief van de [Universiteit van Vlaand
 <iframe width="500" height="281" src="https://www.youtube.com/embed/08EZnlVUx34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Lichtpuntjes van het Nederlands - taalunie [nl]
-M. Kestemont (i.s.m. F. Karsdorp), "De verloren Boeken. Een schatting van de verloren Middelnederlandse ridderromans met methodes uit de ecodiversiteit". Online lezing voor de taalunie-reeks *Lichtpuntjes van het Nederlands*, 17/12/2020 [[YouTube-link]](https://youtu.be/nudSX93R6b4). 
+M. Kestemont (i.s.m. F. Karsdorp), "De verloren Boeken. Een schatting van de verloren Middelnederlandse ridderromans met methodes uit de ecodiversiteit". Online lezing voor de taalunie-reeks *Lichtpuntjes van het Nederlands*, 17/12/2020 [[YouTube-link]](https://youtu.be/0fVHwGipPP0). 
 
-<iframe width="500" height="281" src="https://www.youtube.com/embed/nudSX93R6b4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="281" src="https://www.youtube.com/embed/0fVHwGipPP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### CHR 2020
 
