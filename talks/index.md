@@ -223,6 +223,20 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Mike Kestemont and Folgert Karsdorp, "Unequality in the loss of medieval literature. Modelling collectors' biases using methods from ecology". Workshop presentation at the Cultivate MSS Workshop, 26 November 2021 [*virtual*].
 
 
+### 2022
+
+Mike Kestemont and Folgert Karsdorp, with Elisabeth de Bruijn, Matthew Driscoll, Katarzyna A. Kapitan,
+Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink & Anne Chao, "Forgotten Books. The application of unseen species
+models to the survival of culture", presented on several occasions:
+* 9 May 2022, Invited talk at CSSI, Kellogg School of Management, Northwestern University, USA [*virtual*].
+* 25 May 2022, Invited talk at Center for Humanities Computing Aarhus, Aarhus, DK.
+* 20 June 2022, Keynote lecture at Online Summer School for Literary Studies & Digital Humanities 2022, Leyden, NL [*virtual*].
+* 30 June 2022, Invited talk at the workshop *From Cultural Evolution to Computational Humanities: Building a Bridge*, Max Planck Institute, Jena, DE.
+* 19 September 2022, Invited talk in the CUDAN Open Lab Seminar series, Tallinn University, Estonia [*virtual*].
+* 15 Novembre 2022, Invited talk in the series *Séminaire Humanités Numériques*, at the Centre d'Etudes Supérieures de la Renaissance, Tours, FR.
+* 18 November 2022, Invited talk in the ECOOM-UAntwerp seminar, Antwerp, BE.
+
+
 ## Posters
 
 * Kestemont, M., F. Willaert & W. Daelemans, ‘Het rijm in de Middelnederlandse epiek’. Poster presented at the 14e Vlaams-Nederlandse Mediëvistendag. Norm en afwijking, remedie en repressie. De aanpak van het deviante in de middeleeuwen (Louvain, 31/10/2008, organized by the Vlaamse Werkgroep mediëvistiek).
