@@ -26,11 +26,12 @@ image:
 
 ![book cover](https://pup-assets.imgix.net/onix/images/9780691172361.jpg?w=640&auto=format)
 
-
-### Forthcoming
-* Eder, M., Rybicki, J. and Kestemont, M. Measuring Style. Forthcoming in *Digital Humanities for Literary Studies: Theories, Methods, and Practices*, ed. by J. O'Sullivan, UPenn Press (2021).
-
 ## Journal papers
+
+### 2022
+
+* Tanghe Koen B. & Kestemont Mike, "A peek behind a veil of anonymity: an addendum", *Bioscience* 72:8(2022), pp. 713-713 [[doi]](https://doi.org/10.1093/BIOSCI/BIAC049).
+* De Bruin, Elisabeth & Kestemont, Mike, "Vergeten ridderverhalen in *Science*", *Madoc. Tijdschrift over de Middeleeuwen*, 36:2 (2022), pp. 99-108.
 
 ### 2021
 * Mike Kestemont, "Medioneerlandistiek, millennials en het nieuwe millennium. Een vakgebied in digitale erfpacht", *Nederlandse letterkunde* 26:2-3 (2021), pp. 240 - 255 [[doi]](https://doi.org/10.5117/NEDLET.2021.2-3.008.KEST).
@@ -191,6 +192,11 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Mike Kestemont, Enrique Manjavacas, Ilia Markov, Janek Bevendorff, Matti Wiegmann, Efstathios Stamatatos, Benno Stein, Martin Potthast, "Overview of the Cross-Domain Authorship Verification Task at PAN 2021". *CLEF (Working Notes)* 2021, pp. 1743-1759 [[pdf]](http://ceur-ws.org/Vol-2936/paper-147.pdf).
 * * Thomas Smits and Mike Kestemont, "Towards Multimodal Computational Humanities. Using CLIP to Analyze Late-Nineteenth Century Magic Lantern Slides", *Proceedings of the Conference on Computational Humanities Research 2021.* Amsterdam, the Netherlands, November 17-19, 2021 pp. 149-158 [[pdf]](http://ceur-ws.org/Vol-2989/short_paper23.pdf).
 * Enrique Manjavacas Arevalo, Laurence Mellerin and Mike Kestemont, "Quantifying Contextual Aspects of Inter-annotator Agreement in Intertextuality Research". *Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature*, 2021, pp. 31–42 [[pdf]](https://aclanthology.org/2021.latechclfl-1.4.pdf).
+
+
+### 2022
+* De Mulder Alessandra, Fonteyn Lauren & Kestemont Mike, "Linguistic value construction in 18th-century London auction advertisements: a quantitative approach", in: *Proceedings of the Computational Humanities Research Conference 2022 (CHR 2022), 12-14 December, 2022, Antwerp, Belgium* - ISSN 1613-0073 - CEUR Workshop Proceedings, 3(2022), p. 92-113 [[pdf]](https://ceur-ws.org/Vol-3290/long_paper1591.pdf).
+* Margherita Parigini & Kestemont Mike, "The Roots of Doubt. Fine-tuning a BERT Model to Explore a Stylistic Phenomenon", in: *Proceedings of the Computational Humanities Research Conference 2022 (CHR 2022), 12-14 December, 2022, Antwerp, Belgium* - ISSN 1613-0073 - CEUR Workshop Proceedings, 3(2022), p. 72-91 [[pdf]](https://ceur-ws.org/Vol-3290/long_paper399.pdf).
 
 
 ### Book contributions
