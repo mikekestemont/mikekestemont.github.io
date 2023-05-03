@@ -28,6 +28,12 @@ image:
 
 ## Journal papers
 
+### 2023
+* Nikolay Banar, Walter Daelemans & Mike Kestemont, "Transfer Learning for the Visual Arts: The Multi-Modal Retrieval of Iconclass Codes", *Journal on Computing and Cultural Heritage* (2023), [[doi]](https://doi.org/10.1145/3575865).
+* Wouter Haverals & Mike Kestemont, "From exemplar to copy: the scribal appropriation of a Hadewijch manuscript computationally explored", *Journal of Data Mining and Digital Humanities* (2023), [[doi]](https://doi.org/10.46298/jdmdh.10206).
+
+ Authors Info & Claims
+
 ### 2022
 
 * Tanghe Koen B. & Kestemont Mike, "A peek behind a veil of anonymity: an addendum", *Bioscience* 72:8(2022), pp. 713-713 [[doi]](https://doi.org/10.1093/BIOSCI/BIAC049).
