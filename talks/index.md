@@ -236,6 +236,15 @@ models to the survival of culture", presented on several occasions:
 * 15 Novembre 2022, Invited talk in the series *Séminaire Humanités Numériques*, at the Centre d'Etudes Supérieures de la Renaissance, Tours, FR.
 * 18 November 2022, Invited talk in the ECOOM-UAntwerp seminar, Antwerp, BE.
 
+### 2023
+Mike Kestemont and Folgert Karsdorp, with Elisabeth de Bruijn, Matthew Driscoll, Katarzyna A. Kapitan,
+Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink & Anne Chao, "Forgotten Books. The application of unseen species
+models to the survival of culture", presented on several occasions:
+* 7 February 2023, Invited talk at the event "Digital Keys to Invisible Texts". Jesus College, Oxford, UK.
+* 12 April 2023, Invited talk at the Séminaire de l'Ecole des Chartes, Paris, FR.
+
+* Mike Kestemont, "Zwerfverzen. De computationele detectie van intertekstualiteit in Middelnederlandse epiek". Invited talk at the Formulaisch Taalgebruik in Historische Bronnen. 29 March 2023. KNAW Humanities Cluster, Amsterdam, NL.
+
 
 ## Posters
 
