@@ -241,7 +241,8 @@ Mike Kestemont and Folgert Karsdorp, with Elisabeth de Bruijn, Matthew Driscoll,
 Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink & Anne Chao, "Forgotten Books. The application of unseen species
 models to the survival of culture", presented on several occasions:
 * 7 February 2023, Invited talk at the event "Digital Keys to Invisible Texts". Jesus College, Oxford, UK.
-* 12 April 2023, Invited talk at the Séminaire de l'Ecole des Chartes, Paris, FR.
+* 12 April 2023, Invited talk at the Séminaire de l'Ecole des Chartes, Paris, France.
+
 
 * Mike Kestemont, "Zwerfverzen. De computationele detectie van intertekstualiteit in Middelnederlandse epiek". Invited talk at the Formulaisch Taalgebruik in Historische Bronnen. 29 March 2023. KNAW Humanities Cluster, Amsterdam, NL.
 * Wouter Haverals & Mike Kestemont, "Manuscripts in Order: Charting the Evolution of Scribal Practice in the Herne charterhouse (c. 1350-1400) through Stylochronometry". Conference contribution at *Novel approaches to Digital Codicology*, 10-12 May 2023. Tours, France [[link]](https://web.archive.org/web/20230718132844/https://www.lestudium-ias.com/events/novel-approaches-digital-codicology).
