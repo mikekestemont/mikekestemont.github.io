@@ -244,6 +244,14 @@ models to the survival of culture", presented on several occasions:
 * 12 April 2023, Invited talk at the Séminaire de l'Ecole des Chartes, Paris, FR.
 
 * Mike Kestemont, "Zwerfverzen. De computationele detectie van intertekstualiteit in Middelnederlandse epiek". Invited talk at the Formulaisch Taalgebruik in Historische Bronnen. 29 March 2023. KNAW Humanities Cluster, Amsterdam, NL.
+* Wouter Haverals & Mike Kestemont, "Manuscripts in Order: Charting the Evolution of Scribal Practice in the Herne charterhouse (c. 1350-1400) through Stylochronometry". Conference contribution at *Novel approaches to Digital Codicology*, 10-12 May 2023. Tours, France [[link]](https://web.archive.org/web/20230718132844/https://www.lestudium-ias.com/events/novel-approaches-digital-codicology).
+* Folgert Karsdorp, Margo De Koster & Mike Kestemont, "Dark Numbers. Modeling the historical vulnerability to arrest in Brussels (1879-1880) using demographic predictors". Long paper at DHBenelux 2023. Brussels, Royal Library,
+31 May – 2 June 2023 [[abstract](https://doi.org/10.5281/zenodo.7943979)].
+* Folgert Karsdorp & Mike Kestemont, "Forgotten knights, unseen sailors, and unapprehended criminals: applying unseen species models to the survival of culture". Invited talk in the Summer Seminar series at the Computational Humanities Research Group. 13 June 2023. King's College London, UK [online presentation] [[link]](https://web.archive.org/web/20230718131745/https://www.kcl.ac.uk/events/forgotten-knights-and-unseen-sailors).
+* Dorothy Sperling, Vincent Neyt & Mike Kestemont, "The Authorship of Stephen King’s Books Written Under the Pseudonym “Richard Bachman”: A Stylometric Analysis". Conference paper at CCLS 2023 (2nd Annual Conference of Computational Literary Studies). 22-23 June 2023. University of Würzburg, Germany. [[preliminary paper]](https://zenodo.org/record/8093598).
+* Mike Kestemont, "The wandering verse. The computational detection of micro-intertexts in medieval literature". Keynote delivered at the summer school in *Digital Humanities Computer-assisted genetic editing: from handwritten text recognition to keystroke logging*. 3-7 July 2023. University of Antwerp, Belgium.
+* Wouter Haverals & Mike Kestemont, "Handwritten text recognition applied to the manuscript production of the Carthusian Monastery of Herne in the Fourteenth Century". July 10-14 2023. Graz, Austria [[Book of abstracts]](https://zenodo.org/record/7961822).
+
 
 
 ## Posters
