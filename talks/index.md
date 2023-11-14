@@ -242,6 +242,7 @@ Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink & Anne Chao, "Forgotten Bo
 models to the survival of culture", presented on several occasions:
 * 7 February 2023, Invited talk at the event "Digital Keys to Invisible Texts". Jesus College, Oxford, UK.
 * 12 April 2023, Invited talk at the Séminaire de l'Ecole des Chartes, Paris, France.
+* 11 September 2023. Invited talk at the Osaka-Antwerp Workshop on Machine-learning Approaches to Corpora, Osaka, Japan. 
 
 
 * Mike Kestemont, "Zwerfverzen. De computationele detectie van intertekstualiteit in Middelnederlandse epiek". Invited talk at the Formulaisch Taalgebruik in Historische Bronnen. 29 March 2023. KNAW Humanities Cluster, Amsterdam, NL.
@@ -252,6 +253,11 @@ models to the survival of culture", presented on several occasions:
 * Dorothy Sperling, Vincent Neyt & Mike Kestemont, "The Authorship of Stephen King’s Books Written Under the Pseudonym “Richard Bachman”: A Stylometric Analysis". Conference paper at CCLS 2023 (2nd Annual Conference of Computational Literary Studies). 22-23 June 2023. University of Würzburg, Germany. [[preliminary paper]](https://zenodo.org/record/8093598).
 * Mike Kestemont, "The wandering verse. The computational detection of micro-intertexts in medieval literature". Keynote delivered at the summer school in *Digital Humanities Computer-assisted genetic editing: from handwritten text recognition to keystroke logging*. 3-7 July 2023. University of Antwerp, Belgium.
 * Wouter Haverals & Mike Kestemont, "Handwritten text recognition applied to the manuscript production of the Carthusian Monastery of Herne in the Fourteenth Century". July 10-14 2023. Graz, Austria [[Book of abstracts]](https://zenodo.org/record/7961822).
+* Kestemont, M., "The wandering verse. The computational study of intertextuality in medieval romances." Invited talk at the event: *Corpora, digital analysis, and the history of the English language*. University of Oslo, Norway, September 8 2023  [[link]](https://www.hf.uio.no/ilos/english/research/news-and-events/events/guest-lectures-seminars/2023/corpora-digital-analysis-and-the-history-of-the-en.html).
+* Kestemont, M., "The wandering verse. The computational study of intertextuality in medieval romances." Invited keynote talk at the 2023 conference of the Japanese Association for English Corpus Studies. Kansai University, Osaka, Japan, 9-10 September 2023 [[link]](https://jaecs2023.sakura.ne.jp/WP/program_en/).
+* Gabriël, R. & Kestemont M., "Presentatie editie de Heber-Serrurecodex". Studiemiddag Middeleeuwse Verzamelhandschriften uit de Nederlanden. Amsterdam, 2 October 2023 [[link]](https://www.universiteitleiden.nl/binaries/content/assets/customsites/medievistiek/programma-studiemiddag-mvn-2-oktober.pdf).
+* Kestemont, M., "Negotiating Novelty. The computational study of formulaicness in medieval narrative fiction". Invited talk at "Charting the Future of Historical Humanities", LECTIO roundtables 2023–2024, "From Data to Interpretation" interdisciplinarity. KULeuven, 11 October 2023 [[link]](https://www.kuleuven.be/lectio/events/from-data-to-interpretation).
+
 
 
 
