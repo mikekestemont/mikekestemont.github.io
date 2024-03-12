@@ -258,7 +258,9 @@ models to the survival of culture", presented on several occasions:
 * Gabriël, R. & Kestemont M., "Presentatie editie de Heber-Serrurecodex". Studiemiddag Middeleeuwse Verzamelhandschriften uit de Nederlanden. Amsterdam, 2 October 2023 [[link]](https://www.universiteitleiden.nl/binaries/content/assets/customsites/medievistiek/programma-studiemiddag-mvn-2-oktober.pdf).
 * Kestemont, M., "Negotiating Novelty. The computational study of formulaicness in medieval narrative fiction". Invited talk at "Charting the Future of Historical Humanities", LECTIO roundtables 2023–2024, "From Data to Interpretation" interdisciplinarity. KULeuven, 11 October 2023 [[link]](https://www.kuleuven.be/lectio/events/from-data-to-interpretation).
 
-
+### 2024
+* Kestemont, M., "The Abundance of Medieval Literature: An Eco-Computational Perspective". Invited talk at the Center for Digital Humanities and MARBAS. Princeton University, USA, 6 February 2024 [[link]](https://web.archive.org/save/https://www.princeton.edu/events/2024/mike-kestemont-abundance-medieval-literature-eco-computational-perspective).
+* Kestemont, M., "Post-Copyright Philology. A Computational Approach to Intertextuality and Success in Medieval literature". Invited talk at the Yale Lectures in Medieval Studies, Yale University (USA), 8 February 2024 [[link]](https://web.archive.org/save/https://medieval.yale.edu/yale-lectures-medieval-studies).
 
 
 ## Posters

@@ -20,7 +20,8 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-### Just out!
+### Highlights
+* Kestemont, M. & Karsdorp, F., *Het mysterie van de verdwenen ridderromans*. Uitgeverij Letterwerk, 2024. Questa-reeks. ISBN 978-94-6459-835-3 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10807547.svg)](https://zenodo.org/doi/10.5281/zenodo.10807546).
 * Kestemont Mike, Karsdorp Folgert, de Bruijn Elisabeth, Driscoll Matthew, Kapitan Katarzyna A., Ó Macháin Pádraig, Sawyer Daniel, Sleiderink Remco, Chao Anne, "Forgotten books: the application of unseen species models to the survival of culture". *Science* 375:6582(2022), p. 765-769 [[doi]](https://www.science.org/doi/10.1126/science.abl7655) [[video]](https://vimeo.com/677201737) [[website]](https://forgotten-books.netlify.app/).
 * Karsdorp, Folgert; Kestemont, Mike & Riddell, Allen. *Humanities Data Analysis. Case Studies with Python*. Princeton University Press, 2021. ISBN: 9780691172361. 360 pp. [[website]](https://press.princeton.edu/books/hardcover/9780691172361/humanities-data-analysis).
 
@@ -28,13 +29,14 @@ image:
 
 ## Journal papers
 
+
 ### 2023
 * Nikolay Banar, Walter Daelemans & Mike Kestemont, "Transfer Learning for the Visual Arts: The Multi-Modal Retrieval of Iconclass Codes", *Journal on Computing and Cultural Heritage* (2023), [[doi]](https://doi.org/10.1145/3575865).
 * Wouter Haverals & Mike Kestemont, "From exemplar to copy: the scribal appropriation of a Hadewijch manuscript computationally explored", *Journal of Data Mining and Digital Humanities* (2023), [[doi]](https://doi.org/10.46298/jdmdh.10206).
+* Sperling, D.M.; Neyt, V. & Kestemont, M., "The authorship of Stephen King’s books written under the pseudonym “Richard Bachman”: a stylometric analysis", *Journal of Computational Literary Studies* 2 (1) 2023, p. 1-35 [[doi]](https://doi.org/10.48694/jcls.3594).
 
 
 ### 2022
-
 * Tanghe Koen B. & Kestemont Mike, "A peek behind a veil of anonymity: an addendum", *Bioscience* 72:8(2022), pp. 713-713 [[doi]](https://doi.org/10.1093/BIOSCI/BIAC049).
 * De Bruin, Elisabeth & Kestemont, Mike, "Vergeten ridderverhalen in *Science*", *Madoc. Tijdschrift over de Middeleeuwen*, 36:2 (2022), pp. 99-108.
 
