@@ -29,6 +29,11 @@ image:
 
 ## Journal papers
 
+### 2024
+* Moors, Sofie; Kestemont, Mike & Sleiderink, Remco. The Martijn Trilogy Manuscripts: an open dataset for analyzing scribal variation. *Research data journal for the humanities and social sciences* (2024) [[doi]](https://doi.org/10.1163/24523666-BJA10047
+).
+* Nielbo, Kristoffer L.; Karsdorp, Folgert; Wevers, Melvin; Lassche, Alie; Baglini, Rebekah B.; Kestemont, Mike & Tahmasebi, Nina. Quantitative text analysis. *Nature reviews methods primers* 4:1 (2024), 1-16 [[doi]](https://doi.org/10.1038/S43586-024-00302-W).
+* Lefranc, Lith; Van Damme, Ilja; Clérice, Thibault & Kestemont, Mike. ARletta : open-source handwritten text recognition models for historic Dutch. *Journal of Open Humanities Data* 10 (2024) [[doi]](https://doi.org/10.5334/JOHD.225).
 
 ### 2023
 * Nikolay Banar, Walter Daelemans & Mike Kestemont, "Transfer Learning for the Visual Arts: The Multi-Modal Retrieval of Iconclass Codes", *Journal on Computing and Cultural Heritage* (2023), [[doi]](https://doi.org/10.1145/3575865).
@@ -205,6 +210,15 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * De Mulder Alessandra, Fonteyn Lauren & Kestemont Mike, "Linguistic value construction in 18th-century London auction advertisements: a quantitative approach", in: *Proceedings of the Computational Humanities Research Conference 2022 (CHR 2022), 12-14 December, 2022, Antwerp, Belgium* - ISSN 1613-0073 - CEUR Workshop Proceedings 3 (2022), p. 92-113 [[pdf]](https://ceur-ws.org/Vol-3290/long_paper1591.pdf).
 * Margherita Parigini & Kestemont Mike, "The Roots of Doubt. Fine-tuning a BERT Model to Explore a Stylistic Phenomenon", in: *Proceedings of the Computational Humanities Research Conference 2022 (CHR 2022), 12-14 December, 2022, Antwerp, Belgium* - ISSN 1613-0073 - CEUR Workshop Proceedings  3 (2022), p. 72-91 [[pdf]](https://ceur-ws.org/Vol-3290/long_paper399.pdf).
 
+### 2023
+* Thomas Smits, Wouter Haverals, Loren Verreyen, Mona Allaert & Mike Kestemont. Greetings From! Extracting Address Information From 100,000 Historical Picture Postcards. *Proceedings of the Computational Humanities Research Conference 2023*. Paris, France, December 6-8, 2023 / Šeļa, Artjoms; Jannidis, Fotis & Romanowska, Iza (eds). Paris, Computational Humanities Research Conference, 2023, p. 512-529 [[pdf]](https://ceur-ws.org/Vol-3558/paper6180.pdf).
+* Wouter, Haverals & M. Kestemont, The Middle Dutch Manuscripts Surviving from the Carthusian Monastery of Herne (14th century): Constructing an Open Dataset of Digital Transcriptions. *Proceedings of the Computational Humanities Research Conference 2023*. Paris, France, December 6-8, 2023 / Šeļa, Artjoms; Jannidis, Fotis & Romanowska, Iza (eds.). Paris, Computational Humanities Research Conference, 2023, p. 135-152 [[pdf]](https://ceur-ws.org/Vol-3558/paper941.pdf).
+
+### 2024
+* Thibault Clérice, Ariane Pinche, Malamatenia Vlachou-Efstathiou, Alix Chagué, Jean-Baptiste Camps, Matthias Gille Levenson, Olivier Brisville-Fertin, Federico Boschetti, Franz Fischer, Michael Gervers, Agnès Boutreux, Avery Manton, Simon Gabay, Patricia O’Connor, Wouter Haverals, Mike Kestemont, Caroline Vandyck & Benjamin Kiessling. CATMuS Medieval: A Multilingual Large-Scale Cross-Century Dataset in Latin Script for Handwritten Text Recognition and Beyond. *2024 International Conference on Document Analysis and Recognition (ICDAR) 2024, p. 174–194 [[pdf]](https://link.springer.com/content/pdf/10.1007/978-3-031-70543-4.pdf) [[data]](https://huggingface.co/datasets/CATMuS/medieval).
+* Vandyck, Caroline & Kestemont, Mike. Abbreviation Application: A Stylochronometric Study of Abbreviations in the Oeuvre of Herne’s Speculum Scribe. *Proceedings of the Computational Humanities Research Conference 2024. Aarhus, Denmark, December 4-6, 2024.* Wouter Haverals, Marijn Koolen & Laure Thompson (eds.). Aarhus, Denmark, December 4-6, 2024 [[pdf]](https://ceur-ws.org/Vol-3834/paper15.pdf).
+* Karsdorp, Folgert; Kestemont, Mike & De Koster, Margo, Beyond the Register: Demographic Modeling of Arrest Patterns in 1879-1880 Brussels. *Proceedings of the Computational Humanities Research Conference 2024. Aarhus, Denmark, December 4-6, 2024.* Wouter Haverals, Marijn Koolen & Laure Thompson (eds.). Aarhus, Denmark, December 4-6, 2024 [[pdf]](https://ceur-ws.org/Vol-3834/paper13.pdf).
+
 
 ### Book contributions
 * Kestemont, M., 'Bloemlezen uit Velthem. Handschrift Wenen, Ö.N.B. Cod. 13.708 in Herne ten tijde van het Westers Schisma' ['An anthology of Velthem. The Vienna Codex in Hérinnes-les-Enghien during the Western Schism'], in: B. Besamusca; R. Sleiderink & G. Warnar (eds.), *De boeken van Velthem: auteur, oeuvre en overlevering*. Hilversum 2009, 251-266. Middeleeuwse studies en bronnen, 119.
@@ -220,6 +234,7 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Kestemont, M., Review of: *Macroanalysis. Digital Methods and Literary History*. By Matthew L. Jockers. In: *LLC. The Journal of Digital Scholarship in the Humanities* [advance access; doi:10.1093/llc/fqt056].
 * Kestemont, M., 'Data en de letteren' [review of: *Digitale geletterdheid. Dataverwerking in de geesteswetenschappen*. Tom Willaert, Dirk Speelman & Fred Truyen, Leuven: Leuven University Press, 2018], *Spiegel der Letteren* 61:2 (2019), p. 195-221. doi: 10.2143/SDL.61.2.3287337.
 * Kestemont, M., review of: Gregory Toner and Xiwu Han, *Language and Chronology: Text Dating by Machine Learning* (Brill, 2019), in: *Speculum* 96:2 (2021), pp. 572-573 [[DOI]](https://www.journals.uchicago.edu/doi/10.1086/713755).
+* Kestemont, M., review of: Warren, Michelle R. 2022. Holy Digital Grail. A Medieval Book on the  Internet. Stanford:  Stanford  University  Press. *SELIM. Journal of the Spanish Society for Medieval English Language and Literature* 29 (2024): 231–33 [[doi]](https://doi.org/10.17811/selim.29.2024.231-33).
 
 ### General public
 * Kestemont, M., 'EACL toont ook de muziek van de literatuur' ['EACL also Shows Music in Literature'], in *E-data & Research*8:3 (2014), p. 2.

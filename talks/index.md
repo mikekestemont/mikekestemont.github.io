@@ -261,6 +261,14 @@ models to the survival of culture", presented on several occasions:
 ### 2024
 * Kestemont, M., "The Abundance of Medieval Literature: An Eco-Computational Perspective". Invited talk at the Center for Digital Humanities and MARBAS. Princeton University, USA, 6 February 2024 [[link]](https://web.archive.org/save/https://www.princeton.edu/events/2024/mike-kestemont-abundance-medieval-literature-eco-computational-perspective).
 * Kestemont, M., "Post-Copyright Philology. A Computational Approach to Intertextuality and Success in Medieval literature". Invited talk at the Yale Lectures in Medieval Studies, Yale University (USA), 8 February 2024 [[link]](https://web.archive.org/save/https://medieval.yale.edu/yale-lectures-medieval-studies).
+* Kestemont, M., Stylometrie. Gastles Ba1-vak “Inleiding tot de digitale tekstanalyse”. Universiteit Gent. 6 May 2024.
+* Kestemont, M., "Modelling the popularity of medieval literature: the case of the chivalric narrative". Invited talk at The Lost Manuscripts of Medieval Europe: Modelling the Transmission of Texts Inaugural Event. Paris, France, 28-29 May 2024.
+* Kestemont M., "The Survival and Popularity of the Medieval Chivalric Romance". Invited talk at the ‘Lost Texts’ Colloquium. KULeuven, 4 September 2024. 
+* Mike Kestemont and Folgert Karsdorp, with Elisabeth de Bruijn, Matthew Driscoll, Katarzyna A. Kapitan,
+Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink & Anne Chao, "Forgotten Books. The application of unseen species
+models to the survival of culture". Guest talk in the department of philology at Napels University with Thibault Clérice. Naples, Italy, 24 October 2024.
+* Kestemont M., "Editie de Heber-Serrurecodex". Editiedag Universiteit, Leiden, 19 november 2024.
+
 
 
 ## Posters
