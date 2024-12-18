@@ -34,6 +34,7 @@ image:
 ).
 * Nielbo, Kristoffer L.; Karsdorp, Folgert; Wevers, Melvin; Lassche, Alie; Baglini, Rebekah B.; Kestemont, Mike & Tahmasebi, Nina. Quantitative text analysis. *Nature reviews methods primers* 4:1 (2024), 1-16 [[doi]](https://doi.org/10.1038/S43586-024-00302-W).
 * Lefranc, Lith; Van Damme, Ilja; Clérice, Thibault & Kestemont, Mike. ARletta : open-source handwritten text recognition models for historic Dutch. *Journal of Open Humanities Data* 10 (2024) [[doi]](https://doi.org/10.5334/JOHD.225).
+* Vandyck, Caroline & Kestemont, Mike, 'Een auteur van formaat. Een attributie-onderzoek naar het oeuvre van de Limborch-dichter'. *Spiegel der letteren* 66:2 (2024), 111-167 [[doi]](https://doi.org/10.2143/SDL.66.2.3293546).
 
 ### 2023
 * Nikolay Banar, Walter Daelemans & Mike Kestemont, "Transfer Learning for the Visual Arts: The Multi-Modal Retrieval of Iconclass Codes", *Journal on Computing and Cultural Heritage* (2023), [[doi]](https://doi.org/10.1145/3575865).
