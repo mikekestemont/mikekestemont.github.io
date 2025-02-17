@@ -30,6 +30,7 @@ image:
 ## Journal papers
 
 ### 2024
+* Kestemont, M., "Friendship, Calm, Justice, and Peace: Re-reading the Heber-Serrure Manuscript (Ghent, UL, Ms. 1374) in Its Historic Context". *Quaerendo* 55:1 (2024), 17-42 [[doi]](https://doi.org/10.1163/15700690-bja10030).
 * Moors, Sofie; Kestemont, Mike & Sleiderink, Remco. The Martijn Trilogy Manuscripts: an open dataset for analyzing scribal variation. *Research data journal for the humanities and social sciences* (2024) [[doi]](https://doi.org/10.1163/24523666-BJA10047
 ).
 * Nielbo, Kristoffer L.; Karsdorp, Folgert; Wevers, Melvin; Lassche, Alie; Baglini, Rebekah B.; Kestemont, Mike & Tahmasebi, Nina. Quantitative text analysis. *Nature reviews methods primers* 4:1 (2024), 1-16 [[doi]](https://doi.org/10.1038/S43586-024-00302-W).
