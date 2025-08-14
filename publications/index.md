@@ -29,6 +29,9 @@ image:
 
 ## Journal papers
 
+### 2025
+* Kestemont, M., "Zwerfverzen. De computationele detectie van intertekstualiteit in de Middelnederlandse epiek" In: *Tijdschrift voor Nederlandse Taal- en Letterkunde* 141:2 (2025), p. 87-125 [[doi]](https://doi.org/10.5117/TNTL2025.2.001.KEST).
+
 ### 2024
 * Kestemont, M., "Friendship, Calm, Justice, and Peace: Re-reading the Heber-Serrure Manuscript (Ghent, UL, Ms. 1374) in Its Historic Context". *Quaerendo* 55:1 (2024), 17-42 [[doi]](https://doi.org/10.1163/15700690-bja10030).
 * Moors, Sofie; Kestemont, Mike & Sleiderink, Remco. The Martijn Trilogy Manuscripts: an open dataset for analyzing scribal variation. *Research data journal for the humanities and social sciences* (2024) [[doi]](https://doi.org/10.1163/24523666-BJA10047
