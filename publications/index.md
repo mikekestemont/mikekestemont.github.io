@@ -29,6 +29,10 @@ image:
 
 ## Journal papers
 
+### 2026
+* Kestemont Mike, Karsdorp Folgert, Camps Jean-Baptiste, Sleiderink Remco and Chao Anne, 'Saved in translation? Diversity shared in French and Dutch medieval literature'. *Evolutionary human sciences* 8(2026), e7, ISSN 2513-843X. [[doi]](https://doi.org/10.1017/EHS.2026.10036).
+* Kestemont, M., 'Hoe taai zijn boeken?', *Karakter. Tijdschrift van wetenschap* 93(2026) ISSN 1379-0390, p. 15-18.
+
 ### 2025
 * Kestemont, M., "Zwerfverzen. De computationele detectie van intertekstualiteit in de Middelnederlandse epiek" In: *Tijdschrift voor Nederlandse Taal- en Letterkunde* 141:2 (2025), p. 87-125 [[doi]](https://doi.org/10.5117/TNTL2025.2.001.KEST).
 
@@ -240,6 +244,7 @@ Ideological Implications of the Computational Attribution of the Dutch National 
 * Kestemont, M., 'Data en de letteren' [review of: *Digitale geletterdheid. Dataverwerking in de geesteswetenschappen*. Tom Willaert, Dirk Speelman & Fred Truyen, Leuven: Leuven University Press, 2018], *Spiegel der Letteren* 61:2 (2019), p. 195-221. doi: 10.2143/SDL.61.2.3287337.
 * Kestemont, M., review of: Gregory Toner and Xiwu Han, *Language and Chronology: Text Dating by Machine Learning* (Brill, 2019), in: *Speculum* 96:2 (2021), pp. 572-573 [[DOI]](https://www.journals.uchicago.edu/doi/10.1086/713755).
 * Kestemont, M., review of: Warren, Michelle R. 2022. Holy Digital Grail. A Medieval Book on the  Internet. Stanford:  Stanford  University  Press. *SELIM. Journal of the Spanish Society for Medieval English Language and Literature* 29 (2024): 231–33 [[doi]](https://doi.org/10.17811/selim.29.2024.231-33).
+* Kestemont, M., review of: Andrea Nini, *A theory of linguistic individuality for authorship analysis* (Elements in Forensic Linguistics). Cambridge: Cambridge University Press, 2023, in: *English language and linguistics* 30:1(2026), p. 219-222 [[doi]](https://doi.org/10.1017/S1360674324000704).
 
 ### General public
 * Kestemont, M., 'EACL toont ook de muziek van de literatuur' ['EACL also Shows Music in Literature'], in *E-data & Research*8:3 (2014), p. 2.
