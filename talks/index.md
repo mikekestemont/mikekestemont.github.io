@@ -259,6 +259,7 @@ models to the survival of culture", presented on several occasions:
 * Kestemont, M., "Negotiating Novelty. The computational study of formulaicness in medieval narrative fiction". Invited talk at "Charting the Future of Historical Humanities", LECTIO roundtables 2023–2024, "From Data to Interpretation" interdisciplinarity. KULeuven, 11 October 2023 [[link]](https://www.kuleuven.be/lectio/events/from-data-to-interpretation).
 
 ### 2024
+
 * Kestemont, M., "The Abundance of Medieval Literature: An Eco-Computational Perspective". Invited talk at the Center for Digital Humanities and MARBAS. Princeton University, USA, 6 February 2024 [[link]](https://web.archive.org/save/https://www.princeton.edu/events/2024/mike-kestemont-abundance-medieval-literature-eco-computational-perspective).
 * Kestemont, M., "Post-Copyright Philology. A Computational Approach to Intertextuality and Success in Medieval literature". Invited talk at the Yale Lectures in Medieval Studies, Yale University (USA), 8 February 2024 [[link]](https://web.archive.org/save/https://medieval.yale.edu/yale-lectures-medieval-studies).
 * Kestemont, M., Stylometrie. Gastles Ba1-vak “Inleiding tot de digitale tekstanalyse”. Universiteit Gent. 6 May 2024.
@@ -268,6 +269,16 @@ models to the survival of culture", presented on several occasions:
 Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink & Anne Chao, "Forgotten Books. The application of unseen species
 models to the survival of culture". Guest talk in the department of philology at Napels University with Thibault Clérice. Naples, Italy, 24 October 2024.
 * Kestemont M., "Editie de Heber-Serrurecodex". Editiedag Universiteit, Leiden, 19 november 2024.
+
+### 2025
+
+* Mike Kestemont and Folgert Karsdorp, 'The application of unseen species models in history: correcting registration bias in nineteenth-century police reports from Brussels'. Invited lecture at the Humboldt-Universität zu Berlin, Germany, within the Open Research Colloquium Digital History. 29 January 2025 [[link]](https://dhistory.hypotheses.org/9525).
+* Mike Kestemont et al., 'The persistence of Greek cultural production over three millennia: An eco-computational approach to estimating the number of forgotten authors'. Keynote, presented as LECTIO Visiting Fellow, at 10 Years of KU Leuven MA in Digital Humanities. 26 May 2026 [[link]](https://www.kuleuven.be/lectio/events/lecture-unobservable-histories-ecological-approaches-to-estimating-losses-in-cultural-history-by-mike-kestemont).
+
+
+### 2026
+
+* Mike Kestemont and Folgert Karsdorp, 'Forgotten knights, missing sailors, and hidden translations: the abundance of what was lost'. Keynote presentation at DHNB2026 ('Lost in Abundance: Encounters with the Non-Canonical', March 9-13 2026, Aarhus University (Denmark) [[link]](https://dhnb.eu/conferences/dhnb2026/).
 
 
 
