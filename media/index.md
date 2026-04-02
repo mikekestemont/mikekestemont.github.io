@@ -21,6 +21,17 @@ image:
 
 ## Online talks
 
+### Podcast: Klopt er iets van de complottheorieën in de boeken van Dan Brown?
+
+[Here](https://www.universiteitvanvlaanderen.be/podcast/klopt-er-iets-van-de-complottheorieen-in-de-boeken-van-dan-brown) you can listen to a Dutch-language podcast conversation which I had on the occasion of the publication of the new Dan Brown thriller (*The Secret of Secrets*/*Het ultieme geheim*, 
+Luitingh Sijthoff, 2025) for the *Universiteit van Vlaanderen*. (I should admit that I am a long-standing reader of his work!)
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/08Kl3De66vQsykIorkdktm/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### Radio interview: Het mysterie van de middeleeuwse ridderroman
+
+[[Here]](https://www.nporadio1.nl/podcasts/ovt/101956/2e-uur-het-mysterie-van-de-verdwenen-ridderromans-boeken-het-spoor-terug-de-spanjestrijders-en-ik-3-actie-21-01-2024) you can listen to an interview with us on a Dutch-language NPRO radio show, on the occasion of our book with Uitgeveirj Letterwerk.
+
 ### Science (2022): Author Explanation Video [en]
 
 Here you can watch the English-language author explanation video which we made to support our 2022 *Science* paper on "Forgotten books", featuring many of the authors involved, next to clips of gorgeous medieval manuscripts:
